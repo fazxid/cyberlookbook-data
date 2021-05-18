@@ -1,1088 +1,1088 @@
-id,type,set,name
-Items.Balaclava_01_basic_01,Head, -,Ordinary Tactical Balaclava With Reactive Layering
-Items.Balaclava_01_basic_02,Head, -,Darra Polytechnic Tactical Balaclava
-Items.Balaclava_01_old_01,Head, -,Balaclava With Schock Absorbent Composite Layering
-Items.Balaclava_01_old_02,Head, -,Nami Balaclava With Polyamide-Insulated Lining
-Items.Balaclava_01_rich_01,Head, -,Thermo-Impulse Anti-Shrapnel Balaclava
-Items.Balaclava_01_rich_02,Head, -,'Saeko''s Darkernet Tactical Balaclava With Nanotubing'
-Items.Boots_01_basic_01,Feet, -,Reinforced Uniware Platform Boots
-Items.Boots_01_old_01,Feet, -,Titanium-Layer Platform Boots
-Items.Boots_01_rich_01,Feet, -,Street Queen Platform Boots Reinforced Stitching
-Items.Boots_02_basic_01,Feet, -,Comfy Hardened-Leather Western Shorties
-Items.Boots_02_basic_02,Feet, -,Varnished Rocker Shorties With Extra Protection
-Items.Boots_02_old_01,Feet, -,Worn-Leather Western Shorties
-Items.Boots_02_old_02,Feet, -,Worn Biker Shorties Composite Inserts
-Items.Boots_02_rich_001,Feet, -,Bulletproof Sheriff Western Shorties
-Items.Boots_02_rich_02,Feet, -,Gunslinger Western Shorties With Titanium Inserts
-Items.Boots_03_basic_01,Feet, -,Heavy-Duty Biker Boots
-Items.Boots_03_basic_02,Feet, -,Reinforced Biker Boots
-Items.Boots_03_old_01,Feet, -,Weathered Combat Boots
-Items.Boots_03_old_02,Feet, -,Rubber-Reinforced Tactical Boots
-Items.Boots_03_rich_01,Feet, -,Light Speed Biker Boots With Nanoarmor Fabric
-Items.Boots_03_rich_02,Feet, -,Sturdy Orchid Dawn Synleather Biker Boots
-Items.Boots_04_basic_01,Feet, -,Steel-Toe Rocker Boots
-Items.Boots_04_basic_02,Feet, -,Classic Molybdenum Steel-Toe Combat Boots
-Items.Boots_04_basic_03,Feet, -,Heavy-Duty New Murica Combat Boots
-Items.Boots_04_old_01,Feet, -,Used Leather Combat Boots
-Items.Boots_04_old_02,Feet, -,Titanium-Fitted Polyamide Combat Boots
-Items.Boots_04_old_03,Feet, -,Hardened Tungsten Steel-Toe Combat Boots
-Items.Boots_05_basic_01,Feet, -,Breathable Icon America Fleets
-Items.Boots_05_basic_02,Feet, -,Ultralight Fleets Composite Lining
-Items.Boots_05_basic_03,Feet, -,Heavy-Duty Punk Fleets
-Items.Boots_05_old_01,Feet, -,Muddy Fleets
-Items.Boots_05_old_02,Feet, -,Used Synleather Fleets
-Items.Boots_05_old_03,Feet, -,Reinforced Plastic Fleets
-Items.Boots_05_rich_01,Feet, -,At-Ak Strong-Quilted Bubblegum Puffed Fleets
-Items.Boots_06_basic_01,Feet, -,Heat-Resistant Military Boots
-Items.Boots_06_basic_02,Feet, -,Sporty Flexiweave Work Boots
-Items.Boots_06_old_01,Feet, -,Polyamide-Lined Work Boots
-Items.Boots_06_old_02,Feet, -,Frayed Underwater Work Boots
-Items.Boots_06_rich_01,Feet, -,Rostiger Teich Thermoactive Puffed Work Boots
-Items.Boots_06_rich_02,Feet, -,Light Star Trail Chem-Resistant Work Boots
-Items.Boots_07_basic_01,Feet, -,Glitter Laceless Sturdy-Stitched Steel-Toes
-Items.Boots_07_basic_02,Feet, -,Camo Aramid-Weave Steel-Toes
-Items.Boots_07_old_01,Feet, -,Sturdy Manganese Steel-Toes
-Items.Boots_07_old_02,Feet, -,Faded Cirqt Laceless Steel-Toes
-Items.Boots_07_old_03,Feet, -,Havskum Carbon-Fiber Steel-Toes
-Items.Boots_07_rich_01,Feet, -,Claret Shine Armored Laceless Steel-Toes
-Items.Boots_07_rich_02,Feet, -,Stylish Rock Garden Tungsten-Alloy Steel-Toes
-Items.Boots_08_basic_01,Feet, -,Padded Strappers Aluminum Inserts
-Items.Boots_08_basic_02,Feet, -,Reinforced Sudo Biker Boots
-Items.Boots_08_old_01,Feet, -,Repurposed Military Boots
-Items.Boots_08_old_02,Feet, -,Boosted Military Strappers
-Items.Boots_08_rich_01,Feet, -,Carbon-Composite Neko-Ka Strappers
-Items.Boots_09_basic_01,Feet, -,Heavy-Duty Biker Exo-Jacks
-Items.Boots_09_basic_02,Feet, -,Trendy Ultralight Exo-Jacks
-Items.Boots_09_old_01,Feet, -,Composite Punk Exo-Jacks
-Items.Boots_09_old_02,Feet, -,Worn Exo-Jacks
-Items.Boots_09_rich_01,Feet, -,Militoxic Ceramic-Layer Combat Exo-Jacks
-Items.Boots_09_rich_02,Feet, -,Multilayered Kasen Exo-Jacks With Anti-Shrapnel Lining
-Items.Boots_09_rich_03,Feet, -,Reinforced Rouge Absurde Exo-Jacks With Defensive Nanotubing
-Items.Boots_10_basic_01,Feet, -,Western Star Cowboy Boots With Thick Synthetic Heels
-Items.Boots_10_basic_02,Feet, -,Worn Traditional Cowboy Boots
-Items.Boots_10_old_01,Feet, -,Rubber-Reinforced Cowboy Boots
-Items.Boots_10_old_02,Feet, -,Reinforced Snake-Skin Cowboy Boots
-Items.Boots_10_rich_01,Feet, -,Ghost Town Cowboy Boots With Heat-Resistant Heels
-Items.Boots_10_rich_02,Feet, -,Trendy Lonely Luke Cowboy Boots With Protective Mesh
-Items.Boots_11_basic_01,Feet, -,Light Pink Snow Boots With Protective Mesh
-Items.Boots_11_basic_02,Feet, -,Yuki Snow Boots With Reinforced Lining
-Items.Boots_11_old_01,Feet, -,Anti-Chem Winter Work Boots
-Items.Boots_11_old_02,Feet, -,Repaired Zolotoy Pukh Snow Boots
-Items.Boots_11_rich_01,Feet, -,Pixel Neige Snow Boots With Canvas Duolayer
-Items.Boots_11_rich_02,Feet, -,Pinku Inku Snow Boots Thermoactive Insoles
-Items.Cap_01_basic_01,Head, -,Darra Polytechnic Cap
-Items.Cap_01_basic_02,Head, -,Limited-Edition Daemon Hunter Cap
-Items.Cap_01_basic_03,Head, -,Reinforced Baseball Cap
-Items.Cap_01_old_01,Head, -,Worn Baseball Cap
-Items.Cap_01_old_02,Head, -,Braindance Cap
-Items.Cap_01_old_03,Head, -,Worn Samurai Cap
-Items.Cap_01_rich_01,Head, -,St33t Dandy Composite-Coated Cap
-Items.Cap_01_rich_02,Head, -,Durable Urban Soul Cap With Rubber Inserts
-Items.Cap_01_rich_03,Head, -,Bitch V.13 Cap With Titanium Microplate Mesh
-Items.Cap_02_basic_01,Head, -,Stylish Leather Flat Cap With Light Armor Layer
-Items.Cap_02_basic_02,Head, -,Classic Hardened-Leather Flat Cap
-Items.Cap_02_basic_03,Head, -,Flat Cap With Reinforced Seams
-Items.Cap_02_old_01,Head, -,Sturdy Plaid Flat Cap
-Items.Cap_02_old_02,Head, -,Faded Nusa Flat Cap
-Items.Cap_02_old_03,Head, -,Plain Secondhand Flat Cap
-Items.Cap_03_basic_01,Head, -,Mox Beanie
-Items.Cap_03_basic_02,Head, -,Aztec Winter Beanie
-Items.Cap_03_old_01,Head, -,Worn Beanie
-Items.Cap_03_old_02,Head, -,Old Smiley Hard Hat
-Items.Cap_03_rich_01,Head, -,Kinryu Beanie With Titanium Sequins
-Items.Cap_03_rich_02,Head, -,Durable Emerald Speed Polyamide Beanie
-Items.Cap_04_basic_01,Head, -,Trauma Team Cap With Headset
-Items.Cap_04_basic_02,Head, -,Certified Cap With Camera
-Items.Cap_04_old_01,Head, -,Cap With Makeshift Camera
-Items.Cap_04_old_02,Head, -,Arasaka Cap With Camera
-Items.Cap_04_rich_01,Head, -,Kang Tao Field Cap Holodisplay
-Items.Cap_05_basic_01,Head, -,Carbon-Fiber Arasaka Side Cap
-Items.Cap_05_basic_02,Head, -,Classic Side Cap With Strengthened Polyamide
-Items.Cap_05_basic_03,Head, -,'Officer''s Side Cap With Reinforced Plastic'
-Items.Cap_05_old_01,Head, -,6th Street Side Cap
-Items.Cap_05_old_02,Head, -,Maelstrom Side Cap
-Items.Cap_06_basic_01,Head, -,Cotton Motorcycle Cap With Protective Inset
-Items.Cap_06_basic_02,Head, -,Insulated Cap With Protective Goggles
-Items.Cap_06_old_01,Head, -,Smiley Hard Pilot Cap
-Items.Cap_06_old_02,Head, -,Old Motorcycle Cap
-Items.Cap_06_rich_01,Head, -,'Tell Me I''m Cute Pilot Cap With Technopolymer Goggles'
-Items.Cap_06_rich_02,Head, -,Golden Bough Pilot Cap With Composite Exterior
-Items.CasualShoes_01_basic_01,Feet, -,Sunny Ammo Synthetic High-Tops
-Items.CasualShoes_01_basic_02,Feet, -,Blackwall Synthetic Punk High-Tops
-Items.CasualShoes_01_basic_03,Feet, -,Turquoisewall Composite Punk High-Tops
-Items.CasualShoes_01_basic_04,Feet, -,Practical Aramid-Fiber High-Tops
-Items.CasualShoes_01_basic_05,Feet, -,Street Tactical-Fiber High-Tops
-Items.CasualShoes_01_old_01,Feet, -,Worn Aramid High-Tops
-Items.CasualShoes_01_old_02,Feet, -,Rubber-Reinforced Work High-Tops
-Items.CasualShoes_02_basic_01,Feet, -,Enhanced Daemon Hunter Tongues
-Items.CasualShoes_02_basic_02,Feet, -,Milky Trail Ceramic Alloy Canvas Tongues
-Items.CasualShoes_02_old_01,Feet, -,Carbon Reinforced Tongues
-Items.CasualShoes_02_old_02,Feet, -,Anti-Puncture Nanoweave Tongues
-Items.CasualShoes_04_basic_01,Feet, -,Cut3 Brainzz Tear-Proof Sneakers
-Items.CasualShoes_04_basic_02,Feet, -,Darra Polytechnic Suede Sneakers
-Items.CasualShoes_04_old_01,Feet, -,Sneakers With Protective Inserts
-Items.CasualShoes_04_old_02,Feet, -,Threadbare Sneakers
-Items.CasualShoes_05_basic_01,Feet, -,Electric Marble Ultralight Athletic Shoes
-Items.CasualShoes_05_basic_02,Feet, -,Yukihyo Polycarbonate Athletic Shoes
-Items.CasualShoes_05_basic_03,Feet, -,Green Graffiti Armor-Coated Athletic Shoes
-Items.CasualShoes_05_old_01,Feet, -,Used Militech Training Shoes
-Items.CasualShoes_05_old_02,Feet, -,Rubber-Reinforced Athletic Shoes
-Items.CasualShoes_05_old_03,Feet, -,Frayed Athletic Shoes
-Items.CasualShoes_05_rich_01,Feet, -,Pastel Power Hybrid-Fabric Armored Athletic Shoes
-Items.CasualShoes_05_rich_02,Feet, -,Team Captain Rigid-Polyamide Athletic Shoes
-Items.CasualShoes_05_rich_03,Feet, -,Rainbow Racer Heat-Resistant Shoes With Breathable Lining
-Items.CasualShoes_06_basic_01,Feet, -,Street Shoes With Multilayered Protection
-Items.CasualShoes_06_basic_02,Feet, -,Rigid Tigre Urbain Street Shoes
-Items.CasualShoes_06_old_01,Feet, -,Aramid-Lined Street Shoes
-Items.CasualShoes_06_old_02,Feet, -,Shock-Absorbent Street Shoes
-Items.CasualShoes_06_rich_01,Feet, -,Chaman Metallique Street Shoes With Thermoactive Alloys
-Items.CasualShoes_06_rich_02,Feet, -,Glamor Spirit Street Shoes With Reinforced Insoles
-Items.CasualShoes_07_basic_01,Feet, -,Robust Spunky Monkey Kicks
-Items.CasualShoes_07_basic_02,Feet, -,Licks Kicks With Recycled Resistant Materials
-Items.CasualShoes_07_basic_03,Feet, -,Bermuda Triangle Kicks With Reinforced Lining
-Items.CasualShoes_07_basic_04,Feet, -,Magenta Kicks With Reinforced Stitching
-Items.CasualShoes_07_old_01,Feet, -,Incon America Synfiber Kicks
-Items.CasualShoes_07_old_02,Feet, -,New Murica Carbonweave Kicks
-Items.CasualShoes_07_old_03,Feet, -,Worn Spunky Monkey Kicks
-Items.CasualShoes_07_rich_01,Feet, -,Kashuu Hanten Kicks With Modified Polyamide
-Items.CasualShoes_07_rich_02,Feet, -,Bitch V.13 Kicks With Tungsten-Steel Sequins
-Items.CasualShoes_07_rich_03,Feet, -,Yoru No Samurai Kicks With Carbon-Fiber Layering
-Items.Coat_01_basic_01,Outer Torso, -,Spunky Monkey Aramid Coat
-Items.Coat_01_basic_02,Outer Torso, -,At-Ak Reinforced Biker Coat
-Items.Coat_01_basic_03,Outer Torso, -,Stylish Ten70 Daemon Hunter Coat
-Items.Coat_01_old_01,Outer Torso, -,Worn Punk Coat
-Items.Coat_01_old_02,Outer Torso, -,Puncture-Resistant Long Coat
-Items.Coat_01_old_03,Outer Torso, -,Burn Corpo Shit Duolayer Coat
-Items.Coat_01_rich_01,Outer Torso, -,Golden Mean Hybrid-Weave Flame-Resistant Coat
-Items.Coat_01_rich_02,Outer Torso, -,Canine Power Polyamide Trilayer Coat
-Items.Coat_01_rich_03,Outer Torso, -,Stylish Tora To Ryu Coat With Titanium Inserts
-Items.Coat_02_basic_01,Outer Torso, -,Duolayer Nylon Vest
-Items.Coat_02_basic_02,Outer Torso, -,Composite-Lined Long Vest Pattern
-Items.Coat_02_old_01,Outer Torso, -,Armor-Weave Long Vest
-Items.Coat_02_old_02,Outer Torso, -,Dated Long Vest
-Items.Coat_02_old_03,Outer Torso, -,Heat-Resistant Long Vest
-Items.Coat_02_old_04,Outer Torso, -,Durable Plastic-Weave Long Vest
-Items.Coat_03_basic_01,Outer Torso, -,Durable Synthetic Biker Coat
-Items.Coat_03_basic_02,Outer Torso, -,Kyuketsuki Flame-Resistant Polyamide Rocker Coat
-Items.Coat_03_old_01,Outer Torso, -,Stained Puncture-Resistant Coat
-Items.Coat_03_old_02,Outer Torso, -,Wraiths Coat With Improvised Bulletproof Lining
-Items.Coat_03_old_03,Outer Torso, -,6th Street Combat-Tailored Biker Coat
-Items.Coat_03_rich_01,Outer Torso, -,Molto Vivace Nanoweave Rocker Coat
-Items.Coat_03_rich_02,Outer Torso, -,Heavy Hybrid-Armor Trickster Coat
-Items.Coat_04_basic_01,Outer Torso, -,Ultralight Shine Spectrum Trench Coat
-Items.Coat_04_basic_02,Outer Torso, -,Polka Dot Trench Coat Puncture-Resistant Lining
-Items.Coat_04_basic_03,Outer Torso, -,Koumori Synleather Trench Coat
-Items.Coat_04_old_01,Outer Torso, -,Old Spotted Trench Coat
-Items.Coat_04_old_02,Outer Torso, -,Timeworn Trench Coat
-Items.Coat_04_rich_01,Outer Torso, -,Fairy Frost Trench Coat With Protective Mesh
-Items.Coat_04_rich_02,Outer Torso, -,Milky Gold Trench Coat With Bulletproof Triweave
-Items.Cop_01_Set_Boots,Feet,police,Waterproof Badge Combat Boots
-Items.Cop_01_Set_Glasses,Face,police,Holo-Tinted Badge Goggles
-Items.Cop_01_Set_Jacket,Outer Torso,police,Heavy-Duty Aramid-Reinforced Badge Coat
-Items.Cop_01_Set_Pants,Legs,police,Anti-Puncture Neotac Pants With Composite Lining
-Items.Corporate_01_Set_FormalJacket,Outer Torso,corpo,Corporate Blazer With Bulletproof Linings
-Items.Corporate_01_Set_FormalShirt,Chest,corpo,Carbonweave Silk Corporate Shirt
-Items.Corporate_01_Set_FormalShoes,Feet,corpo,Ergonomic Reinforced Corporate Pumps
-Items.Corporate_01_Set_Glasses,Face,corpo,Tactical Hybrid-Glass Corporate Glasses
-Items.Corporate_01_Set_Pants,Legs,corpo,Breathabe Reinforced Bio-Cotton Corporate Slaps
-Items.Dress_01_basic_01,Outer Torso, -,Victorian Rose Anti-Shrapnel Pencil Dress
-Items.Dress_01_basic_02,Outer Torso, -,Rozovaya Reka Pencil Dress With Protective Membrane
-Items.Dress_01_basic_03,Outer Torso, -,Elegant Hybrid-Lining Pencil Dress
-Items.Dress_01_rich_01,Outer Torso, -,Lady In White Hybrid-Weave Pencil Dress
-Items.Dress_01_rich_02,Outer Torso, -,Demon Rhapsody Reactive-Layer Pencil Dress
-Items.Dress_01_rich_03,Outer Torso, -,Green Viper Double-Nanoweave Pencil Dress
-Items.Dress_02_basic_01,Outer Torso, -,Durable Synweave Corporate Dress
-Items.Dress_02_basic_02,Outer Torso, -,Arasaka Polyamide Corpo-Skirt
-Items.Dress_02_basic_03,Outer Torso, -,Spotted Armor-Coated Corpo-Skirt
-Items.Dress_02_rich_01,Outer Torso, -,Phoenix Formal Dress With Microarmor Layer
-Items.Dress_02_rich_02,Outer Torso, -,Brass Harmony Composite-Reinforced Formal Dress
-Items.Dress_02_rich_03,Outer Torso, -,Schwarze Limette Aramid-Fabric Dress
-Items.Fixer_01_Set_Coat,Outer Torso,fixer,Trilayer Aramid-Weave Fixer Skirt With Jacket
-Items.Fixer_01_Set_FormalShoes,Feet,fixer,Elastiweave Fixer Pumps With Reinforced Seams
-Items.Fixer_01_Set_Glasses,Face,fixer,Plycarbonate Opti-Enhanced Fixer Glasses
-Items.Fixer_01_Set_Pants,Legs,fixer,Protective-Layer Fixer Skirt
-Items.Fixer_01_Set_TShirt,Chest,fixer,Heat-Resistant Aramid-Weave Fixer Bustier
-Items.FormalJacket_01_basic_01,Outer Torso, -,Polyamide-Blend Suit Jacket
-Items.FormalJacket_01_basic_02,Outer Torso, -,Wool Suit Jacket With Reinforced Synfiber-Weave
-Items.FormalJacket_01_old_01,Outer Torso, -,Sturdy Synfabric Suit Jacket
-Items.FormalJacket_01_old_02,Outer Torso, -,Aramid-Weave Suit Jacket
-Items.FormalJacket_01_rich_01,Outer Torso, -,Marbre Doré Suit Jacket With Discreet Bulletproof Lining
-Items.FormalJacket_01_rich_02,Outer Torso, -,Mosaic Gleam Blazer With Puncture-Resistant Mesh
-Items.FormalJacket_02_basic_01,Outer Torso, -,Arasaka Polycarbonate Corporate Blazer
-Items.FormalJacket_02_basic_02,Outer Torso, -,Durable Synsilk Blazer
-Items.FormalJacket_02_basic_03,Outer Torso, -,Powder Pink Light Polyamide Blazer
-Items.FormalJacket_02_rich_01,Outer Torso, -,Lilla Natt Composite-Leather Rocker Blazer
-Items.FormalJacket_02_rich_02,Outer Torso, -,Diamant Noir Carbon-Reinforced Corporate Blazer
-Items.FormalJacket_02_rich_03,Outer Torso, -,Elegant Caret Cassico Blazer With Nanotube Stripes
-Items.FormalJacket_03_basic_01,Outer Torso, -,Comfortable Midori Biofabric Cocktail Jacket
-Items.FormalJacket_03_basic_02,Outer Torso, -,Syncotton Cocktail Jacket
-Items.FormalJacket_03_basic_03,Outer Torso, -,Hardy Dandylion Cocktail Jacket
-Items.FormalJacket_03_rich_01,Outer Torso, -,Feline Fury Flame-Resistant Cocktail Jacket
-Items.FormalJacket_03_rich_02,Outer Torso, -,Red Dragon Cocktail Jacket With Titanium Microplate Lining
-Items.FormalJacket_03_rich_03,Outer Torso, -,Orchid Snake Nanotube-Triweave Cocktail Jacket
-Items.FormalJacket_04_basic_01,Outer Torso, -,Light Synfiber Evening Jacket
-Items.FormalJacket_04_basic_02,Outer Torso, -,Cyan Multiresist Evening Jacket
-Items.FormalJacket_04_basic_03,Outer Torso, -,Thick Double Knit Evening Jacket
-Items.FormalJacket_04_rich_01,Outer Torso, -,Gatto Nero Evening Jacket With Tungsten-Steel Microplates
-Items.FormalJacket_04_rich_02,Outer Torso, -,Scaled Kinryu Blazer With Carbon-Composite Insets
-Items.FormalJacket_04_rich_03,Outer Torso, -,Noble White Albino Alligator Evening Jacket
-Items.FormalJacket_05_basic_01,Outer Torso, -,Synthetic Corporate Jacket
-Items.FormalJacket_05_basic_02,Outer Torso, -,Arasaka Formal Jacket With Light Armorplating
-Items.FormalJacket_05_basic_03,Outer Torso, -,Formal Jacket Composite Insets
-Items.FormalJacket_05_rich_01,Outer Torso, -,Bai Long High-Alloy Steel-Sequined Jacket
-Items.FormalJacket_05_rich_02,Outer Torso, -,Yunami Formal Hybrid Duoweave Jacket
-Items.FormalJacket_05_rich_03,Outer Torso, -,Golden Hive Formal Antichem Membrane Jacket
-Items.FormalPants_01_basic_01,Legs, -,Sturdy Synfiber Pleated Pants
-Items.FormalPants_01_basic_02,Legs, -,Classic Composite-Lined Pleated Pants
-Items.FormalPants_01_basic_03,Legs, -,Durable Bioweave Pleated Pants
-Items.FormalPants_01_old_01,Legs, -,Reinforced Anti-Puncture Pleated Pants
-Items.FormalPants_01_old_02,Legs, -,Tacticloth Pleated Pants
-Items.FormalPants_02_basic_01,Legs, -,Classic Immuno-Cotton Corporate Pants
-Items.FormalPants_02_basic_02,Legs, -,Classy Bordeaux Pants With Fortified Seams
-Items.FormalPants_02_basic_03,Legs, -,Flash Formal Pants With Additional Lining
-Items.FormalPants_02_rich_01,Legs, -,Bai Long Formal Pants With Reinforced Neo-Silk
-Items.FormalPants_02_rich_02,Legs, -,Royal Gray Aramid-Weave Dress Pants
-Items.FormalPants_02_rich_03,Legs, -,Golden Hive Polyamide Designer Pants
-Items.FormalPants_03_basic_01,Legs, -,Simple Office Pants
-Items.FormalPants_03_old_01,Legs, -,Multilayer Custom-Print Pants
-Items.FormalPants_03_old_02,Legs, -,Speed Addict Polyamide Pants
-Items.FormalPants_03_rich_01,Legs, -,Imperial Marble Aramid-Weave Formal Pants
-Items.FormalPants_03_rich_02,Legs, -,Uniware Brass Office Pants With Membrane Support
-Items.FormalShirt_01_basic_01,Chest, -,Tear-Resistant Office Shirt And Vest
-Items.FormalShirt_01_basic_02,Chest, -,Reinforced Breathable Dress Shirt
-Items.FormalShirt_01_basic_03,Chest, -,Stylish Double-Weave Shirt And Vest
-Items.FormalShirt_01_old_01,Chest, -,Cowboy Shirt And Vest
-Items.FormalShirt_01_old_02,Chest, -,Classy Pastel Shirt And Vest
-Items.FormalShirt_01_old_03,Chest, -,Penguin Dress Shirt And Vest
-Items.FormalShirt_01_rich_01,Chest, -,Dandy Classico Shirt With Fibrotube Weave
-Items.FormalShirt_01_rich_02,Chest, -,Abrasion-Resistant Trickster Dress Shirt & Vest
-Items.FormalShirt_01_rich_03,Chest, -,Mallow Breeze Triweave Shirt And Vest
-Items.FormalShirt_01_rich_04,Chest, -,El Dorado Aramid-Weave Dress Shirt & Vest
-Items.FormalShirt_01_rich_05,Chest, -,Gin No Hoshi Neo-Silk Shirt And Vest
-Items.FormalShirt_01_rich_06,Chest, -,Paris Blue Office Shirt And Vest With Reinforced Seams
-Items.FormalShirt_02_basic_01,Chest, -,Semi-Formal Synfiber Button-Up
-Items.FormalShirt_02_basic_02,Chest, -,Arcticombat Semi-Formal Button-Up
-Items.FormalShirt_02_basic_03,Chest, -,Red Leopard Button-Up With Composite Insert
-Items.FormalShirt_02_basic_04,Chest, -,Classic Chem-Hardened Button-Up
-Items.FormalShirt_02_old_01,Chest, -,Linen Button-Up With Reactive Layering
-Items.FormalShirt_02_old_02,Chest, -,Purple Panther Shirt
-Items.FormalShirt_02_old_03,Chest, -,Wrinkled Dress Button-Up
-Items.FormalShirt_02_rich_01,Chest, -,Desert Cross Strong-Weave Button-Up
-Items.FormalShirt_02_rich_02,Chest, -,Paisley Universe Armor-Coated Button-Up
-Items.FormalShirt_02_rich_03,Chest, -,Liquid Shine Dura-Polyamide Button-Up
-Items.FormalShoes_01_basic_01,Feet, -,Simple Polycarbonate Office Pumps
-Items.FormalShoes_01_basic_02,Feet, -,Comfy Formal Pumps With Metal Inserts
-Items.FormalShoes_01_basic_03,Feet, -,Formal Pumps With Cushioned Composite Insoles
-Items.FormalShoes_01_rich_01,Feet, -,Silbermond Tough-Lined Office Pumps
-Items.FormalShoes_01_rich_02,Feet, -,Midday Glow Polycarbonate Formal Pumps
-Items.FormalShoes_02_basic_01,Feet, -,Reinforced-Leather Office Pumps
-Items.FormalShoes_02_basic_02,Feet, -,Classic Evening Pumps Polycarbonate Support
-Items.FormalShoes_02_basic_03,Feet, -,Double-Varnished Formal Pump
-Items.FormalShoes_02_rich_01,Feet, -,Silver Blood Evening Pumps With Protective Insoles
-Items.FormalShoes_02_rich_02,Feet, -,Lezard Beige Leather-Composite Formal Pump
-Items.FormalShoes_02_rich_03,Feet, -,Cristally Lily Evening Pumps With Extra-Durable Soles
-Items.FormalShoes_03_basic_01,Feet, -,Reinforced Office Wedges
-Items.FormalShoes_03_basic_02,Feet, -,Wooden Breeze Dress Wedges
-Items.FormalShoes_03_rich_01,Feet, -,Abendstern Polycarbonate Dress Wedges
-Items.FormalShoes_03_rich_02,Feet, -,Creamy Rhubarb Dress Wedges With Sole Support
-Items.FormalSkirt_01_basic_01,Legs, -,Durable Plaid Skirt
-Items.FormalSkirt_01_basic_02,Legs, -,Classy Aramid-Weave Skirt
-Items.FormalSkirt_01_basic_03,Legs, -,Powder Pink Skirt With Dura-Hybrid Weave
-Items.FormalSkirt_01_basic_04,Legs, -,Ultra-Elastic Bitch V.13 Skirt
-Items.FormalSkirt_01_rich_01,Legs, -,Golden Mean Aramid-Stitch Formal Skirt
-Items.FormalSkirt_01_rich_02,Legs, -,Mosiac Gleam Skirt With Composite Lining
-Items.FormalSkirt_01_rich_03,Legs, -,Arasaka Reactive-Layer Office Skirt
-Items.FormalSkirt_02_basic_01,Legs, -,Tear-Resistant Office Skirt
-Items.FormalSkirt_02_basic_02,Legs, -,Burgundy Formal Skirt With Reinforced Synfiber
-Items.FormalSkirt_02_basic_03,Legs, -,'Saeko''s Limited Elegant Duoweave Skirt'
-Items.FormalSkirt_02_rich_01,Legs, -,Heise Trilayer Formal Skirt
-Items.FormalSkirt_02_rich_02,Legs, -,Brass Harmony Skirt With Double Nanofiber Weave
-Items.FormalSkirt_02_rich_03,Legs, -,Chich Pink Dragon Skirt With Fiberglass Sequins
-Items.Glasses_01_basic_01,Face, -,Stylish Polarized Aviators
-Items.Glasses_01_basic_02,Face, -,Elegant Sepia Vision Aviators With Reinforced Lenses
-Items.Glasses_01_basic_03,Face, -,Gold Punk Aviators With Coated Glass
-Items.Glasses_01_basic_04,Face, -,Silver Plymer-Hybrid Military Aviators
-Items.Glasses_01_basic_05,Face, -,Classic Armor-Coated Aviators
-Items.Glasses_02_basic_01,Face, -,Trendy Sazan Lyly Square Glasses
-Items.Glasses_02_basic_02,Face, -,Elastiflex Utilitarian Glasses
-Items.Glasses_02_basic_03,Face, -,Taped Square Glasses
-Items.Glasses_02_basic_04,Face, -,Beach Please Square Glasses With Tempered Lenses
-Items.Glasses_02_basic_05,Face, -,Classic Square Glasses With Uv Filter
-Items.Glasses_03_basic_01,Face, -,Darker Speed Square Glasses
-Items.Glasses_03_basic_02,Face, -,Graffiti Glasses Coated Glasses
-Items.Glasses_03_basic_03,Face, -,Ergonomic Safety 3201 Military Shades
-Items.Glasses_03_basic_04,Face, -,Red Electro-Integrated Biker Shades
-Items.Glasses_03_basic_05,Face, -,Polycarbonate Sport Sunglasses
-Items.Glasses_03_basic_06,Face, -,Stylish Torquoise Sport Glasses
-Items.Glasses_03_basic_07,Face, -,Shiroi Tora Photoelectric Sport Glasses
-Items.Glasses_03_basic_08,Face, -,Impact-Resistant Tactical Glasses
-Items.Glasses_03_basic_09,Face, -,Durable Zebra Sport Glasses With Uv Filter
-Items.Glasses_03_basic_10,Face, -,Military Glasses With Splash Guard
-Items.Glasses_05_basic_01,Face, -,Synleather Plastic Goggles
-Items.Glasses_05_basic_02,Face, -,Protective Gilt-Polymer Biker Goggles
-Items.Glasses_05_basic_03,Face, -,Makeshift Punk Goggles
-Items.Glasses_05_basic_04,Face, -,2x Electronic Rocker Goggles
-Items.Glasses_05_old_01,Face, -,Chemically Hardened Tactical Goggles
-Items.Glasses_05_old_02,Face, -,Hardened Plastic Goggles
-Items.GOG_DLC_Jacket,Outer Torso,gog,Wolf School Jacket
-Items.GOG_DLC_Jacket_Epic,Outer Torso,gog,Wolf School Jacket
-Items.GOG_DLC_Jacket_Legendary,Outer Torso,gog,Wolf School Jacket
-Items.GOG_DLC_TShirt,Chest,gog,Wolf School T-Shirt
-Items.GOG_DLC_TShirt_Epic,Chest,gog,Wolf School T-Shirt
-Items.GOG_DLC_TShirt_Legendary,Chest,gog,Wolf School T-Shirt
-Items.GOG_Galaxy_TShirt,Chest,gog,Galaxy T-Shirt
-Items.GOG_Galaxy_TShirt_Epic,Chest,gog,Galaxy T-Shirt
-Items.GOG_Galaxy_TShirt_Legendary,Chest,gog,Galaxy T-Shirt
-Items.Hat_01_basic_01,Head, -,Classic Trilby With Composite Band
-Items.Hat_01_basic_02,Head, -,Solid Straw-Woven Trilby
-Items.Hat_01_old_01,Head, -,Durable Felt-Blend Trilby
-Items.Hat_01_old_02,Head, -,Trilby With Canvas Lining
-Items.Hat_01_rich_01,Head, -,Boss Mafioso Trilby With Armored Lining
-Items.Hat_01_rich_02,Head, -,Enhanced Cebra Excentrica Carbon-Reinforced Trilby
-Items.Hat_02_basic_01,Head, -,Cowboy Hat With Hardened-Leather Band
-Items.Hat_02_basic_02,Head, -,Reinforced Cyan Cowboy Hat
-Items.Hat_02_old_01,Head, -,Sturdi-Boost Cowboy Hat
-Items.Hat_02_old_02,Head, -,Modified Snake-Skin Cowboy Hat
-Items.Hat_02_rich_01,Head, -,Gunslinger Cowboy Hat With Reinforced Lining
-Items.Hat_02_rich_02,Head, -,Mirame Reinforced-Composite Cowboy Hat
-Items.Hat_03_basic_01,Head, -,Laminated Nomad Hat With Gauge
-Items.Hat_03_basic_02,Head, -,Upgraded Farmer Hat With Gauge
-Items.Hat_03_old_01,Head, -,Illegally Modded Hat With Gauge
-Items.Hat_03_old_02,Head, -,Worn Brimmed Hat With Gauge
-Items.Hat_03_rich_01,Head, -,Duolayer Military Cap With Gauge
-Items.Hat_04_basic_01,Head, -,Sturdy Conical Hat
-Items.Hat_04_basic_02,Head, -,Carbon-Fiber Conical Hat
-Items.Hat_04_old_01,Head, -,Polyamide-Reinforced Conical Hat
-Items.Helmet_01_basic_01,Head, -,Double-Shelled At-Ak Modular Helmet
-Items.Helmet_01_basic_02,Head, -,Light Technopolymer Helmet
-Items.Helmet_01_basic_03,Head, -,Durable Lime Speed Modular Helmet
-Items.Helmet_01_old_01,Head, -,Scratched Visored Helmet
-Items.Helmet_01_rich_01,Head, -,Momentum Carbon-Reinforced Visored Helmet
-Items.Helmet_01_rich_02,Head, -,Copper Gleam Fibreglass Helmet
-Items.Helmet_02_basic_01,Head,police,Police Helmet With Anti-Shrapnel Visor
-Items.Helmet_02_basic_02,Head, -,Speed Addict Helmet With Anti-Impact Tech
-Items.Helmet_02_basic_03,Head, -,Militech Tactical Helmet
-Items.Helmet_02_basic_04,Head, -,Colorado Beetle Aramid-Reinforced Helmet
-Items.Helmet_02_old_01,Head, -,Worn Graffiti Helmet
-Items.Helmet_02_old_02,Head, -,Old Military Helmet
-Items.Helmet_02_old_03,Head, -,Rusty Assault Helmet
-Items.Helmet_02_old_04,Head, -,'Veteran''s Helmet'
-Items.Helmet_02_rich_01,Head, -,Chengse Ultralight Carbon-Fiber Helmet
-Items.Helmet_02_rich_02,Head, -,8l-Oody Tungsten-Steel Military Helmet
-Items.Helmet_02_rich_03,Head, -,Sueno Soleado Helmet With Duolayer Reactivity
-Items.Helmet_02_rich_04,Head, -,D43-M0n Assault Helmet With Polycarbonate Visor
-Items.Helmet_03_basic_01,Head, -,Laminated Security Hardhat With Headset
-Items.Helmet_03_basic_02,Head, -,Arasaka Engineer Hardhat With Headset
-Items.Helmet_03_old_01,Head, -,Old Construction Hardhat
-Items.Helmet_03_old_02,Head, -,Rusty Security Hardhat
-Items.Helmet_03_rich_01,Head, -,Mt-77 Bulletproof Tactical Helmet
-Items.Helmet_04_basic_01,Head, -,Arasaka Kabuto With Composite Plating
-Items.Helmet_04_basic_02,Head, -,Steel Microplated Kabuto
-Items.Helmet_04_old_01,Head, -,Plastic Zunari Kabuto With Absorbent Lining
-Items.Helmet_04_old_02,Head, -,Tyger Claw Kabuto
-Items.Helmet_04_rich_01,Head, -,Aramid Kuro Kabuto With Hardened Carbon-Fiber Exterior
-Items.Helmet_04_rich_02,Head, -,Hinote Kabuto With Durable Plastic Aramid Composite
-Items.Jacket_01_basic_01,Outer Torso, -,Torikkusuta Aramid-Weave Crystaljock Bomber
-Items.Jacket_01_basic_02,Outer Torso, -,Biker Vibe Composite-Lined Crystaljock Bomber
-Items.Jacket_01_old_01,Outer Torso, -,'Rocker''s Heart Crystaljock Bomber'
-Items.Jacket_01_old_02,Outer Torso, -,Edge Warrior Crystaljock Bomber
-Items.Jacket_01_rich_01,Outer Torso, -,Denki-Shin Thermoset Hybrid Crystaljock Bomber
-Items.Jacket_01_rich_02,Outer Torso, -,Blue Mirror Dual-Shield Crystaljock Bomber
-Items.Jacket_02_basic_01,Outer Torso, -,Reinforced-Laminate Military Flight Jacket
-Items.Jacket_02_basic_02,Outer Torso, -,Punk Ultraweave Flight Jacket
-Items.Jacket_02_old_01,Outer Torso, -,Flight Jacket With Rubberplate Inserts
-Items.Jacket_02_old_02,Outer Torso, -,Old Wraiths Flight Jacket
-Items.Jacket_02_old_03,Outer Torso, -,Second Conflict Flight Jacket
-Items.Jacket_02_rich_01,Outer Torso, -,Bitch V-13 Enhanced Nanocarbon Flight Jacket
-Items.Jacket_02_rich_02,Outer Torso, -,Army-J3w3l Polycarbonate Tactical Flight Jacket
-Items.Jacket_02_rich_03,Outer Torso, -,Wounded Machine Duolayer Combat Flight Jacket
-Items.Jacket_03_basic_01,Outer Torso, -,At-Ak Composite-Lined Edgerunner
-Items.Jacket_03_basic_02,Outer Torso, -,Graffiti Carbon-Composite Edge Runner
-Items.Jacket_03_basic_03,Outer Torso, -,Tyger Claws Reinforced Edgerunner
-Items.Jacket_03_basic_04,Outer Torso, -,'Valentino''s Dual-Weave Edgerunner'
-Items.Jacket_03_old_01,Outer Torso, -,Old Edgerunner
-Items.Jacket_03_old_02,Outer Torso, -,Carbon-Plated Edgerunner
-Items.Jacket_03_old_03,Outer Torso, -,Wraiths Trilayer Edgerunner
-Items.Jacket_03_old_04,Outer Torso, -,Well-Worn 6th Street Edgerunner
-Items.Jacket_03_rich_01,Outer Torso, -,Purple Symphony Enhanced Polyamide Edgerunner
-Items.Jacket_03_rich_02,Outer Torso, -,Holy Rose Multilayer Edgerunner
-Items.Jacket_03_rich_03,Outer Torso, -,Ocean Armor Aramid-Weave Edgerunner
-Items.Jacket_04_basic_01,Outer Torso, -,Thermoset Military Field Jacket
-Items.Jacket_04_basic_02,Outer Torso, -,Militech Reinforced-Composite Field Jacket
-Items.Jacket_04_basic_03,Outer Torso, -,Sleeveless Armor-Plated Field Jacket
-Items.Jacket_04_old_01,Outer Torso, -,Old Maelstrom Field Jacket
-Items.Jacket_04_old_02,Outer Torso, -,Worn Scav Field Jacket
-Items.Jacket_04_old_03,Outer Torso, -,Ten70 Sleeveless Field Jacket
-Items.Jacket_04_rich_01,Outer Torso, -,Advanced Remon Boostknit Field Jacket
-Items.Jacket_04_rich_02,Outer Torso, -,Nu-Tek Foxy Carbon-Lined Field Jacket
-Items.Jacket_04_rich_03,Outer Torso, -,Night City Lightweight Carbon-Fiber Sleeveless Field Jacket
-Items.Jacket_05_basic_01,Outer Torso, -,Armor-Quilted Jacket
-Items.Jacket_05_basic_02,Outer Torso, -,Punk Boostweave Biker Jacket
-Items.Jacket_05_old_01,Outer Torso, -,Second Conflict Biker Jacket
-Items.Jacket_05_old_02,Outer Torso, -,Hardened Rubber Biker Jacket
-Items.Jacket_05_rich_01,Outer Torso, -,Night City Biker Jacket
-Items.Jacket_05_rich_02,Outer Torso, -,Golden Mean Elegant Chem-Resistant Biker Jacket
-Items.Jacket_06_basic_01,Outer Torso, -,Inner Flame Flame-Resistant Rockerjack
-Items.Jacket_06_basic_02,Outer Torso, -,Lazr-Mosaic Anti-Shrapnel Rockerjack
-Items.Jacket_06_old_01,Outer Torso, -,Hardened Leather Rockerjack
-Items.Jacket_06_old_02,Outer Torso, -,Rockerjack With Anti-Puncture Mesh
-Items.Jacket_06_rich_01,Outer Torso, -,Rosa Platino Reinforced Rocker Jacket
-Items.Jacket_06_rich_02,Outer Torso, -,Blue Jaguar Special-Occasion Reinforced Rockerjack
-Items.Jacket_07_basic_01,Outer Torso, -,Scav Plastic Windbreaker
-Items.Jacket_07_basic_02,Outer Torso, -,6th Street Ultralight Windbreaker
-Items.Jacket_07_old_01,Outer Torso, -,Braindance Windbreaker
-Items.Jacket_07_old_02,Outer Torso, -,Old Windbreaker
-Items.Jacket_07_rich_01,Outer Torso, -,Zolotoy Uley Soviet-Style Fireproof Windbreaker
-Items.Jacket_07_rich_02,Outer Torso, -,Smiley Hard Anti-Puncture Windbreaker
-Items.Jacket_08_basic_01,Outer Torso, -,Punk Short-Sleeve Polycarbonate Spiked Jacket
-Items.Jacket_08_basic_02,Outer Torso, -,Punk Short-Sleeve Dual-Membrane Jacket
-Items.Jacket_08_old_01,Outer Torso, -,Spiked Maelstrom Short-Sleeve Jacket
-Items.Jacket_08_old_02,Outer Torso, -,Microplated Punk Short-Sleeve Jacket
-Items.Jacket_09_basic_01,Outer Torso, -,Tenka Muso Combat Motorcycle Jacket
-Items.Jacket_09_basic_02,Outer Torso, -,Kang Tao Stretchy Motorcycle Jacket
-Items.Jacket_09_old_01,Outer Torso, -,Aldecaldos Motorcycle Jacket
-Items.Jacket_09_old_02,Outer Torso, -,Old Tyger Claws Motorcycle Jacket
-Items.Jacket_09_rich_01,Outer Torso, -,Golden Age Trilayer Composite Motorcycle Jacket
-Items.Jacket_09_rich_02,Outer Torso, -,Wraiths Heavy Impact-Absorbing Motorcycle Jacket
-Items.Jacket_10_basic_01,Outer Torso, -,Amethyspeed Nanoplastic Rally Bolero
-Items.Jacket_10_basic_02,Outer Torso, -,Midori Tora Sturdy Rally Bolero
-Items.Jacket_10_old_01,Outer Torso, -,Wraiths Rally Bolero Jacket
-Items.Jacket_10_old_02,Outer Torso, -,Composite-Lined Rally Bolero Jacket
-Items.Jacket_10_rich_01,Outer Torso, -,At-Ak Insulated Aramid-Padded Rally Bolero
-Items.Jacket_10_rich_02,Outer Torso, -,Tamashi Stretch-Laminate Rally Bolero
-Items.Jacket_11_basic_01,Outer Torso, -,Mini Coolquilt Foldtop
-Items.Jacket_11_basic_02,Outer Torso, -,Basic Polycarbonate Foldtop
-Items.Jacket_11_old_01,Outer Torso, -,Camo Foldtop
-Items.Jacket_11_old_02,Outer Torso, -,Hardened Leather Foldtop
-Items.Jacket_11_rich_01,Outer Torso, -,Nekitsch Pasion Purpura Polyamide Foldtop
-Items.Jacket_11_rich_02,Outer Torso, -,Blauer Nebel Eazy-Brathe High-Alloy Sequined Foldtop
-Items.Jacket_12_basic_01,Outer Torso, -,Denim Biker Jacket With Thermoactive Collar
-Items.Jacket_12_basic_02,Outer Torso, -,Blurry Road Thermoset Fiber Biker Jacket
-Items.Jacket_12_old_01,Outer Torso, -,Reinforced Synleather Nomad Jacket
-Items.Jacket_12_old_02,Outer Torso, -,Primeval Flame Rockerjack
-Items.Jacket_12_rich_01,Outer Torso, -,Salamander Eazy-Breathe Tarp-Weave Jacket
-Items.Jacket_12_rich_02,Outer Torso, -,Light Cherry Jinn Anti-Shrapnel Denim Jacket
-Items.Jacket_13_basic_01,Outer Torso, -,Polyamide Hooded Duolayer Bomber
-Items.Jacket_13_basic_02,Outer Torso, -,Smiley Hard Protection-Layered Bomber
-Items.Jacket_13_basic_03,Outer Torso, -,Light Spirit Animal Chem-Resistant Bobmer
-Items.Jacket_13_old_01,Outer Torso, -,Synweave Armor-Layered Psycho Bomber
-Items.Jacket_13_old_02,Outer Torso, -,Anti-Shrapnel Hooded Bomber
-Items.Jacket_13_old_03,Outer Torso, -,Streetart Hooded Bomber
-Items.Jacket_13_rich_01,Outer Torso, -,Soviet Moscow Dream Anti-Shrapnel Bomber
-Items.Jacket_13_rich_02,Outer Torso, -,Xx Punch! Armor-Coated Hooded Bomber
-Items.Jacket_13_rich_03,Outer Torso, -,Multilayered Maroon Scales Syn-Coated Bomber
-Items.Jacket_14_basic_01,Outer Torso, -,Simple Bolero Rubber-Coated Bomber
-Items.Jacket_14_basic_02,Outer Torso, -,Silber Irbis Bolero Gmo-Weave Bomber
-Items.Jacket_14_old_01,Outer Torso, -,Sturdy Synleather Bolero Bomber
-Items.Jacket_14_rich_01,Outer Torso, -,Lavender Galaxy Bolero Composite-Layered Bolero
-Items.Jacket_14_rich_02,Outer Torso, -,Arctic Lychee Bolero Tungsten Miroplated Bomber
-Items.Jacket_15_basic_01,Outer Torso, -,Peach Syn-Thread Crop Sweater
-Items.Jacket_15_basic_02,Outer Torso, -,Bypolar Rainbow Hybrid-Weave Crop Sweater
-Items.Jacket_15_old_01,Outer Torso, -,Danse Macabre Crop Sweater
-Items.Jacket_15_rich_01,Outer Torso, -,Alba Estiva Crop Sweater
-Items.Jacket_16_basic_01,Outer Torso, -,Coral Cutout Bodysuit
-Items.Jacket_16_basic_02,Outer Torso, -,Second Conflict Cutout Bodysuit
-Items.Jacket_16_old_01,Outer Torso, -,Duoweave Psycho Cutout Bodysuit
-Items.Jacket_16_old_02,Outer Torso, -,Thermo-Quilted Cutout Bodysuit
-Items.Jacket_16_rich_01,Outer Torso, -,Bermuda Triangle Cutout Bodysuit
-Items.Jacket_17_basic_01,Outer Torso, -,Canine Power Hybrid-Stitch Pozer-Jacket
-Items.Jacket_17_basic_02,Outer Torso, -,Carbon Triangle Graphene-Weave Pozer-Jacket
-Items.Jacket_17_basic_03,Outer Torso, -,Voodoo Boys Anti-Interference Netrunner Jacket
-Items.Jacket_17_basic_04,Outer Torso, -,Melting Ceramic Membrane Pozer-Jacket
-Items.Jacket_17_old_01,Outer Torso, -,Carbon-Lined Pozer-Jacket
-Items.Jacket_17_old_02,Outer Torso, -,Synleather Carbon-Collar Pozer-Jacket
-Items.Jacket_17_old_03,Outer Torso, -,6th Street Armor-Plated Combat Jacket
-Items.Jacket_17_rich_01,Outer Torso, -,Sapfir 3d Heavy Triple-Weave Nanocarbon Pozer-Jacket
-Items.Jacket_17_rich_02,Outer Torso, -,Torera Real Ultrareactive Laminated Pozer-Jacket
-Items.Jacket_17_rich_03,Outer Torso, -,Lazrpunk Tungsten-Plated Pozer-Jacket
-Items.Jacket_17_rich_04,Outer Torso, -,Ultimate Punch Field-Generating Protective Pozer-Jacket
-Items.Jacket_17_rich_05,Outer Torso, -,Valentinos Composite-Collar Suede Pozer-Jacket
-Items.Jacket_17_rich_06,Outer Torso, -,Deadly Lagoon Armored Syn-Silk Pozer-Jacket
-Items.Jumpsuit_01_basic_01,Chest, -,Animals Power-Absorbent Jumpsuit
-Items.Jumpsuit_01_basic_02,Chest, -,Polyamide Jumpsuit
-Items.Jumpsuit_01_basic_03,Chest, -,Purple Force Tactical Jumpsuit
-Items.Jumpsuit_01_old_01,Chest, -,Durable Militech Training Jumpsuit
-Items.Jumpsuit_01_old_02,Chest, -,Aramid-Weave Ten70 Sunset Jumpsuit
-Items.Jumpsuit_01_old_03,Chest, -,Polyamide-Blend Jumpsuit With Micromesh
-Items.Jumpsuit_01_rich_01,Chest, -,Stream Extreme High-Performance Jumpsuit
-Items.Jumpsuit_01_rich_02,Chest, -,Emperatriz Tigresa Duoweave Jumpsuit
-Items.Jumpsuit_02_basic_01,Chest, -,Yellow Cobra Carbon-Reinforced Racing Suit
-Items.Jumpsuit_02_basic_02,Chest, -,Polyamide-Lined Rocker Jumpsuit
-Items.Jumpsuit_02_old_01,Chest, -,Ten70 Graffiti Jumpsuit
-Items.Jumpsuit_02_old_02,Chest, -,Maxiwear Motorcycle Suit
-Items.Jumpsuit_02_rich_01,Chest, -,Nc Python Ultraresistant Hybrid-Weave Racing Suit
-Items.Jumpsuit_02_rich_02,Chest, -,Natsunoshio Protective Mesh Tracksuit
-Items.Jumpsuit_02_rich_03,Chest, -,Lightning Rider Reinforced Racing Suit
-Items.Jumpsuit_03_old_01,Chest, -,Arasaka Hazmat Suit
-Items.Jumpsuit_03_old_02,Chest, -,Ncpd Chem-Resistant Hazmat Suit
-Items.Jumpsuit_03_old_03,Chest, -,Militech Aramid-Weave Hazmat Suit
-Items.LooseShirt_01_basic_01,Outer Torso, -,Limited Loose-Fit Shirt With Protective Mesh
-Items.LooseShirt_01_basic_02,Outer Torso, -,Warm Nanoweave Cotton Shirt
-Items.LooseShirt_01_old_01,Outer Torso, -,Practical Plaid Shirt With Micromesh
-Items.LooseShirt_01_old_02,Outer Torso, -,Classic Anti-Puncture Shirt
-Items.LooseShirt_01_rich_01,Outer Torso, -,Arte Urbano Elegantly Nanostitched Shirt
-Items.LooseShirt_01_rich_02,Outer Torso, -,Hebi Tsukai Cashmere-Nanofiber Shirt
-Items.LooseShirt_02_basic_01,Outer Torso, -,Discowboy Durable Synthfiber Western Shirt
-Items.LooseShirt_02_basic_02,Outer Torso, -,Denim Mesh Western Shirt
-Items.LooseShirt_02_old_01,Outer Torso, -,Composite-Weave Western Shirt
-Items.LooseShirt_02_old_02,Outer Torso, -,Graphite Gem Insulated Western Shirt
-Items.LooseShirt_02_rich_01,Outer Torso, -,Aqua Universe Luxe Aramid-Weave Shirt
-Items.LooseShirt_02_rich_02,Outer Torso, -,Saloon Style Ultra-Durable Dress Shirt
-Items.Mask_02_basic_01,Face, -,Titanium-Reinforced Gas Mask
-Items.Mask_02_basic_02,Face, -,Makeshift Maelstrom Gas Mask
-Items.Mask_02_old_01,Face, -,Old Plastic Gas Mask
-Items.Mask_02_old_02,Face, -,Plastic Gas Mask With Filter
-Items.Mask_02_old_03,Face, -,Carbon Gas Mask With Filter
-Items.Mask_02_rich_01,Face, -,Arctic Breath Hybrid-Polymer Tactical Gas Mask
-Items.Mask_02_rich_02,Face, -,Mox Gas Mask With Custom Protective Layer
-Items.Mask_03_basic_01,Face, -,Menpo With Durable Lining
-Items.Mask_03_basic_02,Face, -,Menpo With Protective Padding
-Items.Mask_03_old_01,Face, -,Weathered Menpo
-Items.Mask_03_old_02,Face, -,Menpo With Reactive Layer
-Items.Mask_03_rich_01,Face, -,Jigoku No Oni Reinforced-Composite Menpo
-Items.Mask_03_rich_02,Face, -,Akai Oni Titanium Boostknit Menpo
-Items.Media_01_Set_Cap,Head,media,Media Baseball Cap With Reactive Layer
-Items.Media_01_Set_Pants,Legs,media,Anti-Piercing Tactical Media Cargo Pants
-Items.Media_01_Set_Shirt,Chest,media,Heat-Resistant Nanoweave Media Shirt
-Items.Media_01_Set_Shoes,Feet,media,Lightweight Hardened Rubber Media Steel-Toes
-Items.Media_01_Set_Tech,Face,media,Armored Media Ocuset With Camera
-Items.Media_01_Set_Vest,Outer Torso,media,Laminated-Armor Media Ballistic Vest
-Items.MQ017_Samerai_Jacket,Outer Torso, -,Semurai Cyrstaljock Bomber
-Items.mq017_SameraiJacket,Outer Torso, -,Fake Samerei Jacket
-Items.Netrunner_01_Set_Jumpsuit,Chest,netrunner,Heat-Resistant Hybridweave Netrunnig Suite
-Items.Netrunner_01_Set_Pants,Legs,netrunner,Dura-Membrane Netrunner Pants
-Items.Netrunner_01_Set_Shoes,Feet,netrunner,Hardened Netrunner Boots With Composite Insert
-Items.Netrunner_01_Set_Visor,Head,netrunner,Antisurge Ice-Protected Netrunner Infovisor
-Items.Nomad_01_Set_Boots,Feet,nomad,Durable Bioleather Nomad Western Boots
-Items.Nomad_01_Set_Jacket,Outer Torso,nomad,Duolayer Microplate-Mesh Nomad Jacket
-Items.Nomad_01_Set_Mask,Head,nomad,Manganese-Laminate Nomad Gas Mask
-Items.Nomad_01_Set_Pants,Legs,nomad,Ultralight Tear-Resistant Nomad Pants
-Items.Nomad_01_Set_TShirt,Chest,nomad,Polycarbonate Nomad Shirt With Reinforced Seams
-Items.Pants_01_basic_01,Legs, -,Comfy Rocker Aramid-Weave Slim-Fits
-Items.Pants_01_basic_02,Legs, -,Light Azure Composite-Lined Slim-Fits
-Items.Pants_01_basic_03,Legs, -,Sturdy-Stitched Slim-Fits
-Items.Pants_01_old_01,Legs, -,Spotted Polyamide Slim-Fits
-Items.Pants_01_old_02,Legs, -,Composite-Coated Camo Slim-Fits
-Items.Pants_01_old_03,Legs, -,Duoweave Composite Skinny Jeans
-Items.Pants_01_rich_01,Legs, -,Rosa Escarlata Plyamide-Weave Slim-Fits
-Items.Pants_01_rich_02,Legs, -,Durable Basilisk Arami Weave Slim-Fits
-Items.Pants_01_rich_03,Legs, -,Denkyoku Rocker Strongweave Duolayer Slim-Fits
-Items.Pants_02_basic_01,Legs, -,Durable Smiley Hard Loose-Fits
-Items.Pants_02_basic_02,Legs, -,Yoru No Samurai Padded Loose-Fits
-Items.Pants_02_basic_03,Legs, -,Street Glow Thermoset-Leather Loose-Fits
-Items.Pants_02_old_01,Legs, -,Duoweave Composite Loose-Fits
-Items.Pants_02_old_02,Legs, -,Workplace Loose-Fits
-Items.Pants_02_old_03,Legs, -,Loose-Fits With Micromesh Underlayer
-Items.Pants_02_rich_01,Legs, -,Holy Rose Boostknit Loose-Fits With Thermoactive Coating
-Items.Pants_02_rich_02,Legs, -,Chikurin Reinforces Nanoweave Loose-Fits
-Items.Pants_02_rich_03,Legs, -,Purple Dragon Duolayer Hybrid Loose-Fits
-Items.Pants_03_basic_01,Legs, -,Sturdy-Stitched Punk Jeans
-Items.Pants_03_basic_02,Legs, -,Canine Power Anti-Tear Pants
-Items.Pants_03_basic_03,Legs, -,Bitch V.13 Syn-Resistant Pants
-Items.Pants_03_old_01,Legs, -,Frayed Recycled Jeans
-Items.Pants_03_old_02,Legs, -,Patched Jeans
-Items.Pants_03_old_03,Legs, -,Durable Custom-Printed Jeans
-Items.Pants_03_rich_01,Legs, -,'Light Saeko''s Derakkusu Sturdy-Mesh Pants'
-Items.Pants_03_rich_02,Legs, -,Dark Sapphire Thermo-Fabric Rocker Pants
-Items.Pants_03_rich_03,Legs, -,Psycho Tac-Fiber Biker Pants
-Items.Pants_04_basic_01,Legs, -,Geisha Flexi-Weave Cargo Pants
-Items.Pants_04_basic_02,Legs, -,Mandarine Resistant Cargo Pants
-Items.Pants_04_basic_03,Legs, -,Kancho Syn-Weave Cargo Pants
-Items.Pants_04_basic_04,Legs, -,Samurai Sturdy-Stitched Cargo Pants
-Items.Pants_04_old_01,Legs, -,Worn Cargo Pants
-Items.Pants_04_old_02,Legs, -,Reinforced Synfiber Cargo Jeans
-Items.Pants_04_old_03,Legs, -,Rubber-Lined Cargo Pants
-Items.Pants_04_rich_01,Legs, -,Heavy-Duty Oro Floreciente Armor-Weave Cargo Pants
-Items.Pants_04_rich_02,Legs, -,Silver Star Duolayer Aramid-Weave Cargo Pants
-Items.Pants_04_rich_03,Legs, -,Cyano Camo Composite-Threaded Cargo Pants
-Items.Pants_05_basic_01,Legs, -,Punk Composite-Metal Racers
-Items.Pants_05_basic_02,Legs, -,Foam-Padded Racers
-Items.Pants_05_old_01,Legs, -,Military Camo Racers
-Items.Pants_05_old_02,Legs, -,Psycho Racers
-Items.Pants_05_rich_01,Legs, -,Heat-Resistant Killer Candy Trilayer Racers
-Items.Pants_05_rich_02,Legs, -,Yoru No Samurai Armored Knee-Pad Reacers
-Items.Pants_06_basic_01,Legs, -,Reinforced Federalist Straightcuts
-Items.Pants_06_basic_02,Legs, -,Somba Rosa Foam-Padded Straightcuts
-Items.Pants_06_old_01,Legs, -,Vintage Extra-Leather Straightcuts
-Items.Pants_06_old_02,Legs, -,Duolayer Tacticloth Straightcuts
-Items.Pants_06_old_03,Legs, -,Reinforced Hybridweave Straightcuts
-Items.Pants_06_rich_01,Legs, -,Craneo Brillante Polyamide Extra-Membrane Straightcuts
-Items.Pants_06_rich_02,Legs, -,Golpe Punk Anti-Shrapnel Straightcuts
-Items.Pants_07_basic_01,Legs, -,Suichu Yogan Extra-Protection Tactical Pants
-Items.Pants_07_basic_02,Legs, -,Geisha Tactical Extra-Guard Pants
-Items.Pants_07_basic_03,Legs, -,Comfy Tactical Thermoset-Padded Pants
-Items.Pants_07_old_01,Legs, -,Old Flazh Tactical Pants
-Items.Pants_07_old_02,Legs, -,Worn Kan Tao Tactical Pants
-Items.Pants_07_old_03,Legs, -,Frayed Maelstrom Tactical Pants
-Items.Pants_07_rich_01,Legs, -,Boulet Torquoise Heat-Resistan Tactical Pants
-Items.Pants_07_rich_02,Legs, -,Atomic Blast Tactical Armor-Weave Pants
-Items.Pants_07_rich_03,Legs, -,Decadencia Verde Tactical Armor-Weave Pants
-Items.Pants_08_basic_01,Legs, -,Militech Neotac Pants
-Items.Pants_08_basic_02,Legs, -,Boostknit Neotac Pants
-Items.Pants_08_basic_03,Legs, -,Extra-Rubber Neotac Pants
-Items.Pants_08_old_01,Legs, -,Old Banana Juice Neotac Pants
-Items.Pants_08_old_02,Legs, -,Secondhand Maelstrom Neotac Pants
-Items.Pants_08_old_03,Legs, -,Worn Wraiths Neotac Pants
-Items.Pants_08_rich_01,Legs, -,Gold Fury Neotac Bulletproof Pants
-Items.Pants_08_rich_02,Legs, -,Urban Laser Anti-Puncture Neotac Biker Pants
-Items.Pants_08_rich_03,Legs, -,Ocean Bulletproof Neotac Biker Pants
-Items.Pants_09_basic_01,Legs, -,Amethyspeed Polycarbonate Utility Pants
-Items.Pants_09_basic_02,Legs, -,Midori Tora Reinforced Utility Pants
-Items.Pants_09_old_01,Legs, -,Wraiths Extra-Cotton Utility Pants
-Items.Pants_09_old_02,Legs, -,Performance-Boosted Utility Pants
-Items.Pants_09_old_03,Legs, -,Composite-Lined Utility Pants
-Items.Pants_09_rich_01,Legs, -,At-Ak Utility Wear-Resistant Pants
-Items.Pants_09_rich_02,Legs, -,Tamashi Anti-Mech Utility Pants
-Items.Pants_10_basic_01,Legs, -,6th Street Rubber-Weave Shinos
-Items.Pants_10_basic_02,Legs, -,Cyan Plastic Shinos
-Items.Pants_10_old_01,Legs, -,Heat-Resistant Nylon Shinos
-Items.Pants_10_old_02,Legs, -,Cowboy Shinos With Microplate Mesh
-Items.Pants_10_rich_01,Legs, -,Ten70 H2s Plastic Shin-Guard Shinos
-Items.Pants_10_rich_02,Legs, -,'Stripe''n''black Reinforced Nanoweave Shinos'
-Items.Pants_11_basic_01,Legs, -,Army Star Anti-Chafing Cargo Pants
-Items.Pants_11_basic_02,Legs, -,Caution Extra-Plastic Cargo Pants
-Items.Pants_11_basic_03,Legs, -,Phantom Tough-Lined Cargo Pants
-Items.Pants_11_old_01,Legs, -,Tacticloth Cargo Pants
-Items.Pants_11_old_02,Legs, -,Nomad Eazy-Breathe Cargo Pants
-Items.Pants_11_old_03,Legs, -,6th Street Cargo Pants
-Items.Pants_11_rich_01,Legs, -,Slant Lightning Hybrid-Weave Cargo Pants
-Items.Pants_11_rich_02,Legs, -,Purple Shock Anti-Mech Cargo Pants
-Items.Pants_11_rich_03,Legs, -,Power Fame Cargo Pants With Reinforced Mesh
-Items.Pants_12_basic_01,Legs, -,Durable Windbreaker Pants
-Items.Pants_12_basic_02,Legs, -,Sweet Licks Ultra-Flexi Windbreaker Pants
-Items.Pants_12_basic_03,Legs, -,At-Ak Greener Polycarbonate Windbreaker Pants
-Items.Pants_12_old_01,Legs, -,Maxiwear Windbreaker Pants
-Items.Pants_12_old_02,Legs, -,'Old Saeko''s Windebreaker Pants'
-Items.Pants_12_old_03,Legs, -,Secondhand Red Death Windbreaker Pants
-Items.Pants_12_rich_01,Legs, -,Sudo Claws Polyamide-Composite Windbreaker Pants
-Items.Pants_12_rich_02,Legs, -,Tg-Tiger Heat-Resistant Windbreaker Pants
-Items.Pants_12_rich_03,Legs, -,Golden Scale Trilayer Windbreaker Pants
-Items.Pants_13_basic_01,Legs, -,Venom Dye Duolayer Riding Pants
-Items.Pants_13_basic_02,Legs, -,Wraiths Anti-Tear Riding Pants
-Items.Pants_13_basic_03,Legs, -,Light Military Syn-Strengthened Riding Pants
-Items.Pants_13_old_01,Legs, -,Ultra-Cushioned Motorcycle Riding Pants
-Items.Pants_13_old_02,Legs, -,Rotten Jungle Riding Pants
-Items.Pants_13_old_03,Legs, -,Worn Maelstrom Riding Pants
-Items.Pants_13_rich_01,Legs, -,Comfy Trickster Composite Riding Pants
-Items.Pants_13_rich_02,Legs, -,Heavy-Duty Flamingo Aramidweave Riding Pants
-Items.Pants_14_basic_01,Legs, -,Light Psycho Knee-Padded Yoros
-Items.Pants_14_basic_02,Legs, -,Tiger Sturdy-Stitched Yoros
-Items.Pants_14_old_01,Legs, -,Simple Yoros
-Items.Pants_14_old_02,Legs, -,Yoru No Samurai Yoros
-Items.Pants_14_rich_01,Legs, -,Midori Eazy-Breathe Thermoactive Yoros
-Items.Pants_14_rich_02,Legs, -,Ryu Anti-Tear Trilayer Yoros
-Items.Pants_15_basic_01,Legs, -,Flexi-Duolayer Harem Pants
-Items.Pants_15_basic_02,Legs, -,Sporty Harem Pants With Cotton Armor-Weave
-Items.Pants_15_old_01,Legs, -,Elastic Sturdy-Stitched Harem Pants
-Items.Pants_15_rich_01,Legs, -,Pink Lagoon Armor-Coated Harem Pants
-Items.Proficiency_Boots_11_rich_01_Crafting,Feet, -,Pixel Neige Snow Boots With Canvas Duolayer
-Items.Proficiency_Cap_06_basic_01_Crafting,Head, -,Cotton Motorcycle Cap With Protective Inset
-Items.Proficiency_CasualShoes_07_basic_01_Crafting,Feet, -,Robust Spunky Monkey Kicks
-Items.Proficiency_FormalPants_01_basic_01_Crafting,Legs, -,Sturdy Synfiber Pleated Pants
-Items.Proficiency_FormalShoes_02_basic_02_Crafting,Feet, -,Classic Evening Pumps With Polycarbonate Support
-Items.Proficiency_FormalShoes_02_rich_03_Crafting,Feet, -,Crystal Lily Evening Pumps With Extra-Durable Soles
-Items.Proficiency_FormalSkirt_02_rich_01_Crafting,Legs, -,Heise Trilayer Formal Skirt
-Items.Proficiency_Glasses_05_basic_01_Crafting,Face, -,Synleather Plastic Goggles
-Items.Proficiency_Hat_01_rich_01_Crafting,Head, -,Boss Mafioso Trilby With Armored Lining
-Items.Proficiency_Helmet_04_basic_02_Crafting,Head, -,Steel Microplated Kabuto
-Items.Proficiency_Jacket_06_basic_01_Crafting,Outer Torso, -,Inner Flame Flame-Resistant Rockerjack
-Items.Proficiency_Jumpsuit_02_rich_03_Crafting,Outer Torso, -,Lightning Rider Reinforced Racing Suit
-Items.Proficiency_LooseShirt_02_rich_01_Crafting,Outer Torso, -,Aqua Universe Luxe Aramid-Weave Shirt
-Items.Proficiency_Mask_02_basic_01_Crafting,Face, -,Titanium-Reinforced Gas Mask
-Items.Proficiency_Pants_13_basic_01_Crafting,Legs, -,Venom Dye Duolayer Riding Pants
-Items.Proficiency_Scarf_02_rich_01_Crafting,Head, -,Sandy Boa Shock-Absorbent Headband
-Items.Proficiency_Shirt_02_basic_02_Crafting,Chest, -,Simple Biker Aramid-Weave Turtleneck
-Items.Proficiency_Shorts_02_rich_02_Crafting,Legs, -,Composite Ko Jaga Silk-Threaded Hotpants
-Items.Proficiency_Tech_02_basic_02_Crafting,Face, -,Lightweight Tungsten-Steel Bd Wreath
-Items.Proficiency_TightJumpsuit_01_rich_02_Crafting,Chest, -,Red Alert Anti-Surge Netrunning Suit
-Items.Proficiency_TShirt_03_rich_03_Crafting,Chest, -,Ultralight Tested On Animals Polyamide Tank Top
-Items.Proficiency_Undershirt_03_basic_03_Crafting,Chest, -,Stylish Atomic Blast Composite Bustier
-Items.Proficiency_Vest_18_basic_01_Crafting,Outer Torso, -,Polycarbonate Western Fringe Vest
-Items.Proficiency_Visor_02_rich_01_Crafting,Face, -,Yamori Tungsten-Steel Biker Techgogs
-Items.Q000_Corpo_FormalJacket,Outer Torso,'v''s corpo','V''s Office Blazer'
-Items.Q000_Corpo_FormalPants,Legs,'v''s corpo','V''s Office Slacks'
-Items.Q000_Corpo_FormalShoes,Feet,'v''s corpo','V''s Office Pumps'
-Items.Q000_half_Corpo,Special,'v''s corpo','V''s Informal Outfit'
-Items.Q000_half_Nomad,Special,'v''s nomad','V''s Nomad Outfit'
-Items.Q000_half_StreetKid,Special,'v''s street','V''s Urban Outfit'
-Items.Q000_Nomad_Boots,Feet,'v''s nomad','V''s Nomad Shoes'
-Items.Q000_Nomad_noPatch_Vest,Outer Torso,'v''s nomad','V''s Vest (Without Bakkers Patch)'
-Items.Q000_Nomad_Pants,Legs,'v''s nomad','V''s Nomad Pants'
-Items.Q000_Nomad_TShirt,Chest,'v''s nomad','V''s Tattered Crop Top'
-Items.Q000_Nomad_Vest,Outer Torso,'v''s nomad','V''s Vest (With Bakkers Patch)'
-Items.Q000_StreetKid_Pants,Legs,'v''s street','V''s Sreetwear Pants'
-Items.Q000_StreetKid_Shoes,Feet,'v''s street','V''s Street Tongues'
-Items.Q000_StreetKid_TShirt,Chest,'v''s street','V''s Tattered Crop Top'
-Items.Q001_Pants,Legs,'v''s outfit','V''s Pants'
-Items.Q001_Shoes,Feet,'v''s outfit','V''s Sneakers'
-Items.Q001_TShirt,Chest,'v''s outfit','V''s Favorite Top'
-Items.Q005_Johnny_Glasses,Face,johnny [quest],'Johnny''s Aviators'
-Items.Q005_Johnny_Glasses_Epic,Face, -,'Johnny''s Aviators'
-Items.Q005_Johnny_Glasses_Legendary,Face,johnny [quest],'Johnny''s Aviators [L]'
-Items.Q005_Johnny_Pants,Legs,johnny [quest],'Johnny''s Pants'
-Items.Q005_Johnny_Pants_Epic,Legs, -,'Johnny''s Pants'
-Items.Q005_Johnny_Pants_Legendary,Legs,johnny [quest],'Johnny''s Pants [L]'
-Items.Q005_Johnny_Shirt,Chest,johnny [quest],'Johnny''s Tank Top'
-Items.Q005_Johnny_Shirt_Epic,Chest, -,'Johnny''s Tank Top'
-Items.Q005_Johnny_Shirt_Legendary,Chest,johnny [quest],'Johnny''s Tank Top [L]'
-Items.Q005_Johnny_Shoes,Feet,johnny [quest],'Johnny''s Shoes'
-Items.Q005_Johnny_Shoes_Epic,Feet, -,'Johnny''s Shoes'
-Items.Q005_Johnny_Shoes_Legendary,Feet,johnny [quest],'Johnny''s Shoes [L]'
-Items.q005_militech_pants,Legs, -,Militech Pants
-Items.q005_militech_shoes,Feet, -,Militech Shoes
-Items.Q005_Militech_Suit,Special,special,Militech Suit
-Items.Q005_Militech_Suit_Dirty,Special,special ,Dirty Militech Suit [Quest]
-Items.Q005_Militech_Suit_Filthy,Special,special ,Ruined Militech Suit [Quest]
-Items.Q005_Steel_Dragons_Coat,Chest, -,Kotetsu No Ryu Coat
-Items.Q005_Yorinobu_FormalPants,Chest, -,'Yorinobu''s Slacks'
-Items.Q005_Yorinobu_FormalShirt,Chest, -,'Yorinobu''s Formal Shirt'
-Items.Q101_Recovery_Bandage_Outfit,Special,special,Bandage Wrapping
-Items.Q114_Aldecaldo_Jacket,Outer Torso,nomad,Aldecaldos Rally Bolero Jacket
-Items.Q114_Cyberspace_Jumpsuit,Special,special,Virtual Jumpsuit
-Items.Q115_Afterlife_Netrunner,Special,special,Afterlife Netrunning Suite
-Items.Q115_Custom_Predator_Armor,Outer Torso,rogue,Predator Aramid Armor (Rogue)
-Items.Q115_Custom_Predator_Boots,Feet,rogue,Predator Exo Jacks (Rogue)
-Items.q115_thrusters,Feet,rogue,Retrothrusters Jet Boots (Rogue) Not Removable
-Items.Q201_SpaceHospitalPants,Legs, -,Hospital Scrub Pants
-Items.Q201_SpaceHospitalShirt,Chest, -,Hospital Shirt
-Items.Q202_Epilogue_Boots,Feet, -,'V''s Muddy Sneakers'
-Items.Q202_Epilogue_Pants,Legs, -,'V''s New Leggins'
-Items.Q202_Epilogue_TShirt,Chest, -,'V''s Blank Tank Top'
-Items.Q203_Epilogue_Boots,Feet,'v''s outfit','V''s Gold Plated Boots'
-Items.Q203_Epilogue_Glasses,Face,'v''s outfit','V''s Golden Aviators'
-Items.Q203_Epilogue_Pants,Legs,'v''s outfit','V''s Expensive Leggins'
-Items.Q203_Epilogue_TShirt,Chest,'v''s outfit','V''s Shirt'
-Items.Q203_Spacesuit_Helmet,Head,special,Spacesuit Helmet
-Items.Q203_Spacesuit_Outfit_NoHelmet,Special,special,Spacesuit No Helmet
-Items.Q203_Spacesuit_Outfit_WithHelmet,Special,special,Spacesuit With Helmet
-Items.Q204_Epilogue_Boots,Feet,johnny [quest],'Johnny''s Boots '
-Items.Q204_Epilogue_Pants,Legs,johnny [quest],'Johnny''s Pants '
-Items.Q204_Epilogue_TShirt,Chest,johnny [quest],'Johnny''s Shirt '
-Items.Rockerboy_01_Set_Boots,Feet,rocker,Puncture-Resistant Rocker Platform Boots
-Items.Rockerboy_01_Set_Glasses,Head,rocker,Scratch-Resistant Polaryzed Rocker Aviators
-Items.Rockerboy_01_Set_Jacket,Outer Torso,rocker,Reinforced Composite-Lined Rocker Foldtop
-Items.Rockerboy_01_Set_Pants,Legs,rocker,Elastic Flame-Resistant Rocker Pants
-Items.Rockerboy_01_Set_TShirt,Chest,rocker,Armorweave Rocker Bra
-Items.SamuraiWorldTour_TShirt,Chest, -,Samurai 2020 Tour T-Shirt
-Items.Scarf_01_basic_01,Head, -,Composite Military Bandana
-Items.Scarf_01_basic_02,Head, -,Makeshift Rabenda Banana Bandana
-Items.Scarf_01_basic_03,Head, -,Strong Canine Power Synthetic Bandana
-Items.Scarf_01_old_01,Head, -,Anti-Tear Graffiti Bandana
-Items.Scarf_01_old_02,Head, -,Blooming Amber Bandana
-Items.Scarf_01_old_03,Head, -,Composite Camo Bandana
-Items.Scarf_01_rich_01,Head, -,Ten70 Bada55 Polycarbonate Bandana
-Items.Scarf_01_rich_02,Head, -,Daemon Hunter Tactical Bandana
-Items.Scarf_01_rich_03,Head, -,Magenta Spark Reinforced Silkweave Bandana
-Items.Scarf_02_basic_01,Head, -,Simple Bandana Headband With Enhanced Durability
-Items.Scarf_02_basic_02,Head, -,Reinforced-Cotton Headband
-Items.Scarf_02_old_01,Head, -,Durable Nanofiber Plaid Headband
-Items.Scarf_02_old_02,Head, -,Punk Bandana Headband
-Items.Scarf_02_rich_01,Head, -,Sandy Boa Shock-Absorbent Headband
-Items.Scarf_03_basic_01,Head, -,Light Hijab With Microplate Mesh
-Items.Scarf_03_basic_02,Head, -,Duolayer Floral Hijab
-Items.Scarf_03_basic_03,Head, -,Graffiti Thermoset Synweave Hijab
-Items.Scarf_03_old_01,Head, -,Tacti-Fiber Camo Hijab
-Items.Scarf_03_old_02,Head, -,Duolayer Quilted Hijab
-Items.Scarf_03_old_03,Head, -,Durable Modified Linen Hijab
-Items.Scarf_03_rich_01,Head, -,Gray Area Anti-Tear Hijab
-Items.Scarf_03_rich_02,Head, -,Wardat Zihira Aramid-Weave Hijab
-Items.Scarf_03_rich_03,Head, -,Kinryu Deluxe Hijab With Protective Mesh
-Items.Shirt_01_basic_01,Chest, -,Braindance Blue Trilayer Long-Sleeve
-Items.Shirt_01_basic_02,Chest, -,Psycho Flexiweave Long-Sleeve
-Items.Shirt_01_old_01,Chest, -,Cotton Long-Sleeve
-Items.Shirt_01_old_02,Chest, -,Long-Sleeve With Composite Lining
-Items.Shirt_01_rich_01,Chest, -,Stylish Crystal Midnight Carbon-Fiber Long-Sleeve
-Items.Shirt_01_rich_02,Chest, -,Geisha Samurai Nanoweave Long-Sleeve
-Items.Shirt_02_basic_01,Chest, -,Sporty Darra-Polytechnic Flexi-Weave Turtleneck
-Items.Shirt_02_basic_02,Chest, -,Simple Biker Aramid-Weave Turtleneck
-Items.Shirt_02_basic_03,Chest, -,Arasaka Waterproof Compat Turtleneck
-Items.Shirt_02_basic_04,Chest, -,Samurai Combat Turtleneck
-Items.Shirt_02_old_01,Chest, -,Aramid-Weave Tactical Turtleneck
-Items.Shirt_02_old_02,Chest, -,Padded Tactical Turtleneck
-Items.Shirt_02_old_03,Chest, -,Elastic Microplated Sporty Turtleneck
-Items.Shirt_02_rich_01,Chest, -,Light Xx Punch! Heat-Resistant Biker Turtleneck
-Items.Shirt_02_rich_02,Chest, -,Sport-Flex At-Ak Thermoactive Turtleneck
-Items.Shirt_02_rich_03,Chest, -,Violet Nebula Anti-Tear Polyamide Turtleneck
-Items.Shirt_03_basic_01,Chest, -,Suichu Yogan Syn-Fiber Combat Shirt
-Items.Shirt_03_basic_02,Chest, -,Composite Geisha Combat Shirt
-Items.Shirt_03_basic_03,Chest, -,Padded Syn-Fiber Combat Shirt
-Items.Shirt_03_old_01,Chest, -,Old Flazh Combat Shirt
-Items.Shirt_03_old_02,Chest, -,Frayed Scav Combat Shirt
-Items.Shirt_03_old_03,Chest, -,Worn Maelstrom Jacket
-Items.Shirt_03_rich_01,Chest, -,Boulet Torquoise Combat Shirt With Protective Lining
-Items.Shirt_03_rich_02,Chest, -,Atomic Blast Composite Armor-Weave Combat Shirt
-Items.Shirt_03_rich_03,Chest, -,Decadencia Verde Heavy Plate-Weave Combat Shirt
-Items.Shorts_01_basic_01,Legs, -,Classic Aramid-Weave Denim Shorts
-Items.Shorts_01_old_01,Legs, -,Composite-Coated Cut-Off Shorts
-Items.Shorts_01_old_02,Legs, -,Anti-Puncture Cut-Off Shorts
-Items.Shorts_01_old_03,Legs, -,Old-Gold Tac-Fabric Duolayer Cut-Off Shorts
-Items.Shorts_01_rich_01,Legs, -,Magenta Cut-Off Duolayer Nanoweave Shorts
-Items.Shorts_02_basic_01,Legs, -,Athletic Hybrid-Weave Hotpants
-Items.Shorts_02_basic_02,Legs, -,Blue Brick Reinforced Hotpants
-Items.Shorts_02_old_01,Legs, -,Trilayer Hotpants With Micromesh
-Items.Shorts_02_old_02,Legs, -,Lightweight Heat-Resistant Hotpants
-Items.Shorts_02_rich_01,Legs, -,Golden Pocket Hybrid-Weave Hotpants
-Items.Shorts_02_rich_02,Legs, -,Composite Ko Jagā Silk-Threaded Hotpants
-Items.Shorts_03_basic_01,Legs, -,Classic Athletic Nanoweave Shorts
-Items.Shorts_03_basic_02,Legs, -,Athletic Aramid-Weave Shorts
-Items.Shorts_03_basic_03,Legs, -,N54 Athletic Shorts With Thermoactive Mesh
-Items.Shorts_03_old_01,Legs, -,Old N54 Athletic Shorts
-Items.Shorts_03_rich_01,Legs, -,Green Power Polyamide-Padded Athletic Shorts
-Items.Shorts_04_old_01,Legs, -,Composite-Lined Jean Shorts
-Items.Shorts_04_old_02,Legs, -,Frayed Jean Shorts
-Items.Shorts_04_old_03,Legs, -,Duolayer Military Camo Shorts
-Items.Shorts_04_old_04,Legs, -,Faded Shorts
-Items.Shorts_05_old_01,Legs, -,Old Military Shorts
-Items.Shorts_05_old_02,Legs, -,Syn-Threaded Shorts
-Items.Shorts_05_old_03,Legs, -,Light Electro Extra-Lined Shorts
-Items.Shorts_05_old_04,Legs, -,Grauer Recycled Shorts
-Items.Shorts_05_old_05,Legs, -,Comfy Nomad Shorts
-Items.Solo_01_Set_Boots,Feet,solo,Gold-Tipped Manganese Steel Solo Boots
-Items.Solo_01_Set_Jacket,Outer Torso,solo,Heavy Shock-Absorbent Solo Jacket
-Items.Solo_01_Set_Pants,Legs,solo,Armor-Plated Synleather Solo Pants
-Items.Solo_01_Set_TShirt,Chest,solo,Ultrathin Composite-Print Solo Shirt
-Items.Solo_01_Set_Visor,Head,solo,Titanium Solo Techgogs With Tactical Software
-Items.SQ004_RaffenShiv_Mask,Face, -,Wraiths Gas Mask
-Items.SQ021_Lab_Costume,Special,special,Kang Tao Lab Suit
-Items.SQ021_Wraiths_Vest,Chest, -,Bad Motherfucker Vest
-Items.SQ023_Joshua_Prisonwear,Special,special,'Joshua''s Prison Uniform'
-Items.SQ023_Switchblade_Pants,Legs, -,4th Wall Acting Pants
-Items.SQ023_Switchblade_Shirt,Chest, -,4th Wall Acting Shirt
-Items.SQ029_Police_Suit,Special,special,Police Uniform
-Items.SQ029_River_Romance_Shirt,Head, -,'River''s Tank Top'
-Items.SQ030_Diving_Suit,Special,special,Neoprene Diving Suit With Flippers (From Judy) Not Removable
-Items.sq030_diving_suit_female,Special, -,'Women''s Diving Suit - Broken'
-Items.sq030_diving_suit_male,Special, -,'Men''s Diving Suit - Broken'
-Items.SQ030_Diving_Suit_NoShoes,Special,special,Neoprene Diving Suit (From Judy) Not Removable
-Items.SQ030_MaxTac_Chest,Outer Torso,maxtac,Neoprene Diving Suit (From Judy)Maxtac Multilayered Armor-Weave Jacket
-Items.SQ030_MaxTac_Helmet,Head,maxtac,Maxtac Tactical Helmet With Multifunction Infovisor
-Items.SQ030_MaxTac_Pants,Legs,maxtac,Heavy-Duty Maxtac Cargo Pants
-Items.SQ031_Samurai_Jacket,Outer Torso,johnny [quest],'Replica Of Johnny''s Samurai Jacket'
-Items.SQ031_Samurai_Jacket_Epic,Outer Torso,johnny [quest],'Replica Of Johnny''s Samurai Jacket'
-Items.SQ031_Samurai_Jacket_Legendary,Outer Torso,johnny [quest],'Replica Of Johnny''s Samurai Jacket [L]'
-Items.sq032_dogtags,Outer Torso,johnny [quest],'Johnny''s Dog Tags'
-Items.Tech_01_basic_01,Face, -,Trilayer Steel Ocuset
-Items.Tech_01_basic_02,Face, -,Composite Ocuset
-Items.Tech_01_old_01,Face, -,Old Ocuset
-Items.Tech_01_rich_01,Face, -,Kang Tao Manganese Combat Ocuset
-Items.Tech_01_rich_02,Face, -,Ncpd Titanium Ice-Protected Ocuset
-Items.Tech_02_basic_01,Face, -,Aoi Tora Enhanced Bd Wreath
-Items.Tech_02_basic_02,Face, -,Lightweight Tungsten-Steel Bd Wreath
-Items.Tech_02_old_01,Face, -,Dated Bd Wreath
-Items.Tech_02_rich_01,Face, -,Sweet Dreams Armored-Laminated Bd Wreath
-Items.Tech_02_rich_02,Face, -,Kogane No Yume Titanium Bd Wreath
-Items.Techie_01_Set_Cap,Head,techie,Cushioned Techie Baseball Cap
-Items.Techie_01_Set_Pants,Legs,techie,Reinforced Duolayer Techie Cargo Pants
-Items.Techie_01_Set_Shoes,Feet,techie,Cushioned Aramid-Sole Techie Shoes
-Items.Techie_01_Set_Tech,Face,techie,Laminated Ice-Protected Techie Ocuset
-Items.Techie_01_Set_TShirt,Chest,techie,Thermoactive Tear-Resistant Techie Shirt
-Items.Techie_01_Set_Vest,Outer Torso,techie,Polycarbonate Nanoweave Techie Harness
-Items.TightJumpsuit_01_basic_01,Chest, -,Military-Grade Aramid Netrunning Suit
-Items.TightJumpsuit_01_basic_02,Chest, -,Light Elastomer Netrunning Suit
-Items.TightJumpsuit_01_old_01,Chest, -,Worn Netrunning Suit
-Items.TightJumpsuit_01_old_02,Chest, -,Old Netrunning Suit
-Items.TightJumpsuit_01_rich_01,Chest, -,Composite Arasaka Netrunning Nanoweave Suit
-Items.TightJumpsuit_01_rich_02,Chest, -,Red Alert Anti-Surge Netrunning Suit
-Items.TShirt_01_basic_01,Chest, -,Basic Tank Top
-Items.TShirt_01_basic_02,Chest, -,Melting Hottie Tank Top
-Items.TShirt_01_basic_03,Chest, -,Purple Dragon Aramid-Weave Tank Top
-Items.TShirt_01_old_01,Chest, -,Anti-Chem Synfabric Tank Top
-Items.TShirt_01_old_02,Chest, -,Punk Tank Top
-Items.TShirt_01_old_03,Chest, -,Once We Were Boosted Tank Top
-Items.TShirt_01_rich_01,Chest, -,Ultralight Geisha Dream Polyamide Tank Top
-Items.TShirt_01_rich_02,Chest, -,Daemon Hunter Resistance-Coated Tank Top
-Items.TShirt_01_rich_03,Chest, -,Sankaku Nichibotsu Tarp-Weave Tank Top
-Items.TShirt_02_basic_01,Chest, -,Utilitarian Burn Corpo Shit T-Shirt
-Items.TShirt_02_basic_02,Chest, -,Ultimate Punch Sturdimesh T-Shirt
-Items.TShirt_02_basic_03,Chest, -,Ded-Zed Hybridweave T-Shirt
-Items.TShirt_02_basic_04,Chest, -,Puncture-Resistant Nusa T-Shirt
-Items.TShirt_02_basic_05,Chest, -,Vintage Samurai Strongweave T-Shirt
-Items.TShirt_02_old_01,Chest, -,Ruined Life Sturdimesh T-Shirt
-Items.TShirt_02_old_02,Chest, -,Oled Hex Camo Shirt
-Items.TShirt_02_old_03,Chest, -,Durable Hardened Syn-Cotton T-Shirt
-Items.TShirt_02_old_04,Chest, -,Utilitarian Composite-Mesh T-Shirt
-Items.TShirt_02_rich_01,Chest, -,Psycho Impact-Absorbent Nanoweave T-Shirt
-Items.TShirt_02_rich_02,Chest, -,Stylish Big Fish Steel-Sequined T-Shirt
-Items.TShirt_02_rich_03,Chest, -,Composite-Coated Bitch V.13 T-Shirt
-Items.TShirt_02_rich_04,Chest, -,Yoru No Samurai Gmo-Cotton T-Shirt
-Items.TShirt_03_basic_01,Chest, -,Extra-Sturdy Deadly Lagoon Tank Top
-Items.TShirt_03_basic_02,Chest, -,Extra-Durable Stripped Tank Top
-Items.TShirt_03_basic_03,Chest, -,Canine Power Duolayer Tank Top
-Items.TShirt_03_old_01,Chest, -,Spotted Tank Top
-Items.TShirt_03_old_02,Chest, -,Worn Tamashi Tank Top
-Items.TShirt_03_old_03,Chest, -,Mox Ultralight Tank Top With Micromesh Layer
-Items.TShirt_03_rich_01,Chest, -,Neokitsch Palm Bay Heat-Resistant Tank Top
-Items.TShirt_03_rich_02,Chest, -,Santa Muerte Heat-Resitant Tank Top
-Items.TShirt_03_rich_03,Chest, -,Ultralight Tested On Animals Polyamide Tank Top
-Items.TShirt_04_old_01,Chest, -,High-Tensile Cutout Tank
-Items.TShirt_04_old_02,Chest, -,Frayed Nanoweave Cutout Tank
-Items.TShirt_04_old_03,Chest, -,Bloody Piggy Duoweave Cutout Tank
-Items.TShirt_04_old_04,Chest, -,X Reinforced Polyamide Tank Top
-Items.TShirt_04_old_05,Chest, -,Secondhand Speed Addiction Duolayer Cutout Tank
-Items.TShirt_04_old_06,Chest, -,Sturdi-Weave Cutout Tank
-Items.TShirt_05_old_01,Chest, -,Torn Burn Corpo Shit Composite T-Shirt
-Items.TShirt_05_old_02,Chest, -,Torn Daemon Hunter Polyamide T-Shirt
-Items.TShirt_05_old_03,Chest, -,Torn Polyamide-Blend Camo T-Shirt
-Items.TShirt_05_old_04,Chest, -,Torn Syn-Blend T-Shirt
-Items.TShirt_05_old_05,Chest, -,Torn Sturdimesh T-Shirt
-Items.TShirt_05_old_06,Chest, -,Sturdi-Weave Bitch V.13 T-Shirt
-Items.TShirt_06_basic_01,Chest, -,Nippon Composite-Coated Muscle Tank
-Items.TShirt_06_basic_02,Chest, -,Bermuda Triangle Protective-Mesh Muscle Tank
-Items.TShirt_06_old_01,Chest, -,Bloody Piggy Triweave Muscle Tank
-Items.TShirt_06_old_02,Chest, -,Old Emerald Speed Muscle Tank
-Items.TShirt_06_rich_01,Chest, -,Purple Dragon Neokitsch Muscle Tank With Tungsten Sequins
-Items.TShirt_06_rich_02,Chest, -,X Nanotube-Weave Muscle Tank
-Items.TShirt_07_basic_01,Chest, -,Gray Decay Synfabric Racerback Tank
-Items.TShirt_07_basic_02,Chest, -,Night City Sturdimesh Racerback Tank
-Items.TShirt_07_old_01,Chest, -,Tacti-Fiber Racerback Tank 
-Items.TShirt_07_old_02,Chest, -,Yoru No Samurai Composite Racerback Tank
-Items.TShirt_07_rich_01,Chest, -,Psycho Puncture-Resistant Racerback Tank
-Items.TShirt_07_rich_02,Chest, -,Santa Muerte Neokitsch Aramid-Weave Racerback Tank
-Items.TShirt_08_basic_01,Chest, -,Knotted Armor Weave Tank
-Items.TShirt_08_basic_02,Chest, -,Extra-Reinforced Knotted Tank
-Items.TShirt_08_old_01,Chest, -,Faded Uniware Knotted Tank
-Items.TShirt_08_old_02,Chest, -,Secondhand Knotted Tank
-Items.TShirt_08_rich_01,Chest, -,Amethyst Punk Easy-Breathe Knotted Tank
-Items.TShirt_08_rich_02,Chest, -,Neokitsch Blooming Amber Resistance-Coated Tank
-Items.TShirt_09_basic_01,Chest, -,Ripped Tactical Camo Crop Top
-Items.TShirt_09_basic_02,Chest, -,Tattered Plaid Crop Top
-Items.TShirt_09_old_01,Chest, -,Ripped Tamashi Polyamide Tank Top
-Items.TShirt_09_old_02,Chest, -,Torn Reinforced Tank Top
-Items.TShirt_10_basic_01,Chest, -,Fuck You Durable-Weave Tank Top
-Items.TShirt_10_old_01,Chest, -,Heat-Resistant Reinforced Nu-Tek Tight Tank
-Items.TShirt_10_rich_01,Chest, -,'Saeko''s Protective Layer Tight Tank'
-Items.TShirt_11_basic_01,Chest, -,Reinforced-Seam Sporty Tank Top
-Items.TShirt_11_old_01,Chest, -,Punk Duolayer Tank Top
-Items.TShirt_11_rich_01,Chest, -,Adamant Army Reinforced Tactical Tank Top
-Items.Undershirt_02_basic_01,Chest, -,Reinforced Spotted Bra
-Items.Undershirt_02_basic_02,Chest, -,Flexi-Membrane Leather Bra
-Items.Undershirt_02_rich_01,Chest, -,Ultralight Amande Rose Anti-Puncture Bra
-Items.Undershirt_02_rich_02,Chest, -,Padded Denki Hachi Hybrid-Weave Bra
-Items.Undershirt_03_basic_01,Chest, -,Simple Duolayer Bustier
-Items.Undershirt_03_basic_02,Chest, -,Bara Kaika Syn-Leather Bustier
-Items.Undershirt_03_basic_03,Chest, -,Stylish Atomic Blast Composite Bustier
-Items.Undershirt_03_basic_04,Chest, -,Spotted Flexi-Membrane Bustier
-Items.Undershirt_03_rich_01,Chest, -,Ultralight Jasmin Doucet Syn-Cotton Bustier
-Items.Undershirt_03_rich_02,Chest, -,Reine De Abeilles Bustier With Bulletproof Lining
-Items.Vest_01_basic_01,Outer Torso, -,Border Guard Multilayer Aramid Vest
-Items.Vest_01_basic_02,Outer Torso, -,Arasaka Polycarbonate-Laced Bulletproof Aramid Vest
-Items.Vest_01_old_01,Outer Torso, -,Shabby 6th Street Aramid Vest
-Items.Vest_01_old_02,Outer Torso, -,Old Maelstrom-Tagged Aramid Vest
-Items.Vest_01_rich_01,Outer Torso, -,Cy-4n Hybrid-Knit Aramid Tactical Vest
-Items.Vest_01_rich_02,Outer Torso, -,M4rbl3 Titanium-Pleated Ballistic Vest
-Items.Vest_02_basic_01,Outer Torso, -,Enhanced Aramid Vest
-Items.Vest_02_basic_02,Outer Torso, -,Ultralight Composite Vest
-Items.Vest_02_old_01,Outer Torso, -,Punk Aramid Vest
-Items.Vest_02_old_02,Outer Torso, -,Military Aramid Vest
-Items.Vest_02_rich_01,Outer Torso, -,Kang Tao Metalstitich Aramid Vest
-Items.Vest_02_rich_02,Outer Torso, -,Militech Armor-Quilted Aramid Vest
-Items.Vest_03_basic_01,Outer Torso, -,Ncpd Reinforced Ballistic Vest
-Items.Vest_03_basic_02,Outer Torso, -,Borderguard Ballist Vest
-Items.Vest_03_old_01,Outer Torso, -,Scav Ballistic Vest
-Items.Vest_03_old_02,Outer Torso, -,6th Street Makeshift Ballistic Vest
-Items.Vest_03_rich_01,Outer Torso, -,Amber-04 Titanium Plated Ballistic Vest
-Items.Vest_03_rich_02,Outer Torso, -,Powder Pink Trivanadium Alloy Ballistic Vest
-Items.Vest_04_basic_01,Outer Torso, -,Basic Ballistic Vest
-Items.Vest_04_basic_02,Outer Torso, -,Police Ballistic Vest
-Items.Vest_04_old_01,Outer Torso, -,Old Combat Vest
-Items.Vest_04_old_02,Outer Torso, -,Worn-Out Ballistic Vest
-Items.Vest_04_rich_01,Outer Torso, -,Virtuglow Composite Ballistic Vest
-Items.Vest_04_rich_02,Outer Torso, -,Daemon Hunter Titanium-Weave Ballistic Vest
-Items.Vest_06_basic_01,Outer Torso, -,Militec Armorfibre Tactical Harness
-Items.Vest_06_basic_02,Outer Torso, -,Tyger Claws Reinforced Tactical Harness
-Items.Vest_06_old_01,Outer Torso, -,6th Street Tactical Harness
-Items.Vest_06_old_02,Outer Torso, -,Dirty Nusa Tactical Harness
-Items.Vest_06_rich_01,Outer Torso, -,Animals Heavy Composite-Plated Tactical Harness
-Items.Vest_06_rich_02,Outer Torso, -,Decadencia Verde Bulletproof Tactical Harness
-Items.Vest_06_rich_03,Outer Torso, -,Arasaka Ultralight Hybrid Tactical Harness
-Items.Vest_06_rich_04,Outer Torso, -,Flazh Armored Thermoset Tactical Harness
-Items.Vest_07_basic_01,Outer Torso, -,Aramid-Enhanced High-Collar Military Vest
-Items.Vest_07_basic_02,Outer Torso, -,Enhanced High Collar Vest
-Items.Vest_07_basic_03,Outer Torso, -,Basic Detachable Reactive-Fibre Collar
-Items.Vest_07_old_01,Outer Torso, -,Punk High-Collar Vest
-Items.Vest_07_old_02,Outer Torso, -,Durable High-Collar Vest
-Items.Vest_07_old_03,Outer Torso, -,Graffiti Detachable Collat
-Items.Vest_07_rich_01,Outer Torso, -,Shirokuro High-Collar Composite-Lined Vest
-Items.Vest_07_rich_02,Outer Torso, -,Urban Jungle High-Collar Reinforced Leather Vest
-Items.Vest_07_rich_03,Outer Torso, -,Magenta Puncture-Resistant Multilayer High-Collar Vest
-Items.Vest_08_basic_01,Outer Torso, -,Militech Heavy Tactical Vest
-Items.Vest_08_basic_02,Outer Torso, -,Kang Tao Reinforced Tactical Vest
-Items.Vest_08_old_01,Outer Torso, -,Border Guard Tactical Vest
-Items.Vest_08_old_02,Outer Torso, -,Camo Tactical Vest
-Items.Vest_08_rich_01,Outer Torso, -,Bitch V.13 Dual-Reinforced Tactical Vest
-Items.Vest_08_rich_02,Outer Torso, -,Trauma Team Armor-Weave Tactical Vest
-Items.Vest_10_basic_01,Outer Torso, -,Sturdy Shoulder Straps
-Items.Vest_10_basic_02,Outer Torso, -,Valentinos Leather Shoulder Straps
-Items.Vest_10_old_01,Outer Torso, -,Old Camo Shoulder Straps
-Items.Vest_10_old_02,Outer Torso, -,6th Street Shoulder Straps
-Items.Vest_10_rich_01,Outer Torso, -,Animals Reinforced Carbon-Fibre Shoulder Straps
-Items.Vest_10_rich_02,Outer Torso, -,Wraiths Dual-Reinforced Shoulder Straps
-Items.Vest_11_basic_01,Outer Torso, -,Reflective Metalweave Nylon Vest
-Items.Vest_11_basic_02,Outer Torso, -,Kang Tao Reflective Hybridweave Utility Vest
-Items.Vest_11_old_01,Outer Torso, -,Muddy Ncpd Vest
-Items.Vest_11_old_02,Outer Torso, -,Old 6th Street Vest
-Items.Vest_11_rich_01,Outer Torso, -,Cyan Thermoset Combat Camo Vest
-Items.Vest_11_rich_02,Outer Torso, -,Graffiti Ultraresistant Duolayer Vest
-Items.Vest_12_basic_01,Outer Torso, -,Arasaka Thermoset Aramid Collar
-Items.Vest_12_basic_02,Outer Torso, -,Mox Nanoplastic Collar
-Items.Vest_12_old_01,Outer Torso, -,Military Aramid Collar
-Items.Vest_12_old_02,Outer Torso, -,Ncpd Aramid Collar
-Items.Vest_12_rich_01,Outer Torso, -,Tyger Claws Ceramic-Laminate Aramid Collar
-Items.Vest_12_rich_02,Outer Torso, -,Valentinos Armor-Plated Thermoset Aramid Collar
-Items.Vest_13_basic_01,Outer Torso, -,Militech Ultralight Aramid Breastplate
-Items.Vest_13_basic_02,Outer Torso, -,Corporate Armor-Plated Aramid Breastplate
-Items.Vest_13_rich_01,Outer Torso, -,'Saeko''s Prototype Tactical Aramid Breastplate'
-Items.Vest_13_rich_02,Outer Torso, -,Arumajiro Dual-Armor Aramid Breastplate
-Items.Vest_13_rich_03,Outer Torso, -,Kani Kara Titanium-Reinforced Composite Breastplate
-Items.Vest_13_rich_04,Outer Torso, -,5hi3ld Superb Combatweave Aramid Breastplate
-Items.Vest_14_basic_01,Outer Torso, -,Microplate-Lined Camo Vest
-Items.Vest_14_basic_02,Outer Torso, -,Lady In Blue Synweave Vest
-Items.Vest_14_old_01,Outer Torso, -,Nusa Leather Vest
-Items.Vest_14_old_02,Outer Torso, -,Secondhand Synthleather Vest
-Items.Vest_14_rich_01,Outer Torso, -,Bitch V.13 Composite-Enhanced Vest
-Items.Vest_14_rich_02,Outer Torso, -,Classy Brass Flame-Resistant Laminated Vest
-Items.Vest_15_basic_01,Outer Torso, -,Hand-Reinforced Hooded Denim Cut-Off
-Items.Vest_15_basic_02,Outer Torso, -,Camo Combat Cut-Off
-Items.Vest_15_basic_03,Outer Torso, -,Candy Pill Ultra-Durable Cut-Off
-Items.Vest_15_old_01,Outer Torso, -,Bloody Piggy Cut-Off
-Items.Vest_15_old_02,Outer Torso, -,Shabby Hooded Cut-Off
-Items.Vest_15_old_03,Outer Torso, -,Cut-Off With Protective Underlayer
-Items.Vest_16_basic_01,Outer Torso, -,Tamashí Enhanced Short Puffer
-Items.Vest_16_basic_02,Outer Torso, -,Nanostitched Short Puffer
-Items.Vest_16_old_01,Outer Torso, -,Short Puffer With Microplate Underlayer
-Items.Vest_16_old_02,Outer Torso, -,Reinforced Short Puffer
-Items.Vest_16_rich_01,Outer Torso, -,Claw Taste Ultradurable Short Puffer
-Items.Vest_16_rich_02,Outer Torso, -,Fancy Dragon Aramid-Lined Short Puffer
-Items.Vest_17_basic_01,Outer Torso, -,Jshlx Reinforced Puffer Vest
-Items.Vest_17_basic_02,Outer Torso, -,Final Impulse Duolayer Puffer Vest
-Items.Vest_17_rich_01,Outer Torso, -,Wasp Anti-Puncture Polyamide Puffer Vest
-Items.Vest_17_rich_02,Outer Torso, -,Magenta Bee Trilayer Hybrid Puffer Vest
-Items.Vest_18_basic_01,Outer Torso, -,Polycarbonate Western Fringe Vest
-Items.Vest_18_basic_02,Outer Torso, -,Icon America Duolayer Western Fringe Vest
-Items.Vest_18_old_01,Outer Torso, -,Camo Western Fringe Vest
-Items.Vest_18_rich_01,Outer Torso, -,Adamant Road Composite-Reinforced Western Fringe Vest
-Items.Vest_18_rich_02,Outer Torso, -,Anhelo Blanco Puncture-Resistant Western Fringe Vest
-Items.Vest_19_basic_01,Outer Torso, -,Asa No Heiwa Enhanced Yukata
-Items.Vest_19_basic_02,Outer Torso, -,Elegant Nanoweave Yukata
-Items.Vest_19_old_01,Outer Torso, -,Synweave Armor-Coated Yukata
-Items.Vest_19_rich_01,Outer Torso, -,Wakai Umi Flame-Resistant Yukata
-Items.Vest_19_rich_02,Outer Torso, -,Murasaki Tear-Resistant Yukata
-Items.Vest_20_basic_01,Outer Torso, -,Impact-Absorbent Padded Biker Vest
-Items.Vest_20_basic_02,Outer Torso, -,Hjudge Werther Reinforced Leather Biker Vest
-Items.Vest_20_old_01,Outer Torso, -,Studded Biker Vest
-Items.Vest_20_old_02,Outer Torso, -,Leather Biker Vest
-Items.Vest_20_rich_01,Outer Torso, -,Silverock Bulletproof-Laminate Biker Vest
-Items.Vest_20_rich_02,Outer Torso, -,Rosa Escarlata Embossed Armoleather Biker Vest
-Items.Visor_01_basic_01,Face, -,Technopolymer Lab Infovisor
-Items.Visor_01_basic_02,Face, -,Illegally Modified Military Infovisor
-Items.Visor_01_basic_03,Face, -,Blouie Blue Aramid-Coated Infovisor
-Items.Visor_01_basic_04,Face, -,Trendy Red Vision Laminated Glass Infovisor
-Items.Visor_01_basic_05,Face, -,Sun Spark Thermoset Chemglass Infovisor
-Items.Visor_02_basic_01,Face, -,Boostknit-Polymer Military Techgogs
-Items.Visor_02_basic_02,Face, -,Arasaka Tactical Techgogs
-Items.Visor_02_basic_03,Face, -,Reinforced-Plastic Biker Techgogs
-Items.Visor_02_old_01,Face, -,Broken Techgogs
-Items.Visor_02_old_02,Face, -,Old Biker Techgogs
-Items.Visor_02_rich_01,Face, -,Yamori Tungsten-Steel Biker Techgogs
-Items.Visor_02_rich_02,Face, -,Bitch Armored Ice-Protected Techgogs
-Items.Visor_02_rich_03,Face, -,Dried Blood Metal-Reinforced Tactical Techgogs
+id,type,set,name,quest,notes,show
+Items.Balaclava_01_basic_01,Head, -,Ordinary Tactical Balaclava With Reactive Layering,,,1
+Items.Balaclava_01_basic_02,Head, -,Darra Polytechnic Tactical Balaclava,,,1
+Items.Balaclava_01_old_01,Head, -,Balaclava With Schock Absorbent Composite Layering,,,1
+Items.Balaclava_01_old_02,Head, -,Nami Balaclava With Polyamide-Insulated Lining,,,1
+Items.Balaclava_01_rich_01,Head, -,Thermo-Impulse Anti-Shrapnel Balaclava,,,1
+Items.Balaclava_01_rich_02,Head, -,'Saeko''s Darkernet Tactical Balaclava With Nanotubing',,,1
+Items.Boots_01_basic_01,Feet, -,Reinforced Uniware Platform Boots,,,1
+Items.Boots_01_old_01,Feet, -,Titanium-Layer Platform Boots,,,1
+Items.Boots_01_rich_01,Feet, -,Street Queen Platform Boots Reinforced Stitching,,,1
+Items.Boots_02_basic_01,Feet, -,Comfy Hardened-Leather Western Shorties,,,1
+Items.Boots_02_basic_02,Feet, -,Varnished Rocker Shorties With Extra Protection,,,1
+Items.Boots_02_old_01,Feet, -,Worn-Leather Western Shorties,,,1
+Items.Boots_02_old_02,Feet, -,Worn Biker Shorties Composite Inserts,,,1
+Items.Boots_02_rich_001,Feet, -,Bulletproof Sheriff Western Shorties,,,1
+Items.Boots_02_rich_02,Feet, -,Gunslinger Western Shorties With Titanium Inserts,,,1
+Items.Boots_03_basic_01,Feet, -,Heavy-Duty Biker Boots,,,1
+Items.Boots_03_basic_02,Feet, -,Reinforced Biker Boots,,,1
+Items.Boots_03_old_01,Feet, -,Weathered Combat Boots,,,1
+Items.Boots_03_old_02,Feet, -,Rubber-Reinforced Tactical Boots,,,1
+Items.Boots_03_rich_01,Feet, -,Light Speed Biker Boots With Nanoarmor Fabric,,,1
+Items.Boots_03_rich_02,Feet, -,Sturdy Orchid Dawn Synleather Biker Boots,,,1
+Items.Boots_04_basic_01,Feet, -,Steel-Toe Rocker Boots,,,1
+Items.Boots_04_basic_02,Feet, -,Classic Molybdenum Steel-Toe Combat Boots,,,1
+Items.Boots_04_basic_03,Feet, -,Heavy-Duty New Murica Combat Boots,,,1
+Items.Boots_04_old_01,Feet, -,Used Leather Combat Boots,,,1
+Items.Boots_04_old_02,Feet, -,Titanium-Fitted Polyamide Combat Boots,,,1
+Items.Boots_04_old_03,Feet, -,Hardened Tungsten Steel-Toe Combat Boots,,,1
+Items.Boots_05_basic_01,Feet, -,Breathable Icon America Fleets,,,1
+Items.Boots_05_basic_02,Feet, -,Ultralight Fleets Composite Lining,,,1
+Items.Boots_05_basic_03,Feet, -,Heavy-Duty Punk Fleets,,,1
+Items.Boots_05_old_01,Feet, -,Muddy Fleets,,,1
+Items.Boots_05_old_02,Feet, -,Used Synleather Fleets,,,1
+Items.Boots_05_old_03,Feet, -,Reinforced Plastic Fleets,,,1
+Items.Boots_05_rich_01,Feet, -,At-Ak Strong-Quilted Bubblegum Puffed Fleets,,,1
+Items.Boots_06_basic_01,Feet, -,Heat-Resistant Military Boots,,,1
+Items.Boots_06_basic_02,Feet, -,Sporty Flexiweave Work Boots,,,1
+Items.Boots_06_old_01,Feet, -,Polyamide-Lined Work Boots,,,1
+Items.Boots_06_old_02,Feet, -,Frayed Underwater Work Boots,,,1
+Items.Boots_06_rich_01,Feet, -,Rostiger Teich Thermoactive Puffed Work Boots,,,1
+Items.Boots_06_rich_02,Feet, -,Light Star Trail Chem-Resistant Work Boots,,,1
+Items.Boots_07_basic_01,Feet, -,Glitter Laceless Sturdy-Stitched Steel-Toes,,,1
+Items.Boots_07_basic_02,Feet, -,Camo Aramid-Weave Steel-Toes,,,1
+Items.Boots_07_old_01,Feet, -,Sturdy Manganese Steel-Toes,,,1
+Items.Boots_07_old_02,Feet, -,Faded Cirqt Laceless Steel-Toes,,,1
+Items.Boots_07_old_03,Feet, -,Havskum Carbon-Fiber Steel-Toes,,,1
+Items.Boots_07_rich_01,Feet, -,Claret Shine Armored Laceless Steel-Toes,,,1
+Items.Boots_07_rich_02,Feet, -,Stylish Rock Garden Tungsten-Alloy Steel-Toes,,,1
+Items.Boots_08_basic_01,Feet, -,Padded Strappers Aluminum Inserts,,,1
+Items.Boots_08_basic_02,Feet, -,Reinforced Sudo Biker Boots,,,1
+Items.Boots_08_old_01,Feet, -,Repurposed Military Boots,,,1
+Items.Boots_08_old_02,Feet, -,Boosted Military Strappers,,,1
+Items.Boots_08_rich_01,Feet, -,Carbon-Composite Neko-Ka Strappers,,,1
+Items.Boots_09_basic_01,Feet, -,Heavy-Duty Biker Exo-Jacks,,,1
+Items.Boots_09_basic_02,Feet, -,Trendy Ultralight Exo-Jacks,,,1
+Items.Boots_09_old_01,Feet, -,Composite Punk Exo-Jacks,,,1
+Items.Boots_09_old_02,Feet, -,Worn Exo-Jacks,,,1
+Items.Boots_09_rich_01,Feet, -,Militoxic Ceramic-Layer Combat Exo-Jacks,,,1
+Items.Boots_09_rich_02,Feet, -,Multilayered Kasen Exo-Jacks With Anti-Shrapnel Lining,,,1
+Items.Boots_09_rich_03,Feet, -,Reinforced Rouge Absurde Exo-Jacks With Defensive Nanotubing,,,1
+Items.Boots_10_basic_01,Feet, -,Western Star Cowboy Boots With Thick Synthetic Heels,,,1
+Items.Boots_10_basic_02,Feet, -,Worn Traditional Cowboy Boots,,,1
+Items.Boots_10_old_01,Feet, -,Rubber-Reinforced Cowboy Boots,,,1
+Items.Boots_10_old_02,Feet, -,Reinforced Snake-Skin Cowboy Boots,,,1
+Items.Boots_10_rich_01,Feet, -,Ghost Town Cowboy Boots With Heat-Resistant Heels,,,1
+Items.Boots_10_rich_02,Feet, -,Trendy Lonely Luke Cowboy Boots With Protective Mesh,,,1
+Items.Boots_11_basic_01,Feet, -,Light Pink Snow Boots With Protective Mesh,,,1
+Items.Boots_11_basic_02,Feet, -,Yuki Snow Boots With Reinforced Lining,,,1
+Items.Boots_11_old_01,Feet, -,Anti-Chem Winter Work Boots,,,1
+Items.Boots_11_old_02,Feet, -,Repaired Zolotoy Pukh Snow Boots,,,1
+Items.Boots_11_rich_01,Feet, -,Pixel Neige Snow Boots With Canvas Duolayer,,,1
+Items.Boots_11_rich_02,Feet, -,Pinku Inku Snow Boots Thermoactive Insoles,,,1
+Items.Cap_01_basic_01,Head, -,Darra Polytechnic Cap,,,1
+Items.Cap_01_basic_02,Head, -,Limited-Edition Daemon Hunter Cap,,,1
+Items.Cap_01_basic_03,Head, -,Reinforced Baseball Cap,,,1
+Items.Cap_01_old_01,Head, -,Worn Baseball Cap,,,1
+Items.Cap_01_old_02,Head, -,Braindance Cap,,,1
+Items.Cap_01_old_03,Head, -,Worn Samurai Cap,,,1
+Items.Cap_01_rich_01,Head, -,St33t Dandy Composite-Coated Cap,,,1
+Items.Cap_01_rich_02,Head, -,Durable Urban Soul Cap With Rubber Inserts,,,1
+Items.Cap_01_rich_03,Head, -,Bitch V.13 Cap With Titanium Microplate Mesh,,,1
+Items.Cap_02_basic_01,Head, -,Stylish Leather Flat Cap With Light Armor Layer,,,1
+Items.Cap_02_basic_02,Head, -,Classic Hardened-Leather Flat Cap,,,1
+Items.Cap_02_basic_03,Head, -,Flat Cap With Reinforced Seams,,,1
+Items.Cap_02_old_01,Head, -,Sturdy Plaid Flat Cap,,,1
+Items.Cap_02_old_02,Head, -,Faded Nusa Flat Cap,,,1
+Items.Cap_02_old_03,Head, -,Plain Secondhand Flat Cap,,,1
+Items.Cap_03_basic_01,Head, -,Mox Beanie,,,1
+Items.Cap_03_basic_02,Head, -,Aztec Winter Beanie,,,1
+Items.Cap_03_old_01,Head, -,Worn Beanie,,,1
+Items.Cap_03_old_02,Head, -,Old Smiley Hard Hat,,,1
+Items.Cap_03_rich_01,Head, -,Kinryu Beanie With Titanium Sequins,,,1
+Items.Cap_03_rich_02,Head, -,Durable Emerald Speed Polyamide Beanie,,,1
+Items.Cap_04_basic_01,Head, -,Trauma Team Cap With Headset,,,1
+Items.Cap_04_basic_02,Head, -,Certified Cap With Camera,,,1
+Items.Cap_04_old_01,Head, -,Cap With Makeshift Camera,,,1
+Items.Cap_04_old_02,Head, -,Arasaka Cap With Camera,,,1
+Items.Cap_04_rich_01,Head, -,Kang Tao Field Cap Holodisplay,,,1
+Items.Cap_05_basic_01,Head, -,Carbon-Fiber Arasaka Side Cap,,,1
+Items.Cap_05_basic_02,Head, -,Classic Side Cap With Strengthened Polyamide,,,1
+Items.Cap_05_basic_03,Head, -,'Officer''s Side Cap With Reinforced Plastic',,,1
+Items.Cap_05_old_01,Head, -,6th Street Side Cap,,,1
+Items.Cap_05_old_02,Head, -,Maelstrom Side Cap,,,1
+Items.Cap_06_basic_01,Head, -,Cotton Motorcycle Cap With Protective Inset,,,1
+Items.Cap_06_basic_02,Head, -,Insulated Cap With Protective Goggles,,,1
+Items.Cap_06_old_01,Head, -,Smiley Hard Pilot Cap,,,1
+Items.Cap_06_old_02,Head, -,Old Motorcycle Cap,,,1
+Items.Cap_06_rich_01,Head, -,'Tell Me I''m Cute Pilot Cap With Technopolymer Goggles',,,1
+Items.Cap_06_rich_02,Head, -,Golden Bough Pilot Cap With Composite Exterior,,,1
+Items.CasualShoes_01_basic_01,Feet, -,Sunny Ammo Synthetic High-Tops,,,1
+Items.CasualShoes_01_basic_02,Feet, -,Blackwall Synthetic Punk High-Tops,,,1
+Items.CasualShoes_01_basic_03,Feet, -,Turquoisewall Composite Punk High-Tops,,,1
+Items.CasualShoes_01_basic_04,Feet, -,Practical Aramid-Fiber High-Tops,,,1
+Items.CasualShoes_01_basic_05,Feet, -,Street Tactical-Fiber High-Tops,,,1
+Items.CasualShoes_01_old_01,Feet, -,Worn Aramid High-Tops,,,1
+Items.CasualShoes_01_old_02,Feet, -,Rubber-Reinforced Work High-Tops,,,1
+Items.CasualShoes_02_basic_01,Feet, -,Enhanced Daemon Hunter Tongues,,,1
+Items.CasualShoes_02_basic_02,Feet, -,Milky Trail Ceramic Alloy Canvas Tongues,,,1
+Items.CasualShoes_02_old_01,Feet, -,Carbon Reinforced Tongues,,,1
+Items.CasualShoes_02_old_02,Feet, -,Anti-Puncture Nanoweave Tongues,,,1
+Items.CasualShoes_04_basic_01,Feet, -,Cut3 Brainzz Tear-Proof Sneakers,,,1
+Items.CasualShoes_04_basic_02,Feet, -,Darra Polytechnic Suede Sneakers,,,1
+Items.CasualShoes_04_old_01,Feet, -,Sneakers With Protective Inserts,,,1
+Items.CasualShoes_04_old_02,Feet, -,Threadbare Sneakers,,,1
+Items.CasualShoes_05_basic_01,Feet, -,Electric Marble Ultralight Athletic Shoes,,,1
+Items.CasualShoes_05_basic_02,Feet, -,Yukihyo Polycarbonate Athletic Shoes,,,1
+Items.CasualShoes_05_basic_03,Feet, -,Green Graffiti Armor-Coated Athletic Shoes,,,1
+Items.CasualShoes_05_old_01,Feet, -,Used Militech Training Shoes,,,1
+Items.CasualShoes_05_old_02,Feet, -,Rubber-Reinforced Athletic Shoes,,,1
+Items.CasualShoes_05_old_03,Feet, -,Frayed Athletic Shoes,,,1
+Items.CasualShoes_05_rich_01,Feet, -,Pastel Power Hybrid-Fabric Armored Athletic Shoes,,,1
+Items.CasualShoes_05_rich_02,Feet, -,Team Captain Rigid-Polyamide Athletic Shoes,,,1
+Items.CasualShoes_05_rich_03,Feet, -,Rainbow Racer Heat-Resistant Shoes With Breathable Lining,,,1
+Items.CasualShoes_06_basic_01,Feet, -,Street Shoes With Multilayered Protection,,,1
+Items.CasualShoes_06_basic_02,Feet, -,Rigid Tigre Urbain Street Shoes,,,1
+Items.CasualShoes_06_old_01,Feet, -,Aramid-Lined Street Shoes,,,1
+Items.CasualShoes_06_old_02,Feet, -,Shock-Absorbent Street Shoes,,,1
+Items.CasualShoes_06_rich_01,Feet, -,Chaman Metallique Street Shoes With Thermoactive Alloys,,,1
+Items.CasualShoes_06_rich_02,Feet, -,Glamor Spirit Street Shoes With Reinforced Insoles,,,1
+Items.CasualShoes_07_basic_01,Feet, -,Robust Spunky Monkey Kicks,,,1
+Items.CasualShoes_07_basic_02,Feet, -,Licks Kicks With Recycled Resistant Materials,,,1
+Items.CasualShoes_07_basic_03,Feet, -,Bermuda Triangle Kicks With Reinforced Lining,,,1
+Items.CasualShoes_07_basic_04,Feet, -,Magenta Kicks With Reinforced Stitching,,,1
+Items.CasualShoes_07_old_01,Feet, -,Incon America Synfiber Kicks,,,1
+Items.CasualShoes_07_old_02,Feet, -,New Murica Carbonweave Kicks,,,1
+Items.CasualShoes_07_old_03,Feet, -,Worn Spunky Monkey Kicks,,,1
+Items.CasualShoes_07_rich_01,Feet, -,Kashuu Hanten Kicks With Modified Polyamide,,,1
+Items.CasualShoes_07_rich_02,Feet, -,Bitch V.13 Kicks With Tungsten-Steel Sequins,,,1
+Items.CasualShoes_07_rich_03,Feet, -,Yoru No Samurai Kicks With Carbon-Fiber Layering,,,1
+Items.Coat_01_basic_01,Outer Torso, -,Spunky Monkey Aramid Coat,,,1
+Items.Coat_01_basic_02,Outer Torso, -,At-Ak Reinforced Biker Coat,,,1
+Items.Coat_01_basic_03,Outer Torso, -,Stylish Ten70 Daemon Hunter Coat,,,1
+Items.Coat_01_old_01,Outer Torso, -,Worn Punk Coat,,,1
+Items.Coat_01_old_02,Outer Torso, -,Puncture-Resistant Long Coat,,,1
+Items.Coat_01_old_03,Outer Torso, -,Burn Corpo Shit Duolayer Coat,,,1
+Items.Coat_01_rich_01,Outer Torso, -,Golden Mean Hybrid-Weave Flame-Resistant Coat,,,1
+Items.Coat_01_rich_02,Outer Torso, -,Canine Power Polyamide Trilayer Coat,,,1
+Items.Coat_01_rich_03,Outer Torso, -,Stylish Tora To Ryu Coat With Titanium Inserts,,,1
+Items.Coat_02_basic_01,Outer Torso, -,Duolayer Nylon Vest,,,1
+Items.Coat_02_basic_02,Outer Torso, -,Composite-Lined Long Vest Pattern,,,1
+Items.Coat_02_old_01,Outer Torso, -,Armor-Weave Long Vest,,,1
+Items.Coat_02_old_02,Outer Torso, -,Dated Long Vest,,,1
+Items.Coat_02_old_03,Outer Torso, -,Heat-Resistant Long Vest,,,1
+Items.Coat_02_old_04,Outer Torso, -,Durable Plastic-Weave Long Vest,,,1
+Items.Coat_03_basic_01,Outer Torso, -,Durable Synthetic Biker Coat,,,1
+Items.Coat_03_basic_02,Outer Torso, -,Kyuketsuki Flame-Resistant Polyamide Rocker Coat,,,1
+Items.Coat_03_old_01,Outer Torso, -,Stained Puncture-Resistant Coat,,,1
+Items.Coat_03_old_02,Outer Torso, -,Wraiths Coat With Improvised Bulletproof Lining,,,1
+Items.Coat_03_old_03,Outer Torso, -,6th Street Combat-Tailored Biker Coat,,,1
+Items.Coat_03_rich_01,Outer Torso, -,Molto Vivace Nanoweave Rocker Coat,,,1
+Items.Coat_03_rich_02,Outer Torso, -,Heavy Hybrid-Armor Trickster Coat,,,1
+Items.Coat_04_basic_01,Outer Torso, -,Ultralight Shine Spectrum Trench Coat,,,1
+Items.Coat_04_basic_02,Outer Torso, -,Polka Dot Trench Coat Puncture-Resistant Lining,,,1
+Items.Coat_04_basic_03,Outer Torso, -,Koumori Synleather Trench Coat,,,1
+Items.Coat_04_old_01,Outer Torso, -,Old Spotted Trench Coat,,,1
+Items.Coat_04_old_02,Outer Torso, -,Timeworn Trench Coat,,,1
+Items.Coat_04_rich_01,Outer Torso, -,Fairy Frost Trench Coat With Protective Mesh,,,1
+Items.Coat_04_rich_02,Outer Torso, -,Milky Gold Trench Coat With Bulletproof Triweave,,,1
+Items.Cop_01_Set_Boots,Feet,police,Waterproof Badge Combat Boots,,,1
+Items.Cop_01_Set_Glasses,Face,police,Holo-Tinted Badge Goggles,,,1
+Items.Cop_01_Set_Jacket,Outer Torso,police,Heavy-Duty Aramid-Reinforced Badge Coat,,,1
+Items.Cop_01_Set_Pants,Legs,police,Anti-Puncture Neotac Pants With Composite Lining,,,1
+Items.Corporate_01_Set_FormalJacket,Outer Torso,corpo,Corporate Blazer With Bulletproof Linings,,,1
+Items.Corporate_01_Set_FormalShirt,Chest,corpo,Carbonweave Silk Corporate Shirt,,,1
+Items.Corporate_01_Set_FormalShoes,Feet,corpo,Ergonomic Reinforced Corporate Pumps,,,1
+Items.Corporate_01_Set_Glasses,Face,corpo,Tactical Hybrid-Glass Corporate Glasses,,,1
+Items.Corporate_01_Set_Pants,Legs,corpo,Breathabe Reinforced Bio-Cotton Corporate Slaps,,,1
+Items.Dress_01_basic_01,Outer Torso, -,Victorian Rose Anti-Shrapnel Pencil Dress,,,1
+Items.Dress_01_basic_02,Outer Torso, -,Rozovaya Reka Pencil Dress With Protective Membrane,,,1
+Items.Dress_01_basic_03,Outer Torso, -,Elegant Hybrid-Lining Pencil Dress,,,1
+Items.Dress_01_rich_01,Outer Torso, -,Lady In White Hybrid-Weave Pencil Dress,,,1
+Items.Dress_01_rich_02,Outer Torso, -,Demon Rhapsody Reactive-Layer Pencil Dress,,,1
+Items.Dress_01_rich_03,Outer Torso, -,Green Viper Double-Nanoweave Pencil Dress,,,1
+Items.Dress_02_basic_01,Outer Torso, -,Durable Synweave Corporate Dress,,,1
+Items.Dress_02_basic_02,Outer Torso, -,Arasaka Polyamide Corpo-Skirt,,,1
+Items.Dress_02_basic_03,Outer Torso, -,Spotted Armor-Coated Corpo-Skirt,,,1
+Items.Dress_02_rich_01,Outer Torso, -,Phoenix Formal Dress With Microarmor Layer,,,1
+Items.Dress_02_rich_02,Outer Torso, -,Brass Harmony Composite-Reinforced Formal Dress,,,1
+Items.Dress_02_rich_03,Outer Torso, -,Schwarze Limette Aramid-Fabric Dress,,,1
+Items.Fixer_01_Set_Coat,Outer Torso,fixer,Trilayer Aramid-Weave Fixer Skirt With Jacket,,,1
+Items.Fixer_01_Set_FormalShoes,Feet,fixer,Elastiweave Fixer Pumps With Reinforced Seams,,,1
+Items.Fixer_01_Set_Glasses,Face,fixer,Plycarbonate Opti-Enhanced Fixer Glasses,,,1
+Items.Fixer_01_Set_Pants,Legs,fixer,Protective-Layer Fixer Skirt,,,1
+Items.Fixer_01_Set_TShirt,Chest,fixer,Heat-Resistant Aramid-Weave Fixer Bustier,,,1
+Items.FormalJacket_01_basic_01,Outer Torso, -,Polyamide-Blend Suit Jacket,,,1
+Items.FormalJacket_01_basic_02,Outer Torso, -,Wool Suit Jacket With Reinforced Synfiber-Weave,,,1
+Items.FormalJacket_01_old_01,Outer Torso, -,Sturdy Synfabric Suit Jacket,,,1
+Items.FormalJacket_01_old_02,Outer Torso, -,Aramid-Weave Suit Jacket,,,1
+Items.FormalJacket_01_rich_01,Outer Torso, -,Marbre Doré Suit Jacket With Discreet Bulletproof Lining,,,1
+Items.FormalJacket_01_rich_02,Outer Torso, -,Mosaic Gleam Blazer With Puncture-Resistant Mesh,,,1
+Items.FormalJacket_02_basic_01,Outer Torso, -,Arasaka Polycarbonate Corporate Blazer,,,1
+Items.FormalJacket_02_basic_02,Outer Torso, -,Durable Synsilk Blazer,,,1
+Items.FormalJacket_02_basic_03,Outer Torso, -,Powder Pink Light Polyamide Blazer,,,1
+Items.FormalJacket_02_rich_01,Outer Torso, -,Lilla Natt Composite-Leather Rocker Blazer,,,1
+Items.FormalJacket_02_rich_02,Outer Torso, -,Diamant Noir Carbon-Reinforced Corporate Blazer,,,1
+Items.FormalJacket_02_rich_03,Outer Torso, -,Elegant Caret Cassico Blazer With Nanotube Stripes,,,1
+Items.FormalJacket_03_basic_01,Outer Torso, -,Comfortable Midori Biofabric Cocktail Jacket,,,1
+Items.FormalJacket_03_basic_02,Outer Torso, -,Syncotton Cocktail Jacket,,,1
+Items.FormalJacket_03_basic_03,Outer Torso, -,Hardy Dandylion Cocktail Jacket,,,1
+Items.FormalJacket_03_rich_01,Outer Torso, -,Feline Fury Flame-Resistant Cocktail Jacket,,,1
+Items.FormalJacket_03_rich_02,Outer Torso, -,Red Dragon Cocktail Jacket With Titanium Microplate Lining,,,1
+Items.FormalJacket_03_rich_03,Outer Torso, -,Orchid Snake Nanotube-Triweave Cocktail Jacket,,,1
+Items.FormalJacket_04_basic_01,Outer Torso, -,Light Synfiber Evening Jacket,,,1
+Items.FormalJacket_04_basic_02,Outer Torso, -,Cyan Multiresist Evening Jacket,,,1
+Items.FormalJacket_04_basic_03,Outer Torso, -,Thick Double Knit Evening Jacket,,,1
+Items.FormalJacket_04_rich_01,Outer Torso, -,Gatto Nero Evening Jacket With Tungsten-Steel Microplates,,,1
+Items.FormalJacket_04_rich_02,Outer Torso, -,Scaled Kinryu Blazer With Carbon-Composite Insets,,,1
+Items.FormalJacket_04_rich_03,Outer Torso, -,Noble White Albino Alligator Evening Jacket,,,1
+Items.FormalJacket_05_basic_01,Outer Torso, -,Synthetic Corporate Jacket,,,1
+Items.FormalJacket_05_basic_02,Outer Torso, -,Arasaka Formal Jacket With Light Armorplating,,,1
+Items.FormalJacket_05_basic_03,Outer Torso, -,Formal Jacket Composite Insets,,,1
+Items.FormalJacket_05_rich_01,Outer Torso, -,Bai Long High-Alloy Steel-Sequined Jacket,,,1
+Items.FormalJacket_05_rich_02,Outer Torso, -,Yunami Formal Hybrid Duoweave Jacket,,,1
+Items.FormalJacket_05_rich_03,Outer Torso, -,Golden Hive Formal Antichem Membrane Jacket,,,1
+Items.FormalPants_01_basic_01,Legs, -,Sturdy Synfiber Pleated Pants,,,1
+Items.FormalPants_01_basic_02,Legs, -,Classic Composite-Lined Pleated Pants,,,1
+Items.FormalPants_01_basic_03,Legs, -,Durable Bioweave Pleated Pants,,,1
+Items.FormalPants_01_old_01,Legs, -,Reinforced Anti-Puncture Pleated Pants,,,1
+Items.FormalPants_01_old_02,Legs, -,Tacticloth Pleated Pants,,,1
+Items.FormalPants_02_basic_01,Legs, -,Classic Immuno-Cotton Corporate Pants,,,1
+Items.FormalPants_02_basic_02,Legs, -,Classy Bordeaux Pants With Fortified Seams,,,1
+Items.FormalPants_02_basic_03,Legs, -,Flash Formal Pants With Additional Lining,,,1
+Items.FormalPants_02_rich_01,Legs, -,Bai Long Formal Pants With Reinforced Neo-Silk,,,1
+Items.FormalPants_02_rich_02,Legs, -,Royal Gray Aramid-Weave Dress Pants,,,1
+Items.FormalPants_02_rich_03,Legs, -,Golden Hive Polyamide Designer Pants,,,1
+Items.FormalPants_03_basic_01,Legs, -,Simple Office Pants,,,1
+Items.FormalPants_03_old_01,Legs, -,Multilayer Custom-Print Pants,,,1
+Items.FormalPants_03_old_02,Legs, -,Speed Addict Polyamide Pants,,,1
+Items.FormalPants_03_rich_01,Legs, -,Imperial Marble Aramid-Weave Formal Pants,,,1
+Items.FormalPants_03_rich_02,Legs, -,Uniware Brass Office Pants With Membrane Support,,,1
+Items.FormalShirt_01_basic_01,Chest, -,Tear-Resistant Office Shirt And Vest,,,1
+Items.FormalShirt_01_basic_02,Chest, -,Reinforced Breathable Dress Shirt,,,1
+Items.FormalShirt_01_basic_03,Chest, -,Stylish Double-Weave Shirt And Vest,,,1
+Items.FormalShirt_01_old_01,Chest, -,Cowboy Shirt And Vest,,,1
+Items.FormalShirt_01_old_02,Chest, -,Classy Pastel Shirt And Vest,,,1
+Items.FormalShirt_01_old_03,Chest, -,Penguin Dress Shirt And Vest,,,1
+Items.FormalShirt_01_rich_01,Chest, -,Dandy Classico Shirt With Fibrotube Weave,,,1
+Items.FormalShirt_01_rich_02,Chest, -,Abrasion-Resistant Trickster Dress Shirt & Vest,,,1
+Items.FormalShirt_01_rich_03,Chest, -,Mallow Breeze Triweave Shirt And Vest,,,1
+Items.FormalShirt_01_rich_04,Chest, -,El Dorado Aramid-Weave Dress Shirt & Vest,,,1
+Items.FormalShirt_01_rich_05,Chest, -,Gin No Hoshi Neo-Silk Shirt And Vest,,,1
+Items.FormalShirt_01_rich_06,Chest, -,Paris Blue Office Shirt And Vest With Reinforced Seams,,,1
+Items.FormalShirt_02_basic_01,Chest, -,Semi-Formal Synfiber Button-Up,,,1
+Items.FormalShirt_02_basic_02,Chest, -,Arcticombat Semi-Formal Button-Up,,,1
+Items.FormalShirt_02_basic_03,Chest, -,Red Leopard Button-Up With Composite Insert,,,1
+Items.FormalShirt_02_basic_04,Chest, -,Classic Chem-Hardened Button-Up,,,1
+Items.FormalShirt_02_old_01,Chest, -,Linen Button-Up With Reactive Layering,,,1
+Items.FormalShirt_02_old_02,Chest, -,Purple Panther Shirt,,,1
+Items.FormalShirt_02_old_03,Chest, -,Wrinkled Dress Button-Up,,,1
+Items.FormalShirt_02_rich_01,Chest, -,Desert Cross Strong-Weave Button-Up,,,1
+Items.FormalShirt_02_rich_02,Chest, -,Paisley Universe Armor-Coated Button-Up,,,1
+Items.FormalShirt_02_rich_03,Chest, -,Liquid Shine Dura-Polyamide Button-Up,,,1
+Items.FormalShoes_01_basic_01,Feet, -,Simple Polycarbonate Office Pumps,,,1
+Items.FormalShoes_01_basic_02,Feet, -,Comfy Formal Pumps With Metal Inserts,,,1
+Items.FormalShoes_01_basic_03,Feet, -,Formal Pumps With Cushioned Composite Insoles,,,1
+Items.FormalShoes_01_rich_01,Feet, -,Silbermond Tough-Lined Office Pumps,,,1
+Items.FormalShoes_01_rich_02,Feet, -,Midday Glow Polycarbonate Formal Pumps,,,1
+Items.FormalShoes_02_basic_01,Feet, -,Reinforced-Leather Office Pumps,,,1
+Items.FormalShoes_02_basic_02,Feet, -,Classic Evening Pumps Polycarbonate Support,,,1
+Items.FormalShoes_02_basic_03,Feet, -,Double-Varnished Formal Pump,,,1
+Items.FormalShoes_02_rich_01,Feet, -,Silver Blood Evening Pumps With Protective Insoles,,,1
+Items.FormalShoes_02_rich_02,Feet, -,Lezard Beige Leather-Composite Formal Pump,,,1
+Items.FormalShoes_02_rich_03,Feet, -,Cristally Lily Evening Pumps With Extra-Durable Soles,,,1
+Items.FormalShoes_03_basic_01,Feet, -,Reinforced Office Wedges,,,1
+Items.FormalShoes_03_basic_02,Feet, -,Wooden Breeze Dress Wedges,,,1
+Items.FormalShoes_03_rich_01,Feet, -,Abendstern Polycarbonate Dress Wedges,,,1
+Items.FormalShoes_03_rich_02,Feet, -,Creamy Rhubarb Dress Wedges With Sole Support,,,1
+Items.FormalSkirt_01_basic_01,Legs, -,Durable Plaid Skirt,,,1
+Items.FormalSkirt_01_basic_02,Legs, -,Classy Aramid-Weave Skirt,,,1
+Items.FormalSkirt_01_basic_03,Legs, -,Powder Pink Skirt With Dura-Hybrid Weave,,,1
+Items.FormalSkirt_01_basic_04,Legs, -,Ultra-Elastic Bitch V.13 Skirt,,,1
+Items.FormalSkirt_01_rich_01,Legs, -,Golden Mean Aramid-Stitch Formal Skirt,,,1
+Items.FormalSkirt_01_rich_02,Legs, -,Mosiac Gleam Skirt With Composite Lining,,,1
+Items.FormalSkirt_01_rich_03,Legs, -,Arasaka Reactive-Layer Office Skirt,,,1
+Items.FormalSkirt_02_basic_01,Legs, -,Tear-Resistant Office Skirt,,,1
+Items.FormalSkirt_02_basic_02,Legs, -,Burgundy Formal Skirt With Reinforced Synfiber,,,1
+Items.FormalSkirt_02_basic_03,Legs, -,'Saeko''s Limited Elegant Duoweave Skirt',,,1
+Items.FormalSkirt_02_rich_01,Legs, -,Heise Trilayer Formal Skirt,,,1
+Items.FormalSkirt_02_rich_02,Legs, -,Brass Harmony Skirt With Double Nanofiber Weave,,,1
+Items.FormalSkirt_02_rich_03,Legs, -,Chich Pink Dragon Skirt With Fiberglass Sequins,,,1
+Items.Glasses_01_basic_01,Face, -,Stylish Polarized Aviators,,,1
+Items.Glasses_01_basic_02,Face, -,Elegant Sepia Vision Aviators With Reinforced Lenses,,,1
+Items.Glasses_01_basic_03,Face, -,Gold Punk Aviators With Coated Glass,,,1
+Items.Glasses_01_basic_04,Face, -,Silver Plymer-Hybrid Military Aviators,,,1
+Items.Glasses_01_basic_05,Face, -,Classic Armor-Coated Aviators,,,1
+Items.Glasses_02_basic_01,Face, -,Trendy Sazan Lyly Square Glasses,,,1
+Items.Glasses_02_basic_02,Face, -,Elastiflex Utilitarian Glasses,,,1
+Items.Glasses_02_basic_03,Face, -,Taped Square Glasses,,,1
+Items.Glasses_02_basic_04,Face, -,Beach Please Square Glasses With Tempered Lenses,,,1
+Items.Glasses_02_basic_05,Face, -,Classic Square Glasses With Uv Filter,,,1
+Items.Glasses_03_basic_01,Face, -,Darker Speed Square Glasses,,,1
+Items.Glasses_03_basic_02,Face, -,Graffiti Glasses Coated Glasses,,,1
+Items.Glasses_03_basic_03,Face, -,Ergonomic Safety 3201 Military Shades,,,1
+Items.Glasses_03_basic_04,Face, -,Red Electro-Integrated Biker Shades,,,1
+Items.Glasses_03_basic_05,Face, -,Polycarbonate Sport Sunglasses,,,1
+Items.Glasses_03_basic_06,Face, -,Stylish Torquoise Sport Glasses,,,1
+Items.Glasses_03_basic_07,Face, -,Shiroi Tora Photoelectric Sport Glasses,,,1
+Items.Glasses_03_basic_08,Face, -,Impact-Resistant Tactical Glasses,,,1
+Items.Glasses_03_basic_09,Face, -,Durable Zebra Sport Glasses With Uv Filter,,,1
+Items.Glasses_03_basic_10,Face, -,Military Glasses With Splash Guard,,,1
+Items.Glasses_05_basic_01,Face, -,Synleather Plastic Goggles,,,1
+Items.Glasses_05_basic_02,Face, -,Protective Gilt-Polymer Biker Goggles,,,1
+Items.Glasses_05_basic_03,Face, -,Makeshift Punk Goggles,,,1
+Items.Glasses_05_basic_04,Face, -,2x Electronic Rocker Goggles,,,1
+Items.Glasses_05_old_01,Face, -,Chemically Hardened Tactical Goggles,,,1
+Items.Glasses_05_old_02,Face, -,Hardened Plastic Goggles,,,1
+Items.GOG_DLC_Jacket,Outer Torso,gog,Wolf School Jacket,,,1
+Items.GOG_DLC_Jacket_Epic,Outer Torso,gog,Wolf School Jacket,,,1
+Items.GOG_DLC_Jacket_Legendary,Outer Torso,gog,Wolf School Jacket,,,1
+Items.GOG_DLC_TShirt,Chest,gog,Wolf School T-Shirt,,,1
+Items.GOG_DLC_TShirt_Epic,Chest,gog,Wolf School T-Shirt,,,1
+Items.GOG_DLC_TShirt_Legendary,Chest,gog,Wolf School T-Shirt,,,1
+Items.GOG_Galaxy_TShirt,Chest,gog,Galaxy T-Shirt,,,1
+Items.GOG_Galaxy_TShirt_Epic,Chest,gog,Galaxy T-Shirt,,,1
+Items.GOG_Galaxy_TShirt_Legendary,Chest,gog,Galaxy T-Shirt,,,1
+Items.Hat_01_basic_01,Head, -,Classic Trilby With Composite Band,,,1
+Items.Hat_01_basic_02,Head, -,Solid Straw-Woven Trilby,,,1
+Items.Hat_01_old_01,Head, -,Durable Felt-Blend Trilby,,,1
+Items.Hat_01_old_02,Head, -,Trilby With Canvas Lining,,,1
+Items.Hat_01_rich_01,Head, -,Boss Mafioso Trilby With Armored Lining,,,1
+Items.Hat_01_rich_02,Head, -,Enhanced Cebra Excentrica Carbon-Reinforced Trilby,,,1
+Items.Hat_02_basic_01,Head, -,Cowboy Hat With Hardened-Leather Band,,,1
+Items.Hat_02_basic_02,Head, -,Reinforced Cyan Cowboy Hat,,,1
+Items.Hat_02_old_01,Head, -,Sturdi-Boost Cowboy Hat,,,1
+Items.Hat_02_old_02,Head, -,Modified Snake-Skin Cowboy Hat,,,1
+Items.Hat_02_rich_01,Head, -,Gunslinger Cowboy Hat With Reinforced Lining,,,1
+Items.Hat_02_rich_02,Head, -,Mirame Reinforced-Composite Cowboy Hat,,,1
+Items.Hat_03_basic_01,Head, -,Laminated Nomad Hat With Gauge,,,1
+Items.Hat_03_basic_02,Head, -,Upgraded Farmer Hat With Gauge,,,1
+Items.Hat_03_old_01,Head, -,Illegally Modded Hat With Gauge,,,1
+Items.Hat_03_old_02,Head, -,Worn Brimmed Hat With Gauge,,,1
+Items.Hat_03_rich_01,Head, -,Duolayer Military Cap With Gauge,,,1
+Items.Hat_04_basic_01,Head, -,Sturdy Conical Hat,,,1
+Items.Hat_04_basic_02,Head, -,Carbon-Fiber Conical Hat,,,1
+Items.Hat_04_old_01,Head, -,Polyamide-Reinforced Conical Hat,,,1
+Items.Helmet_01_basic_01,Head, -,Double-Shelled At-Ak Modular Helmet,,,1
+Items.Helmet_01_basic_02,Head, -,Light Technopolymer Helmet,,,1
+Items.Helmet_01_basic_03,Head, -,Durable Lime Speed Modular Helmet,,,1
+Items.Helmet_01_old_01,Head, -,Scratched Visored Helmet,,,1
+Items.Helmet_01_rich_01,Head, -,Momentum Carbon-Reinforced Visored Helmet,,,1
+Items.Helmet_01_rich_02,Head, -,Copper Gleam Fibreglass Helmet,,,1
+Items.Helmet_02_basic_01,Head,police,Police Helmet With Anti-Shrapnel Visor,,,1
+Items.Helmet_02_basic_02,Head, -,Speed Addict Helmet With Anti-Impact Tech,,,1
+Items.Helmet_02_basic_03,Head, -,Militech Tactical Helmet,,,1
+Items.Helmet_02_basic_04,Head, -,Colorado Beetle Aramid-Reinforced Helmet,,,1
+Items.Helmet_02_old_01,Head, -,Worn Graffiti Helmet,,,1
+Items.Helmet_02_old_02,Head, -,Old Military Helmet,,,1
+Items.Helmet_02_old_03,Head, -,Rusty Assault Helmet,,,1
+Items.Helmet_02_old_04,Head, -,'Veteran''s Helmet',,,1
+Items.Helmet_02_rich_01,Head, -,Chengse Ultralight Carbon-Fiber Helmet,,,1
+Items.Helmet_02_rich_02,Head, -,8l-Oody Tungsten-Steel Military Helmet,,,1
+Items.Helmet_02_rich_03,Head, -,Sueno Soleado Helmet With Duolayer Reactivity,,,1
+Items.Helmet_02_rich_04,Head, -,D43-M0n Assault Helmet With Polycarbonate Visor,,,1
+Items.Helmet_03_basic_01,Head, -,Laminated Security Hardhat With Headset,,,1
+Items.Helmet_03_basic_02,Head, -,Arasaka Engineer Hardhat With Headset,,,1
+Items.Helmet_03_old_01,Head, -,Old Construction Hardhat,,,1
+Items.Helmet_03_old_02,Head, -,Rusty Security Hardhat,,,1
+Items.Helmet_03_rich_01,Head, -,Mt-77 Bulletproof Tactical Helmet,,,1
+Items.Helmet_04_basic_01,Head, -,Arasaka Kabuto With Composite Plating,,,1
+Items.Helmet_04_basic_02,Head, -,Steel Microplated Kabuto,,,1
+Items.Helmet_04_old_01,Head, -,Plastic Zunari Kabuto With Absorbent Lining,,,1
+Items.Helmet_04_old_02,Head, -,Tyger Claw Kabuto,,,1
+Items.Helmet_04_rich_01,Head, -,Aramid Kuro Kabuto With Hardened Carbon-Fiber Exterior,,,1
+Items.Helmet_04_rich_02,Head, -,Hinote Kabuto With Durable Plastic Aramid Composite,,,1
+Items.Jacket_01_basic_01,Outer Torso, -,Torikkusuta Aramid-Weave Crystaljock Bomber,,,1
+Items.Jacket_01_basic_02,Outer Torso, -,Biker Vibe Composite-Lined Crystaljock Bomber,,,1
+Items.Jacket_01_old_01,Outer Torso, -,'Rocker''s Heart Crystaljock Bomber',,,1
+Items.Jacket_01_old_02,Outer Torso, -,Edge Warrior Crystaljock Bomber,,,1
+Items.Jacket_01_rich_01,Outer Torso, -,Denki-Shin Thermoset Hybrid Crystaljock Bomber,,,1
+Items.Jacket_01_rich_02,Outer Torso, -,Blue Mirror Dual-Shield Crystaljock Bomber,,,1
+Items.Jacket_02_basic_01,Outer Torso, -,Reinforced-Laminate Military Flight Jacket,,,1
+Items.Jacket_02_basic_02,Outer Torso, -,Punk Ultraweave Flight Jacket,,,1
+Items.Jacket_02_old_01,Outer Torso, -,Flight Jacket With Rubberplate Inserts,,,1
+Items.Jacket_02_old_02,Outer Torso, -,Old Wraiths Flight Jacket,,,1
+Items.Jacket_02_old_03,Outer Torso, -,Second Conflict Flight Jacket,,,1
+Items.Jacket_02_rich_01,Outer Torso, -,Bitch V-13 Enhanced Nanocarbon Flight Jacket,,,1
+Items.Jacket_02_rich_02,Outer Torso, -,Army-J3w3l Polycarbonate Tactical Flight Jacket,,,1
+Items.Jacket_02_rich_03,Outer Torso, -,Wounded Machine Duolayer Combat Flight Jacket,,,1
+Items.Jacket_03_basic_01,Outer Torso, -,At-Ak Composite-Lined Edgerunner,,,1
+Items.Jacket_03_basic_02,Outer Torso, -,Graffiti Carbon-Composite Edge Runner,,,1
+Items.Jacket_03_basic_03,Outer Torso, -,Tyger Claws Reinforced Edgerunner,,,1
+Items.Jacket_03_basic_04,Outer Torso, -,'Valentino''s Dual-Weave Edgerunner',,,1
+Items.Jacket_03_old_01,Outer Torso, -,Old Edgerunner,,,1
+Items.Jacket_03_old_02,Outer Torso, -,Carbon-Plated Edgerunner,,,1
+Items.Jacket_03_old_03,Outer Torso, -,Wraiths Trilayer Edgerunner,,,1
+Items.Jacket_03_old_04,Outer Torso, -,Well-Worn 6th Street Edgerunner,,,1
+Items.Jacket_03_rich_01,Outer Torso, -,Purple Symphony Enhanced Polyamide Edgerunner,,,1
+Items.Jacket_03_rich_02,Outer Torso, -,Holy Rose Multilayer Edgerunner,,,1
+Items.Jacket_03_rich_03,Outer Torso, -,Ocean Armor Aramid-Weave Edgerunner,,,1
+Items.Jacket_04_basic_01,Outer Torso, -,Thermoset Military Field Jacket,,,1
+Items.Jacket_04_basic_02,Outer Torso, -,Militech Reinforced-Composite Field Jacket,,,1
+Items.Jacket_04_basic_03,Outer Torso, -,Sleeveless Armor-Plated Field Jacket,,,1
+Items.Jacket_04_old_01,Outer Torso, -,Old Maelstrom Field Jacket,,,1
+Items.Jacket_04_old_02,Outer Torso, -,Worn Scav Field Jacket,,,1
+Items.Jacket_04_old_03,Outer Torso, -,Ten70 Sleeveless Field Jacket,,,1
+Items.Jacket_04_rich_01,Outer Torso, -,Advanced Remon Boostknit Field Jacket,,,1
+Items.Jacket_04_rich_02,Outer Torso, -,Nu-Tek Foxy Carbon-Lined Field Jacket,,,1
+Items.Jacket_04_rich_03,Outer Torso, -,Night City Lightweight Carbon-Fiber Sleeveless Field Jacket,,,1
+Items.Jacket_05_basic_01,Outer Torso, -,Armor-Quilted Jacket,,,1
+Items.Jacket_05_basic_02,Outer Torso, -,Punk Boostweave Biker Jacket,,,1
+Items.Jacket_05_old_01,Outer Torso, -,Second Conflict Biker Jacket,,,1
+Items.Jacket_05_old_02,Outer Torso, -,Hardened Rubber Biker Jacket,,,1
+Items.Jacket_05_rich_01,Outer Torso, -,Night City Biker Jacket,,,1
+Items.Jacket_05_rich_02,Outer Torso, -,Golden Mean Elegant Chem-Resistant Biker Jacket,,,1
+Items.Jacket_06_basic_01,Outer Torso, -,Inner Flame Flame-Resistant Rockerjack,,,1
+Items.Jacket_06_basic_02,Outer Torso, -,Lazr-Mosaic Anti-Shrapnel Rockerjack,,,1
+Items.Jacket_06_old_01,Outer Torso, -,Hardened Leather Rockerjack,,,1
+Items.Jacket_06_old_02,Outer Torso, -,Rockerjack With Anti-Puncture Mesh,,,1
+Items.Jacket_06_rich_01,Outer Torso, -,Rosa Platino Reinforced Rocker Jacket,,,1
+Items.Jacket_06_rich_02,Outer Torso, -,Blue Jaguar Special-Occasion Reinforced Rockerjack,,,1
+Items.Jacket_07_basic_01,Outer Torso, -,Scav Plastic Windbreaker,,,1
+Items.Jacket_07_basic_02,Outer Torso, -,6th Street Ultralight Windbreaker,,,1
+Items.Jacket_07_old_01,Outer Torso, -,Braindance Windbreaker,,,1
+Items.Jacket_07_old_02,Outer Torso, -,Old Windbreaker,,,1
+Items.Jacket_07_rich_01,Outer Torso, -,Zolotoy Uley Soviet-Style Fireproof Windbreaker,,,1
+Items.Jacket_07_rich_02,Outer Torso, -,Smiley Hard Anti-Puncture Windbreaker,,,1
+Items.Jacket_08_basic_01,Outer Torso, -,Punk Short-Sleeve Polycarbonate Spiked Jacket,,,1
+Items.Jacket_08_basic_02,Outer Torso, -,Punk Short-Sleeve Dual-Membrane Jacket,,,1
+Items.Jacket_08_old_01,Outer Torso, -,Spiked Maelstrom Short-Sleeve Jacket,,,1
+Items.Jacket_08_old_02,Outer Torso, -,Microplated Punk Short-Sleeve Jacket,,,1
+Items.Jacket_09_basic_01,Outer Torso, -,Tenka Muso Combat Motorcycle Jacket,,,1
+Items.Jacket_09_basic_02,Outer Torso, -,Kang Tao Stretchy Motorcycle Jacket,,,1
+Items.Jacket_09_old_01,Outer Torso, -,Aldecaldos Motorcycle Jacket,,,1
+Items.Jacket_09_old_02,Outer Torso, -,Old Tyger Claws Motorcycle Jacket,,,1
+Items.Jacket_09_rich_01,Outer Torso, -,Golden Age Trilayer Composite Motorcycle Jacket,,,1
+Items.Jacket_09_rich_02,Outer Torso, -,Wraiths Heavy Impact-Absorbing Motorcycle Jacket,,,1
+Items.Jacket_10_basic_01,Outer Torso, -,Amethyspeed Nanoplastic Rally Bolero,,,1
+Items.Jacket_10_basic_02,Outer Torso, -,Midori Tora Sturdy Rally Bolero,,,1
+Items.Jacket_10_old_01,Outer Torso, -,Wraiths Rally Bolero Jacket,,,1
+Items.Jacket_10_old_02,Outer Torso, -,Composite-Lined Rally Bolero Jacket,,,1
+Items.Jacket_10_rich_01,Outer Torso, -,At-Ak Insulated Aramid-Padded Rally Bolero,,,1
+Items.Jacket_10_rich_02,Outer Torso, -,Tamashi Stretch-Laminate Rally Bolero,,,1
+Items.Jacket_11_basic_01,Outer Torso, -,Mini Coolquilt Foldtop,,,1
+Items.Jacket_11_basic_02,Outer Torso, -,Basic Polycarbonate Foldtop,,,1
+Items.Jacket_11_old_01,Outer Torso, -,Camo Foldtop,,,1
+Items.Jacket_11_old_02,Outer Torso, -,Hardened Leather Foldtop,,,1
+Items.Jacket_11_rich_01,Outer Torso, -,Nekitsch Pasion Purpura Polyamide Foldtop,,,1
+Items.Jacket_11_rich_02,Outer Torso, -,Blauer Nebel Eazy-Brathe High-Alloy Sequined Foldtop,,,1
+Items.Jacket_12_basic_01,Outer Torso, -,Denim Biker Jacket With Thermoactive Collar,,,1
+Items.Jacket_12_basic_02,Outer Torso, -,Blurry Road Thermoset Fiber Biker Jacket,,,1
+Items.Jacket_12_old_01,Outer Torso, -,Reinforced Synleather Nomad Jacket,,,1
+Items.Jacket_12_old_02,Outer Torso, -,Primeval Flame Rockerjack,,,1
+Items.Jacket_12_rich_01,Outer Torso, -,Salamander Eazy-Breathe Tarp-Weave Jacket,,,1
+Items.Jacket_12_rich_02,Outer Torso, -,Light Cherry Jinn Anti-Shrapnel Denim Jacket,,,1
+Items.Jacket_13_basic_01,Outer Torso, -,Polyamide Hooded Duolayer Bomber,,,1
+Items.Jacket_13_basic_02,Outer Torso, -,Smiley Hard Protection-Layered Bomber,,,1
+Items.Jacket_13_basic_03,Outer Torso, -,Light Spirit Animal Chem-Resistant Bobmer,,,1
+Items.Jacket_13_old_01,Outer Torso, -,Synweave Armor-Layered Psycho Bomber,,,1
+Items.Jacket_13_old_02,Outer Torso, -,Anti-Shrapnel Hooded Bomber,,,1
+Items.Jacket_13_old_03,Outer Torso, -,Streetart Hooded Bomber,,,1
+Items.Jacket_13_rich_01,Outer Torso, -,Soviet Moscow Dream Anti-Shrapnel Bomber,,,1
+Items.Jacket_13_rich_02,Outer Torso, -,Xx Punch! Armor-Coated Hooded Bomber,,,1
+Items.Jacket_13_rich_03,Outer Torso, -,Multilayered Maroon Scales Syn-Coated Bomber,,,1
+Items.Jacket_14_basic_01,Outer Torso, -,Simple Bolero Rubber-Coated Bomber,,,1
+Items.Jacket_14_basic_02,Outer Torso, -,Silber Irbis Bolero Gmo-Weave Bomber,,,1
+Items.Jacket_14_old_01,Outer Torso, -,Sturdy Synleather Bolero Bomber,,,1
+Items.Jacket_14_rich_01,Outer Torso, -,Lavender Galaxy Bolero Composite-Layered Bolero,,,1
+Items.Jacket_14_rich_02,Outer Torso, -,Arctic Lychee Bolero Tungsten Miroplated Bomber,,,1
+Items.Jacket_15_basic_01,Outer Torso, -,Peach Syn-Thread Crop Sweater,,,1
+Items.Jacket_15_basic_02,Outer Torso, -,Bypolar Rainbow Hybrid-Weave Crop Sweater,,,1
+Items.Jacket_15_old_01,Outer Torso, -,Danse Macabre Crop Sweater,,,1
+Items.Jacket_15_rich_01,Outer Torso, -,Alba Estiva Crop Sweater,,,1
+Items.Jacket_16_basic_01,Outer Torso, -,Coral Cutout Bodysuit,,,1
+Items.Jacket_16_basic_02,Outer Torso, -,Second Conflict Cutout Bodysuit,,,1
+Items.Jacket_16_old_01,Outer Torso, -,Duoweave Psycho Cutout Bodysuit,,,1
+Items.Jacket_16_old_02,Outer Torso, -,Thermo-Quilted Cutout Bodysuit,,,1
+Items.Jacket_16_rich_01,Outer Torso, -,Bermuda Triangle Cutout Bodysuit,,,1
+Items.Jacket_17_basic_01,Outer Torso, -,Canine Power Hybrid-Stitch Pozer-Jacket,,,1
+Items.Jacket_17_basic_02,Outer Torso, -,Carbon Triangle Graphene-Weave Pozer-Jacket,,,1
+Items.Jacket_17_basic_03,Outer Torso, -,Voodoo Boys Anti-Interference Netrunner Jacket,,,1
+Items.Jacket_17_basic_04,Outer Torso, -,Melting Ceramic Membrane Pozer-Jacket,,,1
+Items.Jacket_17_old_01,Outer Torso, -,Carbon-Lined Pozer-Jacket,,,1
+Items.Jacket_17_old_02,Outer Torso, -,Synleather Carbon-Collar Pozer-Jacket,,,1
+Items.Jacket_17_old_03,Outer Torso, -,6th Street Armor-Plated Combat Jacket,,,1
+Items.Jacket_17_rich_01,Outer Torso, -,Sapfir 3d Heavy Triple-Weave Nanocarbon Pozer-Jacket,,,1
+Items.Jacket_17_rich_02,Outer Torso, -,Torera Real Ultrareactive Laminated Pozer-Jacket,,,1
+Items.Jacket_17_rich_03,Outer Torso, -,Lazrpunk Tungsten-Plated Pozer-Jacket,,,1
+Items.Jacket_17_rich_04,Outer Torso, -,Ultimate Punch Field-Generating Protective Pozer-Jacket,,,1
+Items.Jacket_17_rich_05,Outer Torso, -,Valentinos Composite-Collar Suede Pozer-Jacket,,,1
+Items.Jacket_17_rich_06,Outer Torso, -,Deadly Lagoon Armored Syn-Silk Pozer-Jacket,,,1
+Items.Jumpsuit_01_basic_01,Chest, -,Animals Power-Absorbent Jumpsuit,,,1
+Items.Jumpsuit_01_basic_02,Chest, -,Polyamide Jumpsuit,,,1
+Items.Jumpsuit_01_basic_03,Chest, -,Purple Force Tactical Jumpsuit,,,1
+Items.Jumpsuit_01_old_01,Chest, -,Durable Militech Training Jumpsuit,,,1
+Items.Jumpsuit_01_old_02,Chest, -,Aramid-Weave Ten70 Sunset Jumpsuit,,,1
+Items.Jumpsuit_01_old_03,Chest, -,Polyamide-Blend Jumpsuit With Micromesh,,,1
+Items.Jumpsuit_01_rich_01,Chest, -,Stream Extreme High-Performance Jumpsuit,,,1
+Items.Jumpsuit_01_rich_02,Chest, -,Emperatriz Tigresa Duoweave Jumpsuit,,,1
+Items.Jumpsuit_02_basic_01,Chest, -,Yellow Cobra Carbon-Reinforced Racing Suit,,,1
+Items.Jumpsuit_02_basic_02,Chest, -,Polyamide-Lined Rocker Jumpsuit,,,1
+Items.Jumpsuit_02_old_01,Chest, -,Ten70 Graffiti Jumpsuit,,,1
+Items.Jumpsuit_02_old_02,Chest, -,Maxiwear Motorcycle Suit,,,1
+Items.Jumpsuit_02_rich_01,Chest, -,Nc Python Ultraresistant Hybrid-Weave Racing Suit,,,1
+Items.Jumpsuit_02_rich_02,Chest, -,Natsunoshio Protective Mesh Tracksuit,,,1
+Items.Jumpsuit_02_rich_03,Chest, -,Lightning Rider Reinforced Racing Suit,,,1
+Items.Jumpsuit_03_old_01,Chest, -,Arasaka Hazmat Suit,,,1
+Items.Jumpsuit_03_old_02,Chest, -,Ncpd Chem-Resistant Hazmat Suit,,,1
+Items.Jumpsuit_03_old_03,Chest, -,Militech Aramid-Weave Hazmat Suit,,,1
+Items.LooseShirt_01_basic_01,Outer Torso, -,Limited Loose-Fit Shirt With Protective Mesh,,,1
+Items.LooseShirt_01_basic_02,Outer Torso, -,Warm Nanoweave Cotton Shirt,,,1
+Items.LooseShirt_01_old_01,Outer Torso, -,Practical Plaid Shirt With Micromesh,,,1
+Items.LooseShirt_01_old_02,Outer Torso, -,Classic Anti-Puncture Shirt,,,1
+Items.LooseShirt_01_rich_01,Outer Torso, -,Arte Urbano Elegantly Nanostitched Shirt,,,1
+Items.LooseShirt_01_rich_02,Outer Torso, -,Hebi Tsukai Cashmere-Nanofiber Shirt,,,1
+Items.LooseShirt_02_basic_01,Outer Torso, -,Discowboy Durable Synthfiber Western Shirt,,,1
+Items.LooseShirt_02_basic_02,Outer Torso, -,Denim Mesh Western Shirt,,,1
+Items.LooseShirt_02_old_01,Outer Torso, -,Composite-Weave Western Shirt,,,1
+Items.LooseShirt_02_old_02,Outer Torso, -,Graphite Gem Insulated Western Shirt,,,1
+Items.LooseShirt_02_rich_01,Outer Torso, -,Aqua Universe Luxe Aramid-Weave Shirt,,,1
+Items.LooseShirt_02_rich_02,Outer Torso, -,Saloon Style Ultra-Durable Dress Shirt,,,1
+Items.Mask_02_basic_01,Face, -,Titanium-Reinforced Gas Mask,,,1
+Items.Mask_02_basic_02,Face, -,Makeshift Maelstrom Gas Mask,,,1
+Items.Mask_02_old_01,Face, -,Old Plastic Gas Mask,,,1
+Items.Mask_02_old_02,Face, -,Plastic Gas Mask With Filter,,,1
+Items.Mask_02_old_03,Face, -,Carbon Gas Mask With Filter,,,1
+Items.Mask_02_rich_01,Face, -,Arctic Breath Hybrid-Polymer Tactical Gas Mask,,,1
+Items.Mask_02_rich_02,Face, -,Mox Gas Mask With Custom Protective Layer,,,1
+Items.Mask_03_basic_01,Face, -,Menpo With Durable Lining,,,1
+Items.Mask_03_basic_02,Face, -,Menpo With Protective Padding,,,1
+Items.Mask_03_old_01,Face, -,Weathered Menpo,,,1
+Items.Mask_03_old_02,Face, -,Menpo With Reactive Layer,,,1
+Items.Mask_03_rich_01,Face, -,Jigoku No Oni Reinforced-Composite Menpo,,,1
+Items.Mask_03_rich_02,Face, -,Akai Oni Titanium Boostknit Menpo,,,1
+Items.Media_01_Set_Cap,Head,media,Media Baseball Cap With Reactive Layer,,,1
+Items.Media_01_Set_Pants,Legs,media,Anti-Piercing Tactical Media Cargo Pants,,,1
+Items.Media_01_Set_Shirt,Chest,media,Heat-Resistant Nanoweave Media Shirt,,,1
+Items.Media_01_Set_Shoes,Feet,media,Lightweight Hardened Rubber Media Steel-Toes,,,1
+Items.Media_01_Set_Tech,Face,media,Armored Media Ocuset With Camera,,,1
+Items.Media_01_Set_Vest,Outer Torso,media,Laminated-Armor Media Ballistic Vest,,,1
+Items.MQ017_Samerai_Jacket,Outer Torso, -,Semurai Cyrstaljock Bomber,,,1
+Items.mq017_SameraiJacket,Outer Torso, -,Fake Samerei Jacket,,,1
+Items.Netrunner_01_Set_Jumpsuit,Chest,netrunner,Heat-Resistant Hybridweave Netrunnig Suite,,,1
+Items.Netrunner_01_Set_Pants,Legs,netrunner,Dura-Membrane Netrunner Pants,,,1
+Items.Netrunner_01_Set_Shoes,Feet,netrunner,Hardened Netrunner Boots With Composite Insert,,,1
+Items.Netrunner_01_Set_Visor,Head,netrunner,Antisurge Ice-Protected Netrunner Infovisor,,,1
+Items.Nomad_01_Set_Boots,Feet,nomad,Durable Bioleather Nomad Western Boots,,,1
+Items.Nomad_01_Set_Jacket,Outer Torso,nomad,Duolayer Microplate-Mesh Nomad Jacket,,,1
+Items.Nomad_01_Set_Mask,Head,nomad,Manganese-Laminate Nomad Gas Mask,,,1
+Items.Nomad_01_Set_Pants,Legs,nomad,Ultralight Tear-Resistant Nomad Pants,,,1
+Items.Nomad_01_Set_TShirt,Chest,nomad,Polycarbonate Nomad Shirt With Reinforced Seams,,,1
+Items.Pants_01_basic_01,Legs, -,Comfy Rocker Aramid-Weave Slim-Fits,,,1
+Items.Pants_01_basic_02,Legs, -,Light Azure Composite-Lined Slim-Fits,,,1
+Items.Pants_01_basic_03,Legs, -,Sturdy-Stitched Slim-Fits,,,1
+Items.Pants_01_old_01,Legs, -,Spotted Polyamide Slim-Fits,,,1
+Items.Pants_01_old_02,Legs, -,Composite-Coated Camo Slim-Fits,,,1
+Items.Pants_01_old_03,Legs, -,Duoweave Composite Skinny Jeans,,,1
+Items.Pants_01_rich_01,Legs, -,Rosa Escarlata Plyamide-Weave Slim-Fits,,,1
+Items.Pants_01_rich_02,Legs, -,Durable Basilisk Arami Weave Slim-Fits,,,1
+Items.Pants_01_rich_03,Legs, -,Denkyoku Rocker Strongweave Duolayer Slim-Fits,,,1
+Items.Pants_02_basic_01,Legs, -,Durable Smiley Hard Loose-Fits,,,1
+Items.Pants_02_basic_02,Legs, -,Yoru No Samurai Padded Loose-Fits,,,1
+Items.Pants_02_basic_03,Legs, -,Street Glow Thermoset-Leather Loose-Fits,,,1
+Items.Pants_02_old_01,Legs, -,Duoweave Composite Loose-Fits,,,1
+Items.Pants_02_old_02,Legs, -,Workplace Loose-Fits,,,1
+Items.Pants_02_old_03,Legs, -,Loose-Fits With Micromesh Underlayer,,,1
+Items.Pants_02_rich_01,Legs, -,Holy Rose Boostknit Loose-Fits With Thermoactive Coating,,,1
+Items.Pants_02_rich_02,Legs, -,Chikurin Reinforces Nanoweave Loose-Fits,,,1
+Items.Pants_02_rich_03,Legs, -,Purple Dragon Duolayer Hybrid Loose-Fits,,,1
+Items.Pants_03_basic_01,Legs, -,Sturdy-Stitched Punk Jeans,,,1
+Items.Pants_03_basic_02,Legs, -,Canine Power Anti-Tear Pants,,,1
+Items.Pants_03_basic_03,Legs, -,Bitch V.13 Syn-Resistant Pants,,,1
+Items.Pants_03_old_01,Legs, -,Frayed Recycled Jeans,,,1
+Items.Pants_03_old_02,Legs, -,Patched Jeans,,,1
+Items.Pants_03_old_03,Legs, -,Durable Custom-Printed Jeans,,,1
+Items.Pants_03_rich_01,Legs, -,'Light Saeko''s Derakkusu Sturdy-Mesh Pants',,,1
+Items.Pants_03_rich_02,Legs, -,Dark Sapphire Thermo-Fabric Rocker Pants,,,1
+Items.Pants_03_rich_03,Legs, -,Psycho Tac-Fiber Biker Pants,,,1
+Items.Pants_04_basic_01,Legs, -,Geisha Flexi-Weave Cargo Pants,,,1
+Items.Pants_04_basic_02,Legs, -,Mandarine Resistant Cargo Pants,,,1
+Items.Pants_04_basic_03,Legs, -,Kancho Syn-Weave Cargo Pants,,,1
+Items.Pants_04_basic_04,Legs, -,Samurai Sturdy-Stitched Cargo Pants,,,1
+Items.Pants_04_old_01,Legs, -,Worn Cargo Pants,,,1
+Items.Pants_04_old_02,Legs, -,Reinforced Synfiber Cargo Jeans,,,1
+Items.Pants_04_old_03,Legs, -,Rubber-Lined Cargo Pants,,,1
+Items.Pants_04_rich_01,Legs, -,Heavy-Duty Oro Floreciente Armor-Weave Cargo Pants,,,1
+Items.Pants_04_rich_02,Legs, -,Silver Star Duolayer Aramid-Weave Cargo Pants,,,1
+Items.Pants_04_rich_03,Legs, -,Cyano Camo Composite-Threaded Cargo Pants,,,1
+Items.Pants_05_basic_01,Legs, -,Punk Composite-Metal Racers,,,1
+Items.Pants_05_basic_02,Legs, -,Foam-Padded Racers,,,1
+Items.Pants_05_old_01,Legs, -,Military Camo Racers,,,1
+Items.Pants_05_old_02,Legs, -,Psycho Racers,,,1
+Items.Pants_05_rich_01,Legs, -,Heat-Resistant Killer Candy Trilayer Racers,,,1
+Items.Pants_05_rich_02,Legs, -,Yoru No Samurai Armored Knee-Pad Reacers,,,1
+Items.Pants_06_basic_01,Legs, -,Reinforced Federalist Straightcuts,,,1
+Items.Pants_06_basic_02,Legs, -,Somba Rosa Foam-Padded Straightcuts,,,1
+Items.Pants_06_old_01,Legs, -,Vintage Extra-Leather Straightcuts,,,1
+Items.Pants_06_old_02,Legs, -,Duolayer Tacticloth Straightcuts,,,1
+Items.Pants_06_old_03,Legs, -,Reinforced Hybridweave Straightcuts,,,1
+Items.Pants_06_rich_01,Legs, -,Craneo Brillante Polyamide Extra-Membrane Straightcuts,,,1
+Items.Pants_06_rich_02,Legs, -,Golpe Punk Anti-Shrapnel Straightcuts,,,1
+Items.Pants_07_basic_01,Legs, -,Suichu Yogan Extra-Protection Tactical Pants,,,1
+Items.Pants_07_basic_02,Legs, -,Geisha Tactical Extra-Guard Pants,,,1
+Items.Pants_07_basic_03,Legs, -,Comfy Tactical Thermoset-Padded Pants,,,1
+Items.Pants_07_old_01,Legs, -,Old Flazh Tactical Pants,,,1
+Items.Pants_07_old_02,Legs, -,Worn Kan Tao Tactical Pants,,,1
+Items.Pants_07_old_03,Legs, -,Frayed Maelstrom Tactical Pants,,,1
+Items.Pants_07_rich_01,Legs, -,Boulet Torquoise Heat-Resistan Tactical Pants,,,1
+Items.Pants_07_rich_02,Legs, -,Atomic Blast Tactical Armor-Weave Pants,,,1
+Items.Pants_07_rich_03,Legs, -,Decadencia Verde Tactical Armor-Weave Pants,,,1
+Items.Pants_08_basic_01,Legs, -,Militech Neotac Pants,,,1
+Items.Pants_08_basic_02,Legs, -,Boostknit Neotac Pants,,,1
+Items.Pants_08_basic_03,Legs, -,Extra-Rubber Neotac Pants,,,1
+Items.Pants_08_old_01,Legs, -,Old Banana Juice Neotac Pants,,,1
+Items.Pants_08_old_02,Legs, -,Secondhand Maelstrom Neotac Pants,,,1
+Items.Pants_08_old_03,Legs, -,Worn Wraiths Neotac Pants,,,1
+Items.Pants_08_rich_01,Legs, -,Gold Fury Neotac Bulletproof Pants,,,1
+Items.Pants_08_rich_02,Legs, -,Urban Laser Anti-Puncture Neotac Biker Pants,,,1
+Items.Pants_08_rich_03,Legs, -,Ocean Bulletproof Neotac Biker Pants,,,1
+Items.Pants_09_basic_01,Legs, -,Amethyspeed Polycarbonate Utility Pants,,,1
+Items.Pants_09_basic_02,Legs, -,Midori Tora Reinforced Utility Pants,,,1
+Items.Pants_09_old_01,Legs, -,Wraiths Extra-Cotton Utility Pants,,,1
+Items.Pants_09_old_02,Legs, -,Performance-Boosted Utility Pants,,,1
+Items.Pants_09_old_03,Legs, -,Composite-Lined Utility Pants,,,1
+Items.Pants_09_rich_01,Legs, -,At-Ak Utility Wear-Resistant Pants,,,1
+Items.Pants_09_rich_02,Legs, -,Tamashi Anti-Mech Utility Pants,,,1
+Items.Pants_10_basic_01,Legs, -,6th Street Rubber-Weave Shinos,,,1
+Items.Pants_10_basic_02,Legs, -,Cyan Plastic Shinos,,,1
+Items.Pants_10_old_01,Legs, -,Heat-Resistant Nylon Shinos,,,1
+Items.Pants_10_old_02,Legs, -,Cowboy Shinos With Microplate Mesh,,,1
+Items.Pants_10_rich_01,Legs, -,Ten70 H2s Plastic Shin-Guard Shinos,,,1
+Items.Pants_10_rich_02,Legs, -,'Stripe''n''black Reinforced Nanoweave Shinos',,,1
+Items.Pants_11_basic_01,Legs, -,Army Star Anti-Chafing Cargo Pants,,,1
+Items.Pants_11_basic_02,Legs, -,Caution Extra-Plastic Cargo Pants,,,1
+Items.Pants_11_basic_03,Legs, -,Phantom Tough-Lined Cargo Pants,,,1
+Items.Pants_11_old_01,Legs, -,Tacticloth Cargo Pants,,,1
+Items.Pants_11_old_02,Legs, -,Nomad Eazy-Breathe Cargo Pants,,,1
+Items.Pants_11_old_03,Legs, -,6th Street Cargo Pants,,,1
+Items.Pants_11_rich_01,Legs, -,Slant Lightning Hybrid-Weave Cargo Pants,,,1
+Items.Pants_11_rich_02,Legs, -,Purple Shock Anti-Mech Cargo Pants,,,1
+Items.Pants_11_rich_03,Legs, -,Power Fame Cargo Pants With Reinforced Mesh,,,1
+Items.Pants_12_basic_01,Legs, -,Durable Windbreaker Pants,,,1
+Items.Pants_12_basic_02,Legs, -,Sweet Licks Ultra-Flexi Windbreaker Pants,,,1
+Items.Pants_12_basic_03,Legs, -,At-Ak Greener Polycarbonate Windbreaker Pants,,,1
+Items.Pants_12_old_01,Legs, -,Maxiwear Windbreaker Pants,,,1
+Items.Pants_12_old_02,Legs, -,'Old Saeko''s Windebreaker Pants',,,1
+Items.Pants_12_old_03,Legs, -,Secondhand Red Death Windbreaker Pants,,,1
+Items.Pants_12_rich_01,Legs, -,Sudo Claws Polyamide-Composite Windbreaker Pants,,,1
+Items.Pants_12_rich_02,Legs, -,Tg-Tiger Heat-Resistant Windbreaker Pants,,,1
+Items.Pants_12_rich_03,Legs, -,Golden Scale Trilayer Windbreaker Pants,,,1
+Items.Pants_13_basic_01,Legs, -,Venom Dye Duolayer Riding Pants,,,1
+Items.Pants_13_basic_02,Legs, -,Wraiths Anti-Tear Riding Pants,,,1
+Items.Pants_13_basic_03,Legs, -,Light Military Syn-Strengthened Riding Pants,,,1
+Items.Pants_13_old_01,Legs, -,Ultra-Cushioned Motorcycle Riding Pants,,,1
+Items.Pants_13_old_02,Legs, -,Rotten Jungle Riding Pants,,,1
+Items.Pants_13_old_03,Legs, -,Worn Maelstrom Riding Pants,,,1
+Items.Pants_13_rich_01,Legs, -,Comfy Trickster Composite Riding Pants,,,1
+Items.Pants_13_rich_02,Legs, -,Heavy-Duty Flamingo Aramidweave Riding Pants,,,1
+Items.Pants_14_basic_01,Legs, -,Light Psycho Knee-Padded Yoros,,,1
+Items.Pants_14_basic_02,Legs, -,Tiger Sturdy-Stitched Yoros,,,1
+Items.Pants_14_old_01,Legs, -,Simple Yoros,,,1
+Items.Pants_14_old_02,Legs, -,Yoru No Samurai Yoros,,,1
+Items.Pants_14_rich_01,Legs, -,Midori Eazy-Breathe Thermoactive Yoros,,,1
+Items.Pants_14_rich_02,Legs, -,Ryu Anti-Tear Trilayer Yoros,,,1
+Items.Pants_15_basic_01,Legs, -,Flexi-Duolayer Harem Pants,,,1
+Items.Pants_15_basic_02,Legs, -,Sporty Harem Pants With Cotton Armor-Weave,,,1
+Items.Pants_15_old_01,Legs, -,Elastic Sturdy-Stitched Harem Pants,,,1
+Items.Pants_15_rich_01,Legs, -,Pink Lagoon Armor-Coated Harem Pants,,,1
+Items.Proficiency_Boots_11_rich_01_Crafting,Feet, -,Pixel Neige Snow Boots With Canvas Duolayer,,,1
+Items.Proficiency_Cap_06_basic_01_Crafting,Head, -,Cotton Motorcycle Cap With Protective Inset,,,1
+Items.Proficiency_CasualShoes_07_basic_01_Crafting,Feet, -,Robust Spunky Monkey Kicks,,,1
+Items.Proficiency_FormalPants_01_basic_01_Crafting,Legs, -,Sturdy Synfiber Pleated Pants,,,1
+Items.Proficiency_FormalShoes_02_basic_02_Crafting,Feet, -,Classic Evening Pumps With Polycarbonate Support,,,1
+Items.Proficiency_FormalShoes_02_rich_03_Crafting,Feet, -,Crystal Lily Evening Pumps With Extra-Durable Soles,,,1
+Items.Proficiency_FormalSkirt_02_rich_01_Crafting,Legs, -,Heise Trilayer Formal Skirt,,,1
+Items.Proficiency_Glasses_05_basic_01_Crafting,Face, -,Synleather Plastic Goggles,,,1
+Items.Proficiency_Hat_01_rich_01_Crafting,Head, -,Boss Mafioso Trilby With Armored Lining,,,1
+Items.Proficiency_Helmet_04_basic_02_Crafting,Head, -,Steel Microplated Kabuto,,,1
+Items.Proficiency_Jacket_06_basic_01_Crafting,Outer Torso, -,Inner Flame Flame-Resistant Rockerjack,,,1
+Items.Proficiency_Jumpsuit_02_rich_03_Crafting,Outer Torso, -,Lightning Rider Reinforced Racing Suit,,,1
+Items.Proficiency_LooseShirt_02_rich_01_Crafting,Outer Torso, -,Aqua Universe Luxe Aramid-Weave Shirt,,,1
+Items.Proficiency_Mask_02_basic_01_Crafting,Face, -,Titanium-Reinforced Gas Mask,,,1
+Items.Proficiency_Pants_13_basic_01_Crafting,Legs, -,Venom Dye Duolayer Riding Pants,,,1
+Items.Proficiency_Scarf_02_rich_01_Crafting,Head, -,Sandy Boa Shock-Absorbent Headband,,,1
+Items.Proficiency_Shirt_02_basic_02_Crafting,Chest, -,Simple Biker Aramid-Weave Turtleneck,,,1
+Items.Proficiency_Shorts_02_rich_02_Crafting,Legs, -,Composite Ko Jaga Silk-Threaded Hotpants,,,1
+Items.Proficiency_Tech_02_basic_02_Crafting,Face, -,Lightweight Tungsten-Steel Bd Wreath,,,1
+Items.Proficiency_TightJumpsuit_01_rich_02_Crafting,Chest, -,Red Alert Anti-Surge Netrunning Suit,,,1
+Items.Proficiency_TShirt_03_rich_03_Crafting,Chest, -,Ultralight Tested On Animals Polyamide Tank Top,,,1
+Items.Proficiency_Undershirt_03_basic_03_Crafting,Chest, -,Stylish Atomic Blast Composite Bustier,,,1
+Items.Proficiency_Vest_18_basic_01_Crafting,Outer Torso, -,Polycarbonate Western Fringe Vest,,,1
+Items.Proficiency_Visor_02_rich_01_Crafting,Face, -,Yamori Tungsten-Steel Biker Techgogs,,,1
+Items.Q000_Corpo_FormalJacket,Outer Torso,'v''s corpo','V''s Office Blazer',,,1
+Items.Q000_Corpo_FormalPants,Legs,'v''s corpo','V''s Office Slacks',,,1
+Items.Q000_Corpo_FormalShoes,Feet,'v''s corpo','V''s Office Pumps',,,1
+Items.Q000_half_Corpo,Special,'v''s corpo','V''s Informal Outfit',,,1
+Items.Q000_half_Nomad,Special,'v''s nomad','V''s Nomad Outfit',,,1
+Items.Q000_half_StreetKid,Special,'v''s street','V''s Urban Outfit',,,1
+Items.Q000_Nomad_Boots,Feet,'v''s nomad','V''s Nomad Shoes',,,1
+Items.Q000_Nomad_noPatch_Vest,Outer Torso,'v''s nomad','V''s Vest (Without Bakkers Patch)',,,1
+Items.Q000_Nomad_Pants,Legs,'v''s nomad','V''s Nomad Pants',,,1
+Items.Q000_Nomad_TShirt,Chest,'v''s nomad','V''s Tattered Crop Top',,,1
+Items.Q000_Nomad_Vest,Outer Torso,'v''s nomad','V''s Vest (With Bakkers Patch)',,,1
+Items.Q000_StreetKid_Pants,Legs,'v''s street','V''s Sreetwear Pants',,,1
+Items.Q000_StreetKid_Shoes,Feet,'v''s street','V''s Street Tongues',,,1
+Items.Q000_StreetKid_TShirt,Chest,'v''s street','V''s Tattered Crop Top',,,1
+Items.Q001_Pants,Legs,'v''s outfit','V''s Pants',,,1
+Items.Q001_Shoes,Feet,'v''s outfit','V''s Sneakers',,,1
+Items.Q001_TShirt,Chest,'v''s outfit','V''s Favorite Top',,,1
+Items.Q005_Johnny_Glasses,Face,johnny [quest],'Johnny''s Aviators',,,1
+Items.Q005_Johnny_Glasses_Epic,Face, -,'Johnny''s Aviators',,,1
+Items.Q005_Johnny_Glasses_Legendary,Face,johnny [quest],'Johnny''s Aviators [L]',,,1
+Items.Q005_Johnny_Pants,Legs,johnny [quest],'Johnny''s Pants',,,1
+Items.Q005_Johnny_Pants_Epic,Legs, -,'Johnny''s Pants',,,1
+Items.Q005_Johnny_Pants_Legendary,Legs,johnny [quest],'Johnny''s Pants [L]',,,1
+Items.Q005_Johnny_Shirt,Chest,johnny [quest],'Johnny''s Tank Top',,,1
+Items.Q005_Johnny_Shirt_Epic,Chest, -,'Johnny''s Tank Top',,,1
+Items.Q005_Johnny_Shirt_Legendary,Chest,johnny [quest],'Johnny''s Tank Top [L]',,,1
+Items.Q005_Johnny_Shoes,Feet,johnny [quest],'Johnny''s Shoes',,,1
+Items.Q005_Johnny_Shoes_Epic,Feet, -,'Johnny''s Shoes',,,1
+Items.Q005_Johnny_Shoes_Legendary,Feet,johnny [quest],'Johnny''s Shoes [L]',,,1
+Items.q005_militech_pants,Legs, -,Militech Pants,,,1
+Items.q005_militech_shoes,Feet, -,Militech Shoes,,,1
+Items.Q005_Militech_Suit,Special,special,Militech Suit,,,1
+Items.Q005_Militech_Suit_Dirty,Special,special ,Dirty Militech Suit [Quest],,,1
+Items.Q005_Militech_Suit_Filthy,Special,special ,Ruined Militech Suit [Quest],,,1
+Items.Q005_Steel_Dragons_Coat,Chest, -,Kotetsu No Ryu Coat,,,1
+Items.Q005_Yorinobu_FormalPants,Chest, -,'Yorinobu''s Slacks',,,1
+Items.Q005_Yorinobu_FormalShirt,Chest, -,'Yorinobu''s Formal Shirt',,,1
+Items.Q101_Recovery_Bandage_Outfit,Special,special,Bandage Wrapping,,,1
+Items.Q114_Aldecaldo_Jacket,Outer Torso,nomad,Aldecaldos Rally Bolero Jacket,,,1
+Items.Q114_Cyberspace_Jumpsuit,Special,special,Virtual Jumpsuit,,,1
+Items.Q115_Afterlife_Netrunner,Special,special,Afterlife Netrunning Suite,,,1
+Items.Q115_Custom_Predator_Armor,Outer Torso,rogue,Predator Aramid Armor (Rogue),,,1
+Items.Q115_Custom_Predator_Boots,Feet,rogue,Predator Exo Jacks (Rogue),,,1
+Items.q115_thrusters,Feet,rogue,Retrothrusters Jet Boots (Rogue) Not Removable,,,1
+Items.Q201_SpaceHospitalPants,Legs, -,Hospital Scrub Pants,,,1
+Items.Q201_SpaceHospitalShirt,Chest, -,Hospital Shirt,,,1
+Items.Q202_Epilogue_Boots,Feet, -,'V''s Muddy Sneakers',,,1
+Items.Q202_Epilogue_Pants,Legs, -,'V''s New Leggins',,,1
+Items.Q202_Epilogue_TShirt,Chest, -,'V''s Blank Tank Top',,,1
+Items.Q203_Epilogue_Boots,Feet,'v''s outfit','V''s Gold Plated Boots',,,1
+Items.Q203_Epilogue_Glasses,Face,'v''s outfit','V''s Golden Aviators',,,1
+Items.Q203_Epilogue_Pants,Legs,'v''s outfit','V''s Expensive Leggins',,,1
+Items.Q203_Epilogue_TShirt,Chest,'v''s outfit','V''s Shirt',,,1
+Items.Q203_Spacesuit_Helmet,Head,special,Spacesuit Helmet,,,1
+Items.Q203_Spacesuit_Outfit_NoHelmet,Special,special,Spacesuit No Helmet,,,1
+Items.Q203_Spacesuit_Outfit_WithHelmet,Special,special,Spacesuit With Helmet,,,1
+Items.Q204_Epilogue_Boots,Feet,johnny [quest],'Johnny''s Boots ',,,1
+Items.Q204_Epilogue_Pants,Legs,johnny [quest],'Johnny''s Pants ',,,1
+Items.Q204_Epilogue_TShirt,Chest,johnny [quest],'Johnny''s Shirt ',,,1
+Items.Rockerboy_01_Set_Boots,Feet,rocker,Puncture-Resistant Rocker Platform Boots,,,1
+Items.Rockerboy_01_Set_Glasses,Head,rocker,Scratch-Resistant Polaryzed Rocker Aviators,,,1
+Items.Rockerboy_01_Set_Jacket,Outer Torso,rocker,Reinforced Composite-Lined Rocker Foldtop,,,1
+Items.Rockerboy_01_Set_Pants,Legs,rocker,Elastic Flame-Resistant Rocker Pants,,,1
+Items.Rockerboy_01_Set_TShirt,Chest,rocker,Armorweave Rocker Bra,,,1
+Items.SamuraiWorldTour_TShirt,Chest, -,Samurai 2020 Tour T-Shirt,,,1
+Items.Scarf_01_basic_01,Head, -,Composite Military Bandana,,,1
+Items.Scarf_01_basic_02,Head, -,Makeshift Rabenda Banana Bandana,,,1
+Items.Scarf_01_basic_03,Head, -,Strong Canine Power Synthetic Bandana,,,1
+Items.Scarf_01_old_01,Head, -,Anti-Tear Graffiti Bandana,,,1
+Items.Scarf_01_old_02,Head, -,Blooming Amber Bandana,,,1
+Items.Scarf_01_old_03,Head, -,Composite Camo Bandana,,,1
+Items.Scarf_01_rich_01,Head, -,Ten70 Bada55 Polycarbonate Bandana,,,1
+Items.Scarf_01_rich_02,Head, -,Daemon Hunter Tactical Bandana,,,1
+Items.Scarf_01_rich_03,Head, -,Magenta Spark Reinforced Silkweave Bandana,,,1
+Items.Scarf_02_basic_01,Head, -,Simple Bandana Headband With Enhanced Durability,,,1
+Items.Scarf_02_basic_02,Head, -,Reinforced-Cotton Headband,,,1
+Items.Scarf_02_old_01,Head, -,Durable Nanofiber Plaid Headband,,,1
+Items.Scarf_02_old_02,Head, -,Punk Bandana Headband,,,1
+Items.Scarf_02_rich_01,Head, -,Sandy Boa Shock-Absorbent Headband,,,1
+Items.Scarf_03_basic_01,Head, -,Light Hijab With Microplate Mesh,,,1
+Items.Scarf_03_basic_02,Head, -,Duolayer Floral Hijab,,,1
+Items.Scarf_03_basic_03,Head, -,Graffiti Thermoset Synweave Hijab,,,1
+Items.Scarf_03_old_01,Head, -,Tacti-Fiber Camo Hijab,,,1
+Items.Scarf_03_old_02,Head, -,Duolayer Quilted Hijab,,,1
+Items.Scarf_03_old_03,Head, -,Durable Modified Linen Hijab,,,1
+Items.Scarf_03_rich_01,Head, -,Gray Area Anti-Tear Hijab,,,1
+Items.Scarf_03_rich_02,Head, -,Wardat Zihira Aramid-Weave Hijab,,,1
+Items.Scarf_03_rich_03,Head, -,Kinryu Deluxe Hijab With Protective Mesh,,,1
+Items.Shirt_01_basic_01,Chest, -,Braindance Blue Trilayer Long-Sleeve,,,1
+Items.Shirt_01_basic_02,Chest, -,Psycho Flexiweave Long-Sleeve,,,1
+Items.Shirt_01_old_01,Chest, -,Cotton Long-Sleeve,,,1
+Items.Shirt_01_old_02,Chest, -,Long-Sleeve With Composite Lining,,,1
+Items.Shirt_01_rich_01,Chest, -,Stylish Crystal Midnight Carbon-Fiber Long-Sleeve,,,1
+Items.Shirt_01_rich_02,Chest, -,Geisha Samurai Nanoweave Long-Sleeve,,,1
+Items.Shirt_02_basic_01,Chest, -,Sporty Darra-Polytechnic Flexi-Weave Turtleneck,,,1
+Items.Shirt_02_basic_02,Chest, -,Simple Biker Aramid-Weave Turtleneck,,,1
+Items.Shirt_02_basic_03,Chest, -,Arasaka Waterproof Compat Turtleneck,,,1
+Items.Shirt_02_basic_04,Chest, -,Samurai Combat Turtleneck,,,1
+Items.Shirt_02_old_01,Chest, -,Aramid-Weave Tactical Turtleneck,,,1
+Items.Shirt_02_old_02,Chest, -,Padded Tactical Turtleneck,,,1
+Items.Shirt_02_old_03,Chest, -,Elastic Microplated Sporty Turtleneck,,,1
+Items.Shirt_02_rich_01,Chest, -,Light Xx Punch! Heat-Resistant Biker Turtleneck,,,1
+Items.Shirt_02_rich_02,Chest, -,Sport-Flex At-Ak Thermoactive Turtleneck,,,1
+Items.Shirt_02_rich_03,Chest, -,Violet Nebula Anti-Tear Polyamide Turtleneck,,,1
+Items.Shirt_03_basic_01,Chest, -,Suichu Yogan Syn-Fiber Combat Shirt,,,1
+Items.Shirt_03_basic_02,Chest, -,Composite Geisha Combat Shirt,,,1
+Items.Shirt_03_basic_03,Chest, -,Padded Syn-Fiber Combat Shirt,,,1
+Items.Shirt_03_old_01,Chest, -,Old Flazh Combat Shirt,,,1
+Items.Shirt_03_old_02,Chest, -,Frayed Scav Combat Shirt,,,1
+Items.Shirt_03_old_03,Chest, -,Worn Maelstrom Jacket,,,1
+Items.Shirt_03_rich_01,Chest, -,Boulet Torquoise Combat Shirt With Protective Lining,,,1
+Items.Shirt_03_rich_02,Chest, -,Atomic Blast Composite Armor-Weave Combat Shirt,,,1
+Items.Shirt_03_rich_03,Chest, -,Decadencia Verde Heavy Plate-Weave Combat Shirt,,,1
+Items.Shorts_01_basic_01,Legs, -,Classic Aramid-Weave Denim Shorts,,,1
+Items.Shorts_01_old_01,Legs, -,Composite-Coated Cut-Off Shorts,,,1
+Items.Shorts_01_old_02,Legs, -,Anti-Puncture Cut-Off Shorts,,,1
+Items.Shorts_01_old_03,Legs, -,Old-Gold Tac-Fabric Duolayer Cut-Off Shorts,,,1
+Items.Shorts_01_rich_01,Legs, -,Magenta Cut-Off Duolayer Nanoweave Shorts,,,1
+Items.Shorts_02_basic_01,Legs, -,Athletic Hybrid-Weave Hotpants,,,1
+Items.Shorts_02_basic_02,Legs, -,Blue Brick Reinforced Hotpants,,,1
+Items.Shorts_02_old_01,Legs, -,Trilayer Hotpants With Micromesh,,,1
+Items.Shorts_02_old_02,Legs, -,Lightweight Heat-Resistant Hotpants,,,1
+Items.Shorts_02_rich_01,Legs, -,Golden Pocket Hybrid-Weave Hotpants,,,1
+Items.Shorts_02_rich_02,Legs, -,Composite Ko Jagā Silk-Threaded Hotpants,,,1
+Items.Shorts_03_basic_01,Legs, -,Classic Athletic Nanoweave Shorts,,,1
+Items.Shorts_03_basic_02,Legs, -,Athletic Aramid-Weave Shorts,,,1
+Items.Shorts_03_basic_03,Legs, -,N54 Athletic Shorts With Thermoactive Mesh,,,1
+Items.Shorts_03_old_01,Legs, -,Old N54 Athletic Shorts,,,1
+Items.Shorts_03_rich_01,Legs, -,Green Power Polyamide-Padded Athletic Shorts,,,1
+Items.Shorts_04_old_01,Legs, -,Composite-Lined Jean Shorts,,,1
+Items.Shorts_04_old_02,Legs, -,Frayed Jean Shorts,,,1
+Items.Shorts_04_old_03,Legs, -,Duolayer Military Camo Shorts,,,1
+Items.Shorts_04_old_04,Legs, -,Faded Shorts,,,1
+Items.Shorts_05_old_01,Legs, -,Old Military Shorts,,,1
+Items.Shorts_05_old_02,Legs, -,Syn-Threaded Shorts,,,1
+Items.Shorts_05_old_03,Legs, -,Light Electro Extra-Lined Shorts,,,1
+Items.Shorts_05_old_04,Legs, -,Grauer Recycled Shorts,,,1
+Items.Shorts_05_old_05,Legs, -,Comfy Nomad Shorts,,,1
+Items.Solo_01_Set_Boots,Feet,solo,Gold-Tipped Manganese Steel Solo Boots,,,1
+Items.Solo_01_Set_Jacket,Outer Torso,solo,Heavy Shock-Absorbent Solo Jacket,,,1
+Items.Solo_01_Set_Pants,Legs,solo,Armor-Plated Synleather Solo Pants,,,1
+Items.Solo_01_Set_TShirt,Chest,solo,Ultrathin Composite-Print Solo Shirt,,,1
+Items.Solo_01_Set_Visor,Head,solo,Titanium Solo Techgogs With Tactical Software,,,1
+Items.SQ004_RaffenShiv_Mask,Face, -,Wraiths Gas Mask,,,1
+Items.SQ021_Lab_Costume,Special,special,Kang Tao Lab Suit,,,1
+Items.SQ021_Wraiths_Vest,Chest, -,Bad Motherfucker Vest,,,1
+Items.SQ023_Joshua_Prisonwear,Special,special,'Joshua''s Prison Uniform',,,1
+Items.SQ023_Switchblade_Pants,Legs, -,4th Wall Acting Pants,,,1
+Items.SQ023_Switchblade_Shirt,Chest, -,4th Wall Acting Shirt,,,1
+Items.SQ029_Police_Suit,Special,special,Police Uniform,,,1
+Items.SQ029_River_Romance_Shirt,Head, -,'River''s Tank Top',,,1
+Items.SQ030_Diving_Suit,Special,special,Neoprene Diving Suit With Flippers (From Judy) Not Removable,,,1
+Items.sq030_diving_suit_female,Special, -,'Women''s Diving Suit - Broken',,Broken,0
+Items.sq030_diving_suit_male,Special, -,'Men''s Diving Suit - Broken',,Broken,0
+Items.SQ030_Diving_Suit_NoShoes,Special,special,Neoprene Diving Suit (From Judy) Not Removable,,item un-removable,1
+Items.SQ030_MaxTac_Chest,Outer Torso,maxtac,Neoprene Diving Suit (From Judy) Maxtac Multilayered Armor-Weave Jacket,,item un-removable,1
+Items.SQ030_MaxTac_Helmet,Head,maxtac,Maxtac Tactical Helmet With Multifunction Infovisor,,,1
+Items.SQ030_MaxTac_Pants,Legs,maxtac,Heavy-Duty Maxtac Cargo Pants,,,1
+Items.SQ031_Samurai_Jacket,Outer Torso,johnny [quest],'Replica Of Johnny''s Samurai Jacket',,,1
+Items.SQ031_Samurai_Jacket_Epic,Outer Torso,johnny [quest],'Replica Of Johnny''s Samurai Jacket',,,1
+Items.SQ031_Samurai_Jacket_Legendary,Outer Torso,johnny [quest],'Replica Of Johnny''s Samurai Jacket [L]',,,1
+Items.sq032_dogtags,Outer Torso,johnny [quest],'Johnny''s Dog Tags',,,1
+Items.Tech_01_basic_01,Face, -,Trilayer Steel Ocuset,,,1
+Items.Tech_01_basic_02,Face, -,Composite Ocuset,,,1
+Items.Tech_01_old_01,Face, -,Old Ocuset,,,1
+Items.Tech_01_rich_01,Face, -,Kang Tao Manganese Combat Ocuset,,,1
+Items.Tech_01_rich_02,Face, -,Ncpd Titanium Ice-Protected Ocuset,,,1
+Items.Tech_02_basic_01,Face, -,Aoi Tora Enhanced Bd Wreath,,,1
+Items.Tech_02_basic_02,Face, -,Lightweight Tungsten-Steel Bd Wreath,,,1
+Items.Tech_02_old_01,Face, -,Dated Bd Wreath,,,1
+Items.Tech_02_rich_01,Face, -,Sweet Dreams Armored-Laminated Bd Wreath,,,1
+Items.Tech_02_rich_02,Face, -,Kogane No Yume Titanium Bd Wreath,,,1
+Items.Techie_01_Set_Cap,Head,techie,Cushioned Techie Baseball Cap,,,1
+Items.Techie_01_Set_Pants,Legs,techie,Reinforced Duolayer Techie Cargo Pants,,,1
+Items.Techie_01_Set_Shoes,Feet,techie,Cushioned Aramid-Sole Techie Shoes,,,1
+Items.Techie_01_Set_Tech,Face,techie,Laminated Ice-Protected Techie Ocuset,,,1
+Items.Techie_01_Set_TShirt,Chest,techie,Thermoactive Tear-Resistant Techie Shirt,,,1
+Items.Techie_01_Set_Vest,Outer Torso,techie,Polycarbonate Nanoweave Techie Harness,,,1
+Items.TightJumpsuit_01_basic_01,Chest, -,Military-Grade Aramid Netrunning Suit,,,1
+Items.TightJumpsuit_01_basic_02,Chest, -,Light Elastomer Netrunning Suit,,,1
+Items.TightJumpsuit_01_old_01,Chest, -,Worn Netrunning Suit,,,1
+Items.TightJumpsuit_01_old_02,Chest, -,Old Netrunning Suit,,,1
+Items.TightJumpsuit_01_rich_01,Chest, -,Composite Arasaka Netrunning Nanoweave Suit,,,1
+Items.TightJumpsuit_01_rich_02,Chest, -,Red Alert Anti-Surge Netrunning Suit,,,1
+Items.TShirt_01_basic_01,Chest, -,Basic Tank Top,,,1
+Items.TShirt_01_basic_02,Chest, -,Melting Hottie Tank Top,,,1
+Items.TShirt_01_basic_03,Chest, -,Purple Dragon Aramid-Weave Tank Top,,,1
+Items.TShirt_01_old_01,Chest, -,Anti-Chem Synfabric Tank Top,,,1
+Items.TShirt_01_old_02,Chest, -,Punk Tank Top,,,1
+Items.TShirt_01_old_03,Chest, -,Once We Were Boosted Tank Top,,,1
+Items.TShirt_01_rich_01,Chest, -,Ultralight Geisha Dream Polyamide Tank Top,,,1
+Items.TShirt_01_rich_02,Chest, -,Daemon Hunter Resistance-Coated Tank Top,,,1
+Items.TShirt_01_rich_03,Chest, -,Sankaku Nichibotsu Tarp-Weave Tank Top,,,1
+Items.TShirt_02_basic_01,Chest, -,Utilitarian Burn Corpo Shit T-Shirt,,,1
+Items.TShirt_02_basic_02,Chest, -,Ultimate Punch Sturdimesh T-Shirt,,,1
+Items.TShirt_02_basic_03,Chest, -,Ded-Zed Hybridweave T-Shirt,,,1
+Items.TShirt_02_basic_04,Chest, -,Puncture-Resistant Nusa T-Shirt,,,1
+Items.TShirt_02_basic_05,Chest, -,Vintage Samurai Strongweave T-Shirt,,,1
+Items.TShirt_02_old_01,Chest, -,Ruined Life Sturdimesh T-Shirt,,,1
+Items.TShirt_02_old_02,Chest, -,Oled Hex Camo Shirt,,,1
+Items.TShirt_02_old_03,Chest, -,Durable Hardened Syn-Cotton T-Shirt,,,1
+Items.TShirt_02_old_04,Chest, -,Utilitarian Composite-Mesh T-Shirt,,,1
+Items.TShirt_02_rich_01,Chest, -,Psycho Impact-Absorbent Nanoweave T-Shirt,,,1
+Items.TShirt_02_rich_02,Chest, -,Stylish Big Fish Steel-Sequined T-Shirt,,,1
+Items.TShirt_02_rich_03,Chest, -,Composite-Coated Bitch V.13 T-Shirt,,,1
+Items.TShirt_02_rich_04,Chest, -,Yoru No Samurai Gmo-Cotton T-Shirt,,,1
+Items.TShirt_03_basic_01,Chest, -,Extra-Sturdy Deadly Lagoon Tank Top,,,1
+Items.TShirt_03_basic_02,Chest, -,Extra-Durable Stripped Tank Top,,,1
+Items.TShirt_03_basic_03,Chest, -,Canine Power Duolayer Tank Top,,,1
+Items.TShirt_03_old_01,Chest, -,Spotted Tank Top,,,1
+Items.TShirt_03_old_02,Chest, -,Worn Tamashi Tank Top,,,1
+Items.TShirt_03_old_03,Chest, -,Mox Ultralight Tank Top With Micromesh Layer,,,1
+Items.TShirt_03_rich_01,Chest, -,Neokitsch Palm Bay Heat-Resistant Tank Top,,,1
+Items.TShirt_03_rich_02,Chest, -,Santa Muerte Heat-Resitant Tank Top,,,1
+Items.TShirt_03_rich_03,Chest, -,Ultralight Tested On Animals Polyamide Tank Top,,,1
+Items.TShirt_04_old_01,Chest, -,High-Tensile Cutout Tank,,,1
+Items.TShirt_04_old_02,Chest, -,Frayed Nanoweave Cutout Tank,,,1
+Items.TShirt_04_old_03,Chest, -,Bloody Piggy Duoweave Cutout Tank,,,1
+Items.TShirt_04_old_04,Chest, -,X Reinforced Polyamide Tank Top,,,1
+Items.TShirt_04_old_05,Chest, -,Secondhand Speed Addiction Duolayer Cutout Tank,,,1
+Items.TShirt_04_old_06,Chest, -,Sturdi-Weave Cutout Tank,,,1
+Items.TShirt_05_old_01,Chest, -,Torn Burn Corpo Shit Composite T-Shirt,,,1
+Items.TShirt_05_old_02,Chest, -,Torn Daemon Hunter Polyamide T-Shirt,,,1
+Items.TShirt_05_old_03,Chest, -,Torn Polyamide-Blend Camo T-Shirt,,,1
+Items.TShirt_05_old_04,Chest, -,Torn Syn-Blend T-Shirt,,,1
+Items.TShirt_05_old_05,Chest, -,Torn Sturdimesh T-Shirt,,,1
+Items.TShirt_05_old_06,Chest, -,Sturdi-Weave Bitch V.13 T-Shirt,,,1
+Items.TShirt_06_basic_01,Chest, -,Nippon Composite-Coated Muscle Tank,,,1
+Items.TShirt_06_basic_02,Chest, -,Bermuda Triangle Protective-Mesh Muscle Tank,,,1
+Items.TShirt_06_old_01,Chest, -,Bloody Piggy Triweave Muscle Tank,,,1
+Items.TShirt_06_old_02,Chest, -,Old Emerald Speed Muscle Tank,,,1
+Items.TShirt_06_rich_01,Chest, -,Purple Dragon Neokitsch Muscle Tank With Tungsten Sequins,,,1
+Items.TShirt_06_rich_02,Chest, -,X Nanotube-Weave Muscle Tank,,,1
+Items.TShirt_07_basic_01,Chest, -,Gray Decay Synfabric Racerback Tank,,,1
+Items.TShirt_07_basic_02,Chest, -,Night City Sturdimesh Racerback Tank,,,1
+Items.TShirt_07_old_01,Chest, -,Tacti-Fiber Racerback Tank ,,,1
+Items.TShirt_07_old_02,Chest, -,Yoru No Samurai Composite Racerback Tank,,,1
+Items.TShirt_07_rich_01,Chest, -,Psycho Puncture-Resistant Racerback Tank,,,1
+Items.TShirt_07_rich_02,Chest, -,Santa Muerte Neokitsch Aramid-Weave Racerback Tank,,,1
+Items.TShirt_08_basic_01,Chest, -,Knotted Armor Weave Tank,,,1
+Items.TShirt_08_basic_02,Chest, -,Extra-Reinforced Knotted Tank,,,1
+Items.TShirt_08_old_01,Chest, -,Faded Uniware Knotted Tank,,,1
+Items.TShirt_08_old_02,Chest, -,Secondhand Knotted Tank,,,1
+Items.TShirt_08_rich_01,Chest, -,Amethyst Punk Easy-Breathe Knotted Tank,,,1
+Items.TShirt_08_rich_02,Chest, -,Neokitsch Blooming Amber Resistance-Coated Tank,,,1
+Items.TShirt_09_basic_01,Chest, -,Ripped Tactical Camo Crop Top,,,1
+Items.TShirt_09_basic_02,Chest, -,Tattered Plaid Crop Top,,,1
+Items.TShirt_09_old_01,Chest, -,Ripped Tamashi Polyamide Tank Top,,,1
+Items.TShirt_09_old_02,Chest, -,Torn Reinforced Tank Top,,,1
+Items.TShirt_10_basic_01,Chest, -,Fuck You Durable-Weave Tank Top,,,1
+Items.TShirt_10_old_01,Chest, -,Heat-Resistant Reinforced Nu-Tek Tight Tank,,,1
+Items.TShirt_10_rich_01,Chest, -,'Saeko''s Protective Layer Tight Tank',,,1
+Items.TShirt_11_basic_01,Chest, -,Reinforced-Seam Sporty Tank Top,,,1
+Items.TShirt_11_old_01,Chest, -,Punk Duolayer Tank Top,,,1
+Items.TShirt_11_rich_01,Chest, -,Adamant Army Reinforced Tactical Tank Top,,,1
+Items.Undershirt_02_basic_01,Chest, -,Reinforced Spotted Bra,,,1
+Items.Undershirt_02_basic_02,Chest, -,Flexi-Membrane Leather Bra,,,1
+Items.Undershirt_02_rich_01,Chest, -,Ultralight Amande Rose Anti-Puncture Bra,,,1
+Items.Undershirt_02_rich_02,Chest, -,Padded Denki Hachi Hybrid-Weave Bra,,,1
+Items.Undershirt_03_basic_01,Chest, -,Simple Duolayer Bustier,,,1
+Items.Undershirt_03_basic_02,Chest, -,Bara Kaika Syn-Leather Bustier,,,1
+Items.Undershirt_03_basic_03,Chest, -,Stylish Atomic Blast Composite Bustier,,,1
+Items.Undershirt_03_basic_04,Chest, -,Spotted Flexi-Membrane Bustier,,,1
+Items.Undershirt_03_rich_01,Chest, -,Ultralight Jasmin Doucet Syn-Cotton Bustier,,,1
+Items.Undershirt_03_rich_02,Chest, -,Reine De Abeilles Bustier With Bulletproof Lining,,,1
+Items.Vest_01_basic_01,Outer Torso, -,Border Guard Multilayer Aramid Vest,,,1
+Items.Vest_01_basic_02,Outer Torso, -,Arasaka Polycarbonate-Laced Bulletproof Aramid Vest,,,1
+Items.Vest_01_old_01,Outer Torso, -,Shabby 6th Street Aramid Vest,,,1
+Items.Vest_01_old_02,Outer Torso, -,Old Maelstrom-Tagged Aramid Vest,,,1
+Items.Vest_01_rich_01,Outer Torso, -,Cy-4n Hybrid-Knit Aramid Tactical Vest,,,1
+Items.Vest_01_rich_02,Outer Torso, -,M4rbl3 Titanium-Pleated Ballistic Vest,,,1
+Items.Vest_02_basic_01,Outer Torso, -,Enhanced Aramid Vest,,,1
+Items.Vest_02_basic_02,Outer Torso, -,Ultralight Composite Vest,,,1
+Items.Vest_02_old_01,Outer Torso, -,Punk Aramid Vest,,,1
+Items.Vest_02_old_02,Outer Torso, -,Military Aramid Vest,,,1
+Items.Vest_02_rich_01,Outer Torso, -,Kang Tao Metalstitich Aramid Vest,,,1
+Items.Vest_02_rich_02,Outer Torso, -,Militech Armor-Quilted Aramid Vest,,,1
+Items.Vest_03_basic_01,Outer Torso, -,Ncpd Reinforced Ballistic Vest,,,1
+Items.Vest_03_basic_02,Outer Torso, -,Borderguard Ballist Vest,,,1
+Items.Vest_03_old_01,Outer Torso, -,Scav Ballistic Vest,,,1
+Items.Vest_03_old_02,Outer Torso, -,6th Street Makeshift Ballistic Vest,,,1
+Items.Vest_03_rich_01,Outer Torso, -,Amber-04 Titanium Plated Ballistic Vest,,,1
+Items.Vest_03_rich_02,Outer Torso, -,Powder Pink Trivanadium Alloy Ballistic Vest,,,1
+Items.Vest_04_basic_01,Outer Torso, -,Basic Ballistic Vest,,,1
+Items.Vest_04_basic_02,Outer Torso, -,Police Ballistic Vest,,,1
+Items.Vest_04_old_01,Outer Torso, -,Old Combat Vest,,,1
+Items.Vest_04_old_02,Outer Torso, -,Worn-Out Ballistic Vest,,,1
+Items.Vest_04_rich_01,Outer Torso, -,Virtuglow Composite Ballistic Vest,,,1
+Items.Vest_04_rich_02,Outer Torso, -,Daemon Hunter Titanium-Weave Ballistic Vest,,,1
+Items.Vest_06_basic_01,Outer Torso, -,Militec Armorfibre Tactical Harness,,,1
+Items.Vest_06_basic_02,Outer Torso, -,Tyger Claws Reinforced Tactical Harness,,,1
+Items.Vest_06_old_01,Outer Torso, -,6th Street Tactical Harness,,,1
+Items.Vest_06_old_02,Outer Torso, -,Dirty Nusa Tactical Harness,,,1
+Items.Vest_06_rich_01,Outer Torso, -,Animals Heavy Composite-Plated Tactical Harness,,,1
+Items.Vest_06_rich_02,Outer Torso, -,Decadencia Verde Bulletproof Tactical Harness,,,1
+Items.Vest_06_rich_03,Outer Torso, -,Arasaka Ultralight Hybrid Tactical Harness,,,1
+Items.Vest_06_rich_04,Outer Torso, -,Flazh Armored Thermoset Tactical Harness,,,1
+Items.Vest_07_basic_01,Outer Torso, -,Aramid-Enhanced High-Collar Military Vest,,,1
+Items.Vest_07_basic_02,Outer Torso, -,Enhanced High Collar Vest,,,1
+Items.Vest_07_basic_03,Outer Torso, -,Basic Detachable Reactive-Fibre Collar,,,1
+Items.Vest_07_old_01,Outer Torso, -,Punk High-Collar Vest,,,1
+Items.Vest_07_old_02,Outer Torso, -,Durable High-Collar Vest,,,1
+Items.Vest_07_old_03,Outer Torso, -,Graffiti Detachable Collat,,,1
+Items.Vest_07_rich_01,Outer Torso, -,Shirokuro High-Collar Composite-Lined Vest,,,1
+Items.Vest_07_rich_02,Outer Torso, -,Urban Jungle High-Collar Reinforced Leather Vest,,,1
+Items.Vest_07_rich_03,Outer Torso, -,Magenta Puncture-Resistant Multilayer High-Collar Vest,,,1
+Items.Vest_08_basic_01,Outer Torso, -,Militech Heavy Tactical Vest,,,1
+Items.Vest_08_basic_02,Outer Torso, -,Kang Tao Reinforced Tactical Vest,,,1
+Items.Vest_08_old_01,Outer Torso, -,Border Guard Tactical Vest,,,1
+Items.Vest_08_old_02,Outer Torso, -,Camo Tactical Vest,,,1
+Items.Vest_08_rich_01,Outer Torso, -,Bitch V.13 Dual-Reinforced Tactical Vest,,,1
+Items.Vest_08_rich_02,Outer Torso, -,Trauma Team Armor-Weave Tactical Vest,,,1
+Items.Vest_10_basic_01,Outer Torso, -,Sturdy Shoulder Straps,,,1
+Items.Vest_10_basic_02,Outer Torso, -,Valentinos Leather Shoulder Straps,,,1
+Items.Vest_10_old_01,Outer Torso, -,Old Camo Shoulder Straps,,,1
+Items.Vest_10_old_02,Outer Torso, -,6th Street Shoulder Straps,,,1
+Items.Vest_10_rich_01,Outer Torso, -,Animals Reinforced Carbon-Fibre Shoulder Straps,,,1
+Items.Vest_10_rich_02,Outer Torso, -,Wraiths Dual-Reinforced Shoulder Straps,,,1
+Items.Vest_11_basic_01,Outer Torso, -,Reflective Metalweave Nylon Vest,,,1
+Items.Vest_11_basic_02,Outer Torso, -,Kang Tao Reflective Hybridweave Utility Vest,,,1
+Items.Vest_11_old_01,Outer Torso, -,Muddy Ncpd Vest,,,1
+Items.Vest_11_old_02,Outer Torso, -,Old 6th Street Vest,,,1
+Items.Vest_11_rich_01,Outer Torso, -,Cyan Thermoset Combat Camo Vest,,,1
+Items.Vest_11_rich_02,Outer Torso, -,Graffiti Ultraresistant Duolayer Vest,,,1
+Items.Vest_12_basic_01,Outer Torso, -,Arasaka Thermoset Aramid Collar,,,1
+Items.Vest_12_basic_02,Outer Torso, -,Mox Nanoplastic Collar,,,1
+Items.Vest_12_old_01,Outer Torso, -,Military Aramid Collar,,,1
+Items.Vest_12_old_02,Outer Torso, -,Ncpd Aramid Collar,,,1
+Items.Vest_12_rich_01,Outer Torso, -,Tyger Claws Ceramic-Laminate Aramid Collar,,,1
+Items.Vest_12_rich_02,Outer Torso, -,Valentinos Armor-Plated Thermoset Aramid Collar,,,1
+Items.Vest_13_basic_01,Outer Torso, -,Militech Ultralight Aramid Breastplate,,,1
+Items.Vest_13_basic_02,Outer Torso, -,Corporate Armor-Plated Aramid Breastplate,,,1
+Items.Vest_13_rich_01,Outer Torso, -,'Saeko''s Prototype Tactical Aramid Breastplate',,,1
+Items.Vest_13_rich_02,Outer Torso, -,Arumajiro Dual-Armor Aramid Breastplate,,,1
+Items.Vest_13_rich_03,Outer Torso, -,Kani Kara Titanium-Reinforced Composite Breastplate,,,1
+Items.Vest_13_rich_04,Outer Torso, -,5hi3ld Superb Combatweave Aramid Breastplate,,,1
+Items.Vest_14_basic_01,Outer Torso, -,Microplate-Lined Camo Vest,,,1
+Items.Vest_14_basic_02,Outer Torso, -,Lady In Blue Synweave Vest,,,1
+Items.Vest_14_old_01,Outer Torso, -,Nusa Leather Vest,,,1
+Items.Vest_14_old_02,Outer Torso, -,Secondhand Synthleather Vest,,,1
+Items.Vest_14_rich_01,Outer Torso, -,Bitch V.13 Composite-Enhanced Vest,,,1
+Items.Vest_14_rich_02,Outer Torso, -,Classy Brass Flame-Resistant Laminated Vest,,,1
+Items.Vest_15_basic_01,Outer Torso, -,Hand-Reinforced Hooded Denim Cut-Off,,,1
+Items.Vest_15_basic_02,Outer Torso, -,Camo Combat Cut-Off,,,1
+Items.Vest_15_basic_03,Outer Torso, -,Candy Pill Ultra-Durable Cut-Off,,,1
+Items.Vest_15_old_01,Outer Torso, -,Bloody Piggy Cut-Off,,,1
+Items.Vest_15_old_02,Outer Torso, -,Shabby Hooded Cut-Off,,,1
+Items.Vest_15_old_03,Outer Torso, -,Cut-Off With Protective Underlayer,,,1
+Items.Vest_16_basic_01,Outer Torso, -,Tamashí Enhanced Short Puffer,,,1
+Items.Vest_16_basic_02,Outer Torso, -,Nanostitched Short Puffer,,,1
+Items.Vest_16_old_01,Outer Torso, -,Short Puffer With Microplate Underlayer,,,1
+Items.Vest_16_old_02,Outer Torso, -,Reinforced Short Puffer,,,1
+Items.Vest_16_rich_01,Outer Torso, -,Claw Taste Ultradurable Short Puffer,,,1
+Items.Vest_16_rich_02,Outer Torso, -,Fancy Dragon Aramid-Lined Short Puffer,,,1
+Items.Vest_17_basic_01,Outer Torso, -,Jshlx Reinforced Puffer Vest,,,1
+Items.Vest_17_basic_02,Outer Torso, -,Final Impulse Duolayer Puffer Vest,,,1
+Items.Vest_17_rich_01,Outer Torso, -,Wasp Anti-Puncture Polyamide Puffer Vest,,,1
+Items.Vest_17_rich_02,Outer Torso, -,Magenta Bee Trilayer Hybrid Puffer Vest,,,1
+Items.Vest_18_basic_01,Outer Torso, -,Polycarbonate Western Fringe Vest,,,1
+Items.Vest_18_basic_02,Outer Torso, -,Icon America Duolayer Western Fringe Vest,,,1
+Items.Vest_18_old_01,Outer Torso, -,Camo Western Fringe Vest,,,1
+Items.Vest_18_rich_01,Outer Torso, -,Adamant Road Composite-Reinforced Western Fringe Vest,,,1
+Items.Vest_18_rich_02,Outer Torso, -,Anhelo Blanco Puncture-Resistant Western Fringe Vest,,,1
+Items.Vest_19_basic_01,Outer Torso, -,Asa No Heiwa Enhanced Yukata,,,1
+Items.Vest_19_basic_02,Outer Torso, -,Elegant Nanoweave Yukata,,,1
+Items.Vest_19_old_01,Outer Torso, -,Synweave Armor-Coated Yukata,,,1
+Items.Vest_19_rich_01,Outer Torso, -,Wakai Umi Flame-Resistant Yukata,,,1
+Items.Vest_19_rich_02,Outer Torso, -,Murasaki Tear-Resistant Yukata,,,1
+Items.Vest_20_basic_01,Outer Torso, -,Impact-Absorbent Padded Biker Vest,,,1
+Items.Vest_20_basic_02,Outer Torso, -,Hjudge Werther Reinforced Leather Biker Vest,,,1
+Items.Vest_20_old_01,Outer Torso, -,Studded Biker Vest,,,1
+Items.Vest_20_old_02,Outer Torso, -,Leather Biker Vest,,,1
+Items.Vest_20_rich_01,Outer Torso, -,Silverock Bulletproof-Laminate Biker Vest,,,1
+Items.Vest_20_rich_02,Outer Torso, -,Rosa Escarlata Embossed Armoleather Biker Vest,,,1
+Items.Visor_01_basic_01,Face, -,Technopolymer Lab Infovisor,,,1
+Items.Visor_01_basic_02,Face, -,Illegally Modified Military Infovisor,,,1
+Items.Visor_01_basic_03,Face, -,Blouie Blue Aramid-Coated Infovisor,,,1
+Items.Visor_01_basic_04,Face, -,Trendy Red Vision Laminated Glass Infovisor,,,1
+Items.Visor_01_basic_05,Face, -,Sun Spark Thermoset Chemglass Infovisor,,,1
+Items.Visor_02_basic_01,Face, -,Boostknit-Polymer Military Techgogs,,,1
+Items.Visor_02_basic_02,Face, -,Arasaka Tactical Techgogs,,,1
+Items.Visor_02_basic_03,Face, -,Reinforced-Plastic Biker Techgogs,,,1
+Items.Visor_02_old_01,Face, -,Broken Techgogs,,,1
+Items.Visor_02_old_02,Face, -,Old Biker Techgogs,,,1
+Items.Visor_02_rich_01,Face, -,Yamori Tungsten-Steel Biker Techgogs,,,1
+Items.Visor_02_rich_02,Face, -,Bitch Armored Ice-Protected Techgogs,,,1
+Items.Visor_02_rich_03,Face, -,Dried Blood Metal-Reinforced Tactical Techgogs,,,1
