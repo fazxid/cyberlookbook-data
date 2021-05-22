@@ -1,10 +1,10 @@
 id,type,set,name,quest,tags,notes,show
-Items.Balaclava_01_basic_01,Head, -,Ordinary Tactical Balaclava With Reactive Layering,,None,,1
-Items.Balaclava_01_basic_02,Head, -,Darra Polytechnic Tactical Balaclava,,None,,1
-Items.Balaclava_01_old_01,Head, -,Balaclava With Schock Absorbent Composite Layering,,None,,1
-Items.Balaclava_01_old_02,Head, -,Nami Balaclava With Polyamide-Insulated Lining,,None,,1
-Items.Balaclava_01_rich_01,Head, -,Thermo-Impulse Anti-Shrapnel Balaclava,,None,,1
-Items.Balaclava_01_rich_02,Head, -,'Saeko''s Darkernet Tactical Balaclava With Nanotubing',,None,,1
+Items.Balaclava_01_basic_01,Head, -,Ordinary Tactical Balaclava With Reactive Layering,,Balaclava,,1
+Items.Balaclava_01_basic_02,Head, -,Darra Polytechnic Tactical Balaclava,,Balaclava,,1
+Items.Balaclava_01_old_01,Head, -,Balaclava With Schock Absorbent Composite Layering,,Balaclava,,1
+Items.Balaclava_01_old_02,Head, -,Nami Balaclava With Polyamide-Insulated Lining,,Balaclava,,1
+Items.Balaclava_01_rich_01,Head, -,Thermo-Impulse Anti-Shrapnel Balaclava,,Balaclava,,1
+Items.Balaclava_01_rich_02,Head, -,'Saeko''s Darkernet Tactical Balaclava With Nanotubing',,Balaclava,,1
 Items.Boots_01_basic_01,Feet, -,Reinforced Uniware Platform Boots,,Boots,,1
 Items.Boots_01_old_01,Feet, -,Titanium-Layer Platform Boots,,Boots,,1
 Items.Boots_01_rich_01,Feet, -,Street Queen Platform Boots Reinforced Stitching,,Boots,,1
@@ -176,15 +176,15 @@ Items.Coat_04_old_01,Outer Torso, -,Old Spotted Trench Coat,,Coat,,1
 Items.Coat_04_old_02,Outer Torso, -,Timeworn Trench Coat,,Coat,,1
 Items.Coat_04_rich_01,Outer Torso, -,Fairy Frost Trench Coat With Protective Mesh,,Coat,,1
 Items.Coat_04_rich_02,Outer Torso, -,Milky Gold Trench Coat With Bulletproof Triweave,,Coat,,1
-Items.Cop_01_Set_Boots,Feet,police,Waterproof Badge Combat Boots,,Cop,,1
-Items.Cop_01_Set_Glasses,Face,police,Holo-Tinted Badge Goggles,,Cop,,1
-Items.Cop_01_Set_Jacket,Outer Torso,police,Heavy-Duty Aramid-Reinforced Badge Coat,,Cop,,1
-Items.Cop_01_Set_Pants,Legs,police,Anti-Puncture Neotac Pants With Composite Lining,,Cop,,1
-Items.Corporate_01_Set_FormalJacket,Outer Torso,corpo,Corporate Blazer With Bulletproof Linings,,Corporate,,1
-Items.Corporate_01_Set_FormalShirt,Inner Torso,corpo,Carbonweave Silk Corporate Shirt,,Corporate,,1
-Items.Corporate_01_Set_FormalShoes,Feet,corpo,Ergonomic Reinforced Corporate Pumps,,Corporate,,1
-Items.Corporate_01_Set_Glasses,Face,corpo,Tactical Hybrid-Glass Corporate Glasses,,Corporate,,1
-Items.Corporate_01_Set_Pants,Legs,corpo,Breathabe Reinforced Bio-Cotton Corporate Slaps,,Corporate,,1
+Items.Cop_01_Set_Boots,Feet,police,Waterproof Badge Combat Boots,,Boots,,1
+Items.Cop_01_Set_Glasses,Face,police,Holo-Tinted Badge Goggles,,Glasses,,1
+Items.Cop_01_Set_Jacket,Outer Torso,police,Heavy-Duty Aramid-Reinforced Badge Coat,,Jacket,,1
+Items.Cop_01_Set_Pants,Legs,police,Anti-Puncture Neotac Pants With Composite Lining,,Pants,,1
+Items.Corporate_01_Set_FormalJacket,Outer Torso,corpo,Corporate Blazer With Bulletproof Linings,,Formal,,1
+Items.Corporate_01_Set_FormalShirt,Inner Torso,corpo,Carbonweave Silk Corporate Shirt,,Formal,,1
+Items.Corporate_01_Set_FormalShoes,Feet,corpo,Ergonomic Reinforced Corporate Pumps,,Formal,,1
+Items.Corporate_01_Set_Glasses,Face,corpo,Tactical Hybrid-Glass Corporate Glasses,,Glasses,,1
+Items.Corporate_01_Set_Pants,Legs,corpo,Breathabe Reinforced Bio-Cotton Corporate Slacks,,Pants,,1
 Items.Dress_01_basic_01,Outer Torso, -,Victorian Rose Anti-Shrapnel Pencil Dress,,Dress,,1
 Items.Dress_01_basic_02,Outer Torso, -,Rozovaya Reka Pencil Dress With Protective Membrane,,Dress,,1
 Items.Dress_01_basic_03,Outer Torso, -,Elegant Hybrid-Lining Pencil Dress,,Dress,,1
@@ -197,11 +197,11 @@ Items.Dress_02_basic_03,Outer Torso, -,Spotted Armor-Coated Corpo-Skirt,,Dress,,
 Items.Dress_02_rich_01,Outer Torso, -,Phoenix Formal Dress With Microarmor Layer,,Dress,,1
 Items.Dress_02_rich_02,Outer Torso, -,Brass Harmony Composite-Reinforced Formal Dress,,Dress,,1
 Items.Dress_02_rich_03,Outer Torso, -,Schwarze Limette Aramid-Fabric Dress,,Dress,,1
-Items.Fixer_01_Set_Coat,Outer Torso,fixer,Trilayer Aramid-Weave Fixer Skirt With Jacket,,Fixed,,1
-Items.Fixer_01_Set_FormalShoes,Feet,fixer,Elastiweave Fixer Pumps With Reinforced Seams,,Fixed,,1
-Items.Fixer_01_Set_Glasses,Face,fixer,Plycarbonate Opti-Enhanced Fixer Glasses,,Fixed,,1
-Items.Fixer_01_Set_Pants,Legs,fixer,Protective-Layer Fixer Skirt,,Fixed,,1
-Items.Fixer_01_Set_TShirt,Inner Torso,fixer,Heat-Resistant Aramid-Weave Fixer Bustier,,Fixed,,1
+Items.Fixer_01_Set_Coat,Outer Torso,fixer,Trilayer Aramid-Weave Fixer Skirt With Jacket,,Coat,,1
+Items.Fixer_01_Set_FormalShoes,Feet,fixer,Elastiweave Fixer Pumps With Reinforced Seams,,Formal,,1
+Items.Fixer_01_Set_Glasses,Face,fixer,Plycarbonate Opti-Enhanced Fixer Glasses,,Glasses,,1
+Items.Fixer_01_Set_Pants,Legs,fixer,Protective-Layer Fixer Skirt,,Pants,,1
+Items.Fixer_01_Set_TShirt,Inner Torso,fixer,Heat-Resistant Aramid-Weave Fixer Bustier,,Tshirt,,1
 Items.FormalJacket_01_basic_01,Outer Torso, -,Polyamide-Blend Suit Jacket,,Formal,,1
 Items.FormalJacket_01_basic_02,Outer Torso, -,Wool Suit Jacket With Reinforced Synfiber-Weave,,Formal,,1
 Items.FormalJacket_01_old_01,Outer Torso, -,Sturdy Synfabric Suit Jacket,,Formal,,1
@@ -324,15 +324,15 @@ Items.Glasses_05_basic_03,Face, -,Makeshift Punk Goggles,,Glasses,,1
 Items.Glasses_05_basic_04,Face, -,2x Electronic Rocker Goggles,,Glasses,,1
 Items.Glasses_05_old_01,Face, -,Chemically Hardened Tactical Goggles,,Glasses,,1
 Items.Glasses_05_old_02,Face, -,Hardened Plastic Goggles,,Glasses,,1
-Items.GOG_DLC_Jacket,Outer Torso,gog,Wolf School Jacket,,GOG,,1
-Items.GOG_DLC_Jacket_Epic,Outer Torso,gog,Wolf School Jacket,,GOG,,1
-Items.GOG_DLC_Jacket_Legendary,Outer Torso,gog,Wolf School Jacket,,GOG,,1
-Items.GOG_DLC_TShirt,Inner Torso,gog,Wolf School T-Shirt,,GOG,,1
-Items.GOG_DLC_TShirt_Epic,Inner Torso,gog,Wolf School T-Shirt,,GOG,,1
-Items.GOG_DLC_TShirt_Legendary,Inner Torso,gog,Wolf School T-Shirt,,GOG,,1
-Items.GOG_Galaxy_TShirt,Inner Torso,gog,Galaxy T-Shirt,,GOG,,1
-Items.GOG_Galaxy_TShirt_Epic,Inner Torso,gog,Galaxy T-Shirt,,GOG,,1
-Items.GOG_Galaxy_TShirt_Legendary,Inner Torso,gog,Galaxy T-Shirt,,GOG,,1
+Items.GOG_DLC_Jacket,Outer Torso,gog,Wolf School Jacket,,Jacket,,1
+Items.GOG_DLC_Jacket_Epic,Outer Torso,gog,Wolf School Jacket,,Jacket,,1
+Items.GOG_DLC_Jacket_Legendary,Outer Torso,gog,Wolf School Jacket,,Jacket,,1
+Items.GOG_DLC_TShirt,Inner Torso,gog,Wolf School T-Shirt,,Tshirt,,1
+Items.GOG_DLC_TShirt_Epic,Inner Torso,gog,Wolf School T-Shirt,,Tshirt,,1
+Items.GOG_DLC_TShirt_Legendary,Inner Torso,gog,Wolf School T-Shirt,,Tshirt,,1
+Items.GOG_Galaxy_TShirt,Inner Torso,gog,Galaxy T-Shirt,,Tshirt,,1
+Items.GOG_Galaxy_TShirt_Epic,Inner Torso,gog,Galaxy T-Shirt,,Tshirt,,1
+Items.GOG_Galaxy_TShirt_Legendary,Inner Torso,gog,Galaxy T-Shirt,,Tshirt,,1
 Items.Hat_01_basic_01,Head, -,Classic Trilby With Composite Band,,Hat,,1
 Items.Hat_01_basic_02,Head, -,Solid Straw-Woven Trilby,,Hat,,1
 Items.Hat_01_old_01,Head, -,Durable Felt-Blend Trilby,,Hat,,1
@@ -516,18 +516,18 @@ Items.Jumpsuit_02_rich_03,Outer Torso, -,Lightning Rider Reinforced Racing Suit,
 Items.Jumpsuit_03_old_01,Outer Torso, -,Arasaka Hazmat Suit,,Jumpsuit,,1
 Items.Jumpsuit_03_old_02,Outer Torso, -,Ncpd Chem-Resistant Hazmat Suit,,Jumpsuit,,1
 Items.Jumpsuit_03_old_03,Outer Torso, -,Militech Aramid-Weave Hazmat Suit,,Jumpsuit,,1
-Items.LooseShirt_01_basic_01,Outer Torso, -,Limited Loose-Fit Shirt With Protective Mesh,,Loose Shirt,,1
-Items.LooseShirt_01_basic_02,Outer Torso, -,Warm Nanoweave Cotton Shirt,,Loose Shirt,,1
-Items.LooseShirt_01_old_01,Outer Torso, -,Practical Plaid Shirt With Micromesh,,Loose Shirt,,1
-Items.LooseShirt_01_old_02,Outer Torso, -,Classic Anti-Puncture Shirt,,Loose Shirt,,1
-Items.LooseShirt_01_rich_01,Outer Torso, -,Arte Urbano Elegantly Nanostitched Shirt,,Loose Shirt,,1
-Items.LooseShirt_01_rich_02,Outer Torso, -,Hebi Tsukai Cashmere-Nanofiber Shirt,,Loose Shirt,,1
-Items.LooseShirt_02_basic_01,Outer Torso, -,Discowboy Durable Synthfiber Western Shirt,,Loose Shirt,,1
-Items.LooseShirt_02_basic_02,Outer Torso, -,Denim Mesh Western Shirt,,Loose Shirt,,1
-Items.LooseShirt_02_old_01,Outer Torso, -,Composite-Weave Western Shirt,,Loose Shirt,,1
-Items.LooseShirt_02_old_02,Outer Torso, -,Graphite Gem Insulated Western Shirt,,Loose Shirt,,1
-Items.LooseShirt_02_rich_01,Outer Torso, -,Aqua Universe Luxe Aramid-Weave Shirt,,Loose Shirt,,1
-Items.LooseShirt_02_rich_02,Outer Torso, -,Saloon Style Ultra-Durable Dress Shirt,,Loose Shirt,,1
+Items.LooseShirt_01_basic_01,Outer Torso, -,Limited Loose-Fit Shirt With Protective Mesh,,LooseShirt,,1
+Items.LooseShirt_01_basic_02,Outer Torso, -,Warm Nanoweave Cotton Shirt,,LooseShirt,,1
+Items.LooseShirt_01_old_01,Outer Torso, -,Practical Plaid Shirt With Micromesh,,LooseShirt,,1
+Items.LooseShirt_01_old_02,Outer Torso, -,Classic Anti-Puncture Shirt,,LooseShirt,,1
+Items.LooseShirt_01_rich_01,Outer Torso, -,Arte Urbano Elegantly Nanostitched Shirt,,LooseShirt,,1
+Items.LooseShirt_01_rich_02,Outer Torso, -,Hebi Tsukai Cashmere-Nanofiber Shirt,,LooseShirt,,1
+Items.LooseShirt_02_basic_01,Outer Torso, -,Discowboy Durable Synthfiber Western Shirt,,LooseShirt,,1
+Items.LooseShirt_02_basic_02,Outer Torso, -,Denim Mesh Western Shirt,,LooseShirt,,1
+Items.LooseShirt_02_old_01,Outer Torso, -,Composite-Weave Western Shirt,,LooseShirt,,1
+Items.LooseShirt_02_old_02,Outer Torso, -,Graphite Gem Insulated Western Shirt,,LooseShirt,,1
+Items.LooseShirt_02_rich_01,Outer Torso, -,Aqua Universe Luxe Aramid-Weave Shirt,,LooseShirt,,1
+Items.LooseShirt_02_rich_02,Outer Torso, -,Saloon Style Ultra-Durable Dress Shirt,,LooseShirt,,1
 Items.Mask_02_basic_01,Face, -,Titanium-Reinforced Gas Mask,,Mask,,1
 Items.Mask_02_basic_02,Face, -,Makeshift Maelstrom Gas Mask,,Mask,,1
 Items.Mask_02_old_01,Face, -,Old Plastic Gas Mask,,Mask,,1
@@ -541,23 +541,23 @@ Items.Mask_03_old_01,Face, -,Weathered Menpo,,Mask,,1
 Items.Mask_03_old_02,Face, -,Menpo With Reactive Layer,,Mask,,1
 Items.Mask_03_rich_01,Face, -,Jigoku No Oni Reinforced-Composite Menpo,,Mask,,1
 Items.Mask_03_rich_02,Face, -,Akai Oni Titanium Boostknit Menpo,,Mask,,1
-Items.Media_01_Set_Cap,Head,media,Media Baseball Cap With Reactive Layer,,None,,1
-Items.Media_01_Set_Pants,Legs,media,Anti-Piercing Tactical Media Cargo Pants,,None,,1
-Items.Media_01_Set_Shirt,Inner Torso,media,Heat-Resistant Nanoweave Media Shirt,,None,,1
-Items.Media_01_Set_Shoes,Feet,media,Lightweight Hardened Rubber Media Steel-Toes,,None,,1
-Items.Media_01_Set_Tech,Face,media,Armored Media Ocuset With Camera,,None,,1
-Items.Media_01_Set_Vest,Outer Torso,media,Laminated-Armor Media Ballistic Vest,,None,,1
-Items.MQ017_Samerai_Jacket,Outer Torso, -,Semurai Cyrstaljock Bomber,,None,,1
-Items.mq017_SameraiJacket,Outer Torso, -,Fake Samerei Jacket,,None,,1
-Items.Netrunner_01_Set_Jumpsuit,Inner Torso,netrunner,Heat-Resistant Hybridweave Netrunnig Suite,,None,,1
-Items.Netrunner_01_Set_Pants,Legs,netrunner,Dura-Membrane Netrunner Pants,,None,,1
-Items.Netrunner_01_Set_Shoes,Feet,netrunner,Hardened Netrunner Boots With Composite Insert,,None,,1
-Items.Netrunner_01_Set_Visor,Head,netrunner,Antisurge Ice-Protected Netrunner Infovisor,,None,,1
-Items.Nomad_01_Set_Boots,Feet,nomad,Durable Bioleather Nomad Western Boots,,None,,1
-Items.Nomad_01_Set_Jacket,Outer Torso,nomad,Duolayer Microplate-Mesh Nomad Jacket,,None,,1
-Items.Nomad_01_Set_Mask,Head,nomad,Manganese-Laminate Nomad Gas Mask,,None,,1
-Items.Nomad_01_Set_Pants,Legs,nomad,Ultralight Tear-Resistant Nomad Pants,,None,,1
-Items.Nomad_01_Set_TShirt,Inner Torso,nomad,Polycarbonate Nomad Shirt With Reinforced Seams,,None,,1
+Items.Media_01_Set_Cap,Head,media,Media Baseball Cap With Reactive Layer,,Cap,,1
+Items.Media_01_Set_Pants,Legs,media,Anti-Piercing Tactical Media Cargo Pants,,Pants,,1
+Items.Media_01_Set_Shirt,Inner Torso,media,Heat-Resistant Nanoweave Media Shirt,,Shirt,,1
+Items.Media_01_Set_Shoes,Feet,media,Lightweight Hardened Rubber Media Steel-Toes,,Shoes,,1
+Items.Media_01_Set_Tech,Face,media,Armored Media Ocuset With Camera,,Tech,,1
+Items.Media_01_Set_Vest,Outer Torso,media,Laminated-Armor Media Ballistic Vest,,Vest,,1
+Items.MQ017_Samerai_Jacket,Outer Torso, -,Semurai Cyrstaljock Bomber,,Jacket,,1
+Items.mq017_SameraiJacket,Outer Torso, -,Fake Samerei Jacket,,Jacket,,1
+Items.Netrunner_01_Set_Jumpsuit,Inner Torso,netrunner,Heat-Resistant Hybridweave Netrunnig Suite,,Jumpsuit,,1
+Items.Netrunner_01_Set_Pants,Legs,netrunner,Dura-Membrane Netrunner Pants,,Pants,,1
+Items.Netrunner_01_Set_Shoes,Feet,netrunner,Hardened Netrunner Boots With Composite Insert,,Shoes,,1
+Items.Netrunner_01_Set_Visor,Face,netrunner,Antisurge Ice-Protected Netrunner Infovisor,,Visor,,1
+Items.Nomad_01_Set_Boots,Feet,nomad,Durable Bioleather Nomad Western Boots,,Boots,,1
+Items.Nomad_01_Set_Jacket,Outer Torso,nomad,Duolayer Microplate-Mesh Nomad Jacket,,Jacket,,1
+Items.Nomad_01_Set_Mask,Face,nomad,Manganese-Laminate Nomad Gas Mask,,Mask,,1
+Items.Nomad_01_Set_Pants,Legs,nomad,Ultralight Tear-Resistant Nomad Pants,,Pants,,1
+Items.Nomad_01_Set_TShirt,Inner Torso,nomad,Polycarbonate Nomad Shirt With Reinforced Seams,,Tshirt,,1
 Items.Pants_01_basic_01,Legs, -,Comfy Rocker Aramid-Weave Slim-Fits,,Pants,,1
 Items.Pants_01_basic_02,Legs, -,Light Azure Composite-Lined Slim-Fits,,Pants,,1
 Items.Pants_01_basic_03,Legs, -,Sturdy-Stitched Slim-Fits,,Pants,,1
@@ -675,95 +675,95 @@ Items.Pants_15_basic_01,Legs, -,Flexi-Duolayer Harem Pants,,Pants,,1
 Items.Pants_15_basic_02,Legs, -,Sporty Harem Pants With Cotton Armor-Weave,,Pants,,1
 Items.Pants_15_old_01,Legs, -,Elastic Sturdy-Stitched Harem Pants,,Pants,,1
 Items.Pants_15_rich_01,Legs, -,Pink Lagoon Armor-Coated Harem Pants,,Pants,,1
-Items.Proficiency_Boots_11_rich_01_Crafting,Feet, -,Pixel Neige Snow Boots With Canvas Duolayer,,None,,1
-Items.Proficiency_Cap_06_basic_01_Crafting,Head, -,Cotton Motorcycle Cap With Protective Inset,,None,,1
-Items.Proficiency_CasualShoes_07_basic_01_Crafting,Feet, -,Robust Spunky Monkey Kicks,,None,,1
-Items.Proficiency_FormalPants_01_basic_01_Crafting,Legs, -,Sturdy Synfiber Pleated Pants,,None,,1
-Items.Proficiency_FormalShoes_02_basic_02_Crafting,Feet, -,Classic Evening Pumps With Polycarbonate Support,,None,,1
-Items.Proficiency_FormalShoes_02_rich_03_Crafting,Feet, -,Crystal Lily Evening Pumps With Extra-Durable Soles,,None,,1
-Items.Proficiency_FormalSkirt_02_rich_01_Crafting,Legs, -,Heise Trilayer Formal Skirt,,None,,1
-Items.Proficiency_Glasses_05_basic_01_Crafting,Face, -,Synleather Plastic Goggles,,None,,1
-Items.Proficiency_Hat_01_rich_01_Crafting,Head, -,Boss Mafioso Trilby With Armored Lining,,None,,1
-Items.Proficiency_Helmet_04_basic_02_Crafting,Head, -,Steel Microplated Kabuto,,None,,1
-Items.Proficiency_Jacket_06_basic_01_Crafting,Outer Torso, -,Inner Flame Flame-Resistant Rockerjack,,None,,1
-Items.Proficiency_Jumpsuit_02_rich_03_Crafting,Outer Torso, -,Lightning Rider Reinforced Racing Suit,,None,,1
-Items.Proficiency_LooseShirt_02_rich_01_Crafting,Outer Torso, -,Aqua Universe Luxe Aramid-Weave Shirt,,None,,1
-Items.Proficiency_Mask_02_basic_01_Crafting,Face, -,Titanium-Reinforced Gas Mask,,None,,1
-Items.Proficiency_Pants_13_basic_01_Crafting,Legs, -,Venom Dye Duolayer Riding Pants,,None,,1
-Items.Proficiency_Scarf_02_rich_01_Crafting,Head, -,Sandy Boa Shock-Absorbent Headband,,None,,1
-Items.Proficiency_Shirt_02_basic_02_Crafting,Inner Torso, -,Simple Biker Aramid-Weave Turtleneck,,None,,1
-Items.Proficiency_Shorts_02_rich_02_Crafting,Legs, -,Composite Ko Jaga Silk-Threaded Hotpants,,None,,1
-Items.Proficiency_Tech_02_basic_02_Crafting,Face, -,Lightweight Tungsten-Steel Bd Wreath,,None,,1
-Items.Proficiency_TightJumpsuit_01_rich_02_Crafting,Inner Torso, -,Red Alert Anti-Surge Netrunning Suit,,None,,1
-Items.Proficiency_TShirt_03_rich_03_Crafting,Inner Torso, -,Ultralight Tested On Animals Polyamide Tank Top,,None,,1
-Items.Proficiency_Undershirt_03_basic_03_Crafting,Inner Torso, -,Stylish Atomic Blast Composite Bustier,,None,,1
-Items.Proficiency_Vest_18_basic_01_Crafting,Outer Torso, -,Polycarbonate Western Fringe Vest,,None,,1
-Items.Proficiency_Visor_02_rich_01_Crafting,Face, -,Yamori Tungsten-Steel Biker Techgogs,,None,,1
-Items.Q000_Corpo_FormalJacket,Outer Torso,'v''s corpo','V''s Office Blazer',,None,,1
-Items.Q000_Corpo_FormalPants,Legs,'v''s corpo','V''s Office Slacks',,None,,1
-Items.Q000_Corpo_FormalShoes,Feet,'v''s corpo','V''s Office Pumps',,None,,1
-Items.Q000_half_Corpo,Special,'v''s corpo','V''s Informal Outfit',,None,,1
-Items.Q000_half_Nomad,Special,'v''s nomad','V''s Nomad Outfit',,None,,1
-Items.Q000_half_StreetKid,Special,'v''s street','V''s Urban Outfit',,None,,1
-Items.Q000_Nomad_Boots,Feet,'v''s nomad','V''s Nomad Shoes',,None,,1
-Items.Q000_Nomad_noPatch_Vest,Outer Torso,'v''s nomad','V''s Vest (Without Bakkers Patch)',,None,,1
-Items.Q000_Nomad_Pants,Legs,'v''s nomad','V''s Nomad Pants',,None,,1
-Items.Q000_Nomad_TShirt,Inner Torso,'v''s nomad','V''s Tattered Crop Top',,None,,1
-Items.Q000_Nomad_Vest,Outer Torso,'v''s nomad','V''s Vest (With Bakkers Patch)',,None,,1
-Items.Q000_StreetKid_Pants,Legs,'v''s street','V''s Sreetwear Pants',,None,,1
-Items.Q000_StreetKid_Shoes,Feet,'v''s street','V''s Street Tongues',,None,,1
-Items.Q000_StreetKid_TShirt,Inner Torso,'v''s street','V''s Tattered Crop Top',,None,,1
-Items.Q001_Pants,Legs,'v''s outfit','V''s Pants',,None,,1
-Items.Q001_Shoes,Feet,'v''s outfit','V''s Sneakers',,None,,1
-Items.Q001_TShirt,Inner Torso,'v''s outfit','V''s Favorite Top',,None,,1
-Items.Q005_Johnny_Glasses,Face,johnny [quest],'Johnny''s Aviators',,None,Item can’t drop,1
-Items.Q005_Johnny_Glasses_Epic,Face, -,'Johnny''s Aviators',,None,Item can’t drop,1
-Items.Q005_Johnny_Glasses_Legendary,Face,johnny [quest],'Johnny''s Aviators [L]',,None,Item can’t drop,1
-Items.Q005_Johnny_Pants,Legs,johnny [quest],'Johnny''s Pants',,None,,1
-Items.Q005_Johnny_Pants_Epic,Legs, -,'Johnny''s Pants',,None,,1
-Items.Q005_Johnny_Pants_Legendary,Legs,johnny [quest],'Johnny''s Pants [L]',,None,,1
-Items.Q005_Johnny_Shirt,Inner Torso,johnny [quest],'Johnny''s Tank Top',,None,,1
-Items.Q005_Johnny_Shirt_Epic,Inner Torso, -,'Johnny''s Tank Top',,None,,1
-Items.Q005_Johnny_Shirt_Legendary,Inner Torso,johnny [quest],'Johnny''s Tank Top [L]',,None,,1
-Items.Q005_Johnny_Shoes,Feet,johnny [quest],'Johnny''s Shoes',,None,,1
-Items.Q005_Johnny_Shoes_Epic,Feet, -,'Johnny''s Shoes',,None,,1
-Items.Q005_Johnny_Shoes_Legendary,Feet,johnny [quest],'Johnny''s Shoes [L]',,None,,1
-Items.q005_militech_pants,Legs, -,Militech Pants,,None,,1
-Items.q005_militech_shoes,Feet, -,Militech Shoes,,None,,1
-Items.Q005_Militech_Suit,Special,special,Militech Suit,,None,,1
-Items.Q005_Militech_Suit_Dirty,Special,special ,Dirty Militech Suit [Quest],,None,,1
-Items.Q005_Militech_Suit_Filthy,Special,special ,Ruined Militech Suit [Quest],,None,,1
-Items.Q005_Steel_Dragons_Coat,Inner Torso, -,Kotetsu No Ryu Coat,,None,,1
-Items.Q005_Yorinobu_FormalPants,Inner Torso, -,'Yorinobu''s Slacks',,None,,1
-Items.Q005_Yorinobu_FormalShirt,Inner Torso, -,'Yorinobu''s Formal Shirt',,None,,1
-Items.Q101_Recovery_Bandage_Outfit,Special,special,Bandage Wrapping,,None,,1
-Items.Q114_Aldecaldo_Jacket,Outer Torso,nomad,Aldecaldos Rally Bolero Jacket,,None,,1
-Items.Q114_Cyberspace_Jumpsuit,Special,special,Virtual Jumpsuit,,None,,1
-Items.Q115_Afterlife_Netrunner,Special,special,Afterlife Netrunning Suite,,None,,1
-Items.Q115_Custom_Predator_Armor,Outer Torso,rogue,Predator Aramid Armor (Rogue),,None,,1
-Items.Q115_Custom_Predator_Boots,Feet,rogue,Predator Exo Jacks (Rogue),,None,,1
-Items.q115_thrusters,Feet,rogue,Retrothrusters Jet Boots (Rogue) Not Removable,,None,,1
-Items.Q201_SpaceHospitalPants,Legs, -,Hospital Scrub Pants,,None,,1
-Items.Q201_SpaceHospitalShirt,Inner Torso, -,Hospital Shirt,,None,,1
-Items.Q202_Epilogue_Boots,Feet, -,'V''s Muddy Sneakers',,None,,1
-Items.Q202_Epilogue_Pants,Legs, -,'V''s New Leggins',,None,,1
-Items.Q202_Epilogue_TShirt,Inner Torso, -,'V''s Blank Tank Top',,None,,1
-Items.Q203_Epilogue_Boots,Feet,'v''s outfit','V''s Gold Plated Boots',,None,,1
-Items.Q203_Epilogue_Glasses,Face,'v''s outfit','V''s Golden Aviators',,None,,1
-Items.Q203_Epilogue_Pants,Legs,'v''s outfit','V''s Expensive Leggins',,None,,1
-Items.Q203_Epilogue_TShirt,Inner Torso,'v''s outfit','V''s Shirt',,None,,1
-Items.Q203_Spacesuit_Helmet,Head,special,Spacesuit Helmet,,None,,1
-Items.Q203_Spacesuit_Outfit_NoHelmet,Special,special,Spacesuit No Helmet,,None,,1
-Items.Q203_Spacesuit_Outfit_WithHelmet,Special,special,Spacesuit With Helmet,,None,,1
-Items.Q204_Epilogue_Boots,Feet,johnny [quest],'Johnny''s Boots ',,None,,1
-Items.Q204_Epilogue_Pants,Legs,johnny [quest],'Johnny''s Pants ',,None,,1
-Items.Q204_Epilogue_TShirt,Inner Torso,johnny [quest],'Johnny''s Shirt ',,None,,1
-Items.Rockerboy_01_Set_Boots,Feet,rocker,Puncture-Resistant Rocker Platform Boots,,None,,1
-Items.Rockerboy_01_Set_Glasses,Head,rocker,Scratch-Resistant Polaryzed Rocker Aviators,,None,,1
-Items.Rockerboy_01_Set_Jacket,Outer Torso,rocker,Reinforced Composite-Lined Rocker Foldtop,,None,,1
-Items.Rockerboy_01_Set_Pants,Legs,rocker,Elastic Flame-Resistant Rocker Pants,,None,,1
-Items.Rockerboy_01_Set_TShirt,Inner Torso,rocker,Armorweave Rocker Bra,,None,,1
-Items.SamuraiWorldTour_TShirt,Inner Torso, -,Samurai 2020 Tour T-Shirt,,None,,1
+Items.Proficiency_Boots_11_rich_01_Crafting,Feet, -,Pixel Neige Snow Boots With Canvas Duolayer,,Boots,,1
+Items.Proficiency_Cap_06_basic_01_Crafting,Head, -,Cotton Motorcycle Cap With Protective Inset,,Cap,,1
+Items.Proficiency_CasualShoes_07_basic_01_Crafting,Feet, -,Robust Spunky Monkey Kicks,,Casual,,1
+Items.Proficiency_FormalPants_01_basic_01_Crafting,Legs, -,Sturdy Synfiber Pleated Pants,,Formal,,1
+Items.Proficiency_FormalShoes_02_basic_02_Crafting,Feet, -,Classic Evening Pumps With Polycarbonate Support,,Formal,,1
+Items.Proficiency_FormalShoes_02_rich_03_Crafting,Feet, -,Crystal Lily Evening Pumps With Extra-Durable Soles,,Formal,,1
+Items.Proficiency_FormalSkirt_02_rich_01_Crafting,Legs, -,Heise Trilayer Formal Skirt,,Formal,,1
+Items.Proficiency_Glasses_05_basic_01_Crafting,Face, -,Synleather Plastic Goggles,,Glasses,,1
+Items.Proficiency_Hat_01_rich_01_Crafting,Head, -,Boss Mafioso Trilby With Armored Lining,,Hat,,1
+Items.Proficiency_Helmet_04_basic_02_Crafting,Head, -,Steel Microplated Kabuto,,Helmet,,1
+Items.Proficiency_Jacket_06_basic_01_Crafting,Outer Torso, -,Inner Flame Flame-Resistant Rockerjack,,Jacket,,1
+Items.Proficiency_Jumpsuit_02_rich_03_Crafting,Outer Torso, -,Lightning Rider Reinforced Racing Suit,,Jumpsuit,,1
+Items.Proficiency_LooseShirt_02_rich_01_Crafting,Outer Torso, -,Aqua Universe Luxe Aramid-Weave Shirt,,LooseShirt,,1
+Items.Proficiency_Mask_02_basic_01_Crafting,Face, -,Titanium-Reinforced Gas Mask,,Mask,,1
+Items.Proficiency_Pants_13_basic_01_Crafting,Legs, -,Venom Dye Duolayer Riding Pants,,Pants,,1
+Items.Proficiency_Scarf_02_rich_01_Crafting,Head, -,Sandy Boa Shock-Absorbent Headband,,Scaft,,1
+Items.Proficiency_Shirt_02_basic_02_Crafting,Inner Torso, -,Simple Biker Aramid-Weave Turtleneck,,Shirt,,1
+Items.Proficiency_Shorts_02_rich_02_Crafting,Legs, -,Composite Ko Jaga Silk-Threaded Hotpants,,Shorts,,1
+Items.Proficiency_Tech_02_basic_02_Crafting,Face, -,Lightweight Tungsten-Steel Bd Wreath,,Tech,,1
+Items.Proficiency_TightJumpsuit_01_rich_02_Crafting,Inner Torso, -,Red Alert Anti-Surge Netrunning Suit,,Jumpsuit,,1
+Items.Proficiency_TShirt_03_rich_03_Crafting,Inner Torso, -,Ultralight Tested On Animals Polyamide Tank Top,,Tshirt,,1
+Items.Proficiency_Undershirt_03_basic_03_Crafting,Inner Torso, -,Stylish Atomic Blast Composite Bustier,,Undershirt,,1
+Items.Proficiency_Vest_18_basic_01_Crafting,Outer Torso, -,Polycarbonate Western Fringe Vest,,Vest,,1
+Items.Proficiency_Visor_02_rich_01_Crafting,Face, -,Yamori Tungsten-Steel Biker Techgogs,,Visor,,1
+Items.Q000_Corpo_FormalJacket,Outer Torso,'v''s corpo','V''s Office Blazer',,Jacket,,1
+Items.Q000_Corpo_FormalPants,Legs,'v''s corpo','V''s Office Slacks',,Pants,,1
+Items.Q000_Corpo_FormalShoes,Feet,'v''s corpo','V''s Office Pumps',,Shoes,,1
+Items.Q000_half_Corpo,Special,'v''s corpo','V''s Informal Outfit',,Special,,1
+Items.Q000_half_Nomad,Special,'v''s nomad','V''s Nomad Outfit',,Special,,1
+Items.Q000_half_StreetKid,Special,'v''s street','V''s Urban Outfit',,Special,,1
+Items.Q000_Nomad_Boots,Feet,'v''s nomad','V''s Nomad Shoes',,Boots,,1
+Items.Q000_Nomad_noPatch_Vest,Outer Torso,'v''s nomad','V''s Vest (Without Bakkers Patch)',,Vest,,1
+Items.Q000_Nomad_Pants,Legs,'v''s nomad','V''s Nomad Pants',,Pants,,1
+Items.Q000_Nomad_TShirt,Inner Torso,'v''s nomad','V''s Tattered Crop Top',,Tshirt,,1
+Items.Q000_Nomad_Vest,Outer Torso,'v''s nomad','V''s Vest (With Bakkers Patch)',,Vest,,1
+Items.Q000_StreetKid_Pants,Legs,'v''s street','V''s Sreetwear Pants',,Pants,,1
+Items.Q000_StreetKid_Shoes,Feet,'v''s street','V''s Street Tongues',,Shoes,,1
+Items.Q000_StreetKid_TShirt,Inner Torso,'v''s street','V''s Tattered Crop Top',,Tshirt,,1
+Items.Q001_Pants,Legs,'v''s outfit','V''s Pants',,Pants,,1
+Items.Q001_Shoes,Feet,'v''s outfit','V''s Sneakers',,Shoes,,1
+Items.Q001_TShirt,Inner Torso,'v''s outfit','V''s Favorite Top',,Tshirt,,1
+Items.Q005_Johnny_Glasses,Face,johnny [quest],'Johnny''s Aviators',,Glasses,Item can’t drop,1
+Items.Q005_Johnny_Glasses_Epic,Face, -,'Johnny''s Aviators',,Glasses,Item can’t drop,1
+Items.Q005_Johnny_Glasses_Legendary,Face,johnny [quest],'Johnny''s Aviators [L]',,Glasses,Item can’t drop,1
+Items.Q005_Johnny_Pants,Legs,johnny [quest],'Johnny''s Pants',,Pants,,1
+Items.Q005_Johnny_Pants_Epic,Legs, -,'Johnny''s Pants',,Pants,,1
+Items.Q005_Johnny_Pants_Legendary,Legs,johnny [quest],'Johnny''s Pants [L]',,Pants,,1
+Items.Q005_Johnny_Shirt,Inner Torso,johnny [quest],'Johnny''s Tank Top',,Shirt,,1
+Items.Q005_Johnny_Shirt_Epic,Inner Torso, -,'Johnny''s Tank Top',,Shirt,,1
+Items.Q005_Johnny_Shirt_Legendary,Inner Torso,johnny [quest],'Johnny''s Tank Top [L]',,Shirt,,1
+Items.Q005_Johnny_Shoes,Feet,johnny [quest],'Johnny''s Shoes',,Shoes,,1
+Items.Q005_Johnny_Shoes_Epic,Feet, -,'Johnny''s Shoes',,Shoes,,1
+Items.Q005_Johnny_Shoes_Legendary,Feet,johnny [quest],'Johnny''s Shoes [L]',,Shoes,,1
+Items.q005_militech_pants,Legs, -,Militech Pants,,Pants,Not show / nudity,0
+Items.q005_militech_shoes,Feet, -,Militech Shoes,,Shoes,,1
+Items.Q005_Militech_Suit,Special,special,Militech Suit,,Special,,1
+Items.Q005_Militech_Suit_Dirty,Special,special ,Dirty Militech Suit [Quest],,Special,,1
+Items.Q005_Militech_Suit_Filthy,Special,special ,Ruined Militech Suit [Quest],,Special,,1
+Items.Q005_Steel_Dragons_Coat,Outer Torso, -,Kotetsu No Ryu Coat,,Coat,,1
+Items.Q005_Yorinobu_FormalPants,Inner Torso, -,'Yorinobu''s Slacks',,Formal,,1
+Items.Q005_Yorinobu_FormalShirt,Inner Torso, -,'Yorinobu''s Formal Shirt',,Formal,,1
+Items.Q101_Recovery_Bandage_Outfit,Special,special,Bandage Wrapping,,Special,,1
+Items.Q114_Aldecaldo_Jacket,Outer Torso,nomad,Aldecaldos Rally Bolero Jacket,,Jacket,,1
+Items.Q114_Cyberspace_Jumpsuit,Special,special,Virtual Jumpsuit,,Special,,1
+Items.Q115_Afterlife_Netrunner,Special,special,Afterlife Netrunning Suite,,Special,,1
+Items.Q115_Custom_Predator_Armor,Outer Torso,rogue,Predator Aramid Armor (Rogue),,Jacket,,1
+Items.Q115_Custom_Predator_Boots,Feet,rogue,Predator Exo Jacks (Rogue),,Boots,,1
+Items.q115_thrusters,Feet,rogue,Retrothrusters Jet Boots (Rogue) Not Removable,,Boots,Not Removable,1
+Items.Q201_SpaceHospitalPants,Legs, -,Hospital Scrub Pants,,Pants,,1
+Items.Q201_SpaceHospitalShirt,Inner Torso, -,Hospital Shirt,,Shirt,,1
+Items.Q202_Epilogue_Boots,Feet, -,'V''s Muddy Sneakers',,Boots,,1
+Items.Q202_Epilogue_Pants,Legs, -,'V''s New Leggins',,Pants,,1
+Items.Q202_Epilogue_TShirt,Inner Torso, -,'V''s Blank Tank Top',,Tshirt,,1
+Items.Q203_Epilogue_Boots,Feet,'v''s outfit','V''s Gold Plated Boots',,Boots,,1
+Items.Q203_Epilogue_Glasses,Face,'v''s outfit','V''s Golden Aviators',,Glasses,,1
+Items.Q203_Epilogue_Pants,Legs,'v''s outfit','V''s Expensive Leggins',,Pants,,1
+Items.Q203_Epilogue_TShirt,Inner Torso,'v''s outfit','V''s Shirt',,Tshirt,,1
+Items.Q203_Spacesuit_Helmet,Head,special,Spacesuit Helmet,,Helmet,,1
+Items.Q203_Spacesuit_Outfit_NoHelmet,Special,special,Spacesuit No Helmet,,Special,,1
+Items.Q203_Spacesuit_Outfit_WithHelmet,Special,special,Spacesuit With Helmet,,Special,,1
+Items.Q204_Epilogue_Boots,Feet,johnny [quest],'Johnny''s Boots ',,Boots,,1
+Items.Q204_Epilogue_Pants,Legs,johnny [quest],'Johnny''s Pants ',,Pants,,1
+Items.Q204_Epilogue_TShirt,Inner Torso,johnny [quest],'Johnny''s Shirt ',,Tshirt,,1
+Items.Rockerboy_01_Set_Boots,Feet,rocker,Puncture-Resistant Rocker Platform Boots,,Boots,,1
+Items.Rockerboy_01_Set_Glasses,Face,rocker,Scratch-Resistant Polaryzed Rocker Aviators,,Glasses,,1
+Items.Rockerboy_01_Set_Jacket,Outer Torso,rocker,Reinforced Composite-Lined Rocker Foldtop,,Jacket,,1
+Items.Rockerboy_01_Set_Pants,Legs,rocker,Elastic Flame-Resistant Rocker Pants,,Shorts,,1
+Items.Rockerboy_01_Set_TShirt,Inner Torso,rocker,Armorweave Rocker Bra,,Tshirt,,1
+Items.SamuraiWorldTour_TShirt,Inner Torso, -,Samurai 2020 Tour T-Shirt,,Tshirt,,1
 Items.Scarf_01_basic_01,Head, -,Composite Military Bandana,,Scaft,,1
 Items.Scarf_01_basic_02,Head, -,Makeshift Rabenda Banana Bandana,,Scaft,,1
 Items.Scarf_01_basic_03,Head, -,Strong Canine Power Synthetic Bandana,,Scaft,,1
@@ -837,52 +837,52 @@ Items.Shorts_05_old_02,Legs, -,Syn-Threaded Shorts,,Shorts,,1
 Items.Shorts_05_old_03,Legs, -,Light Electro Extra-Lined Shorts,,Shorts,,1
 Items.Shorts_05_old_04,Legs, -,Grauer Recycled Shorts,,Shorts,,1
 Items.Shorts_05_old_05,Legs, -,Comfy Nomad Shorts,,Shorts,,1
-Items.Solo_01_Set_Boots,Feet,solo,Gold-Tipped Manganese Steel Solo Boots,,None,,1
-Items.Solo_01_Set_Jacket,Outer Torso,solo,Heavy Shock-Absorbent Solo Jacket,,None,,1
-Items.Solo_01_Set_Pants,Legs,solo,Armor-Plated Synleather Solo Pants,,None,,1
-Items.Solo_01_Set_TShirt,Inner Torso,solo,Ultrathin Composite-Print Solo Shirt,,None,,1
-Items.Solo_01_Set_Visor,Head,solo,Titanium Solo Techgogs With Tactical Software,,None,,1
-Items.SQ004_RaffenShiv_Mask,Face, -,Wraiths Gas Mask,,None,,1
-Items.SQ021_Lab_Costume,Special,special,Kang Tao Lab Suit,,None,,1
-Items.SQ021_Wraiths_Vest,Outer Torso, -,Bad Motherfucker Vest,,None,,1
-Items.SQ023_Joshua_Prisonwear,Special,special,'Joshua''s Prison Uniform',,None,,1
-Items.SQ023_Switchblade_Pants,Legs, -,4th Wall Acting Pants,,None,,1
-Items.SQ023_Switchblade_Shirt,Inner Torso, -,4th Wall Acting Shirt,,None,,1
-Items.SQ029_Police_Suit,Special,special,Police Uniform,,None,,1
-Items.SQ029_River_Romance_Shirt,Head, -,'River''s Tank Top',,None,,1
-Items.SQ030_Diving_Suit,Special,special,Neoprene Diving Suit With Flippers (From Judy) Not Removable,,None,,1
-Items.sq030_diving_suit_female,Special, -,'Women''s Diving Suit - Broken',,None,Broken,0
-Items.sq030_diving_suit_male,Special, -,'Men''s Diving Suit - Broken',,None,Broken,0
-Items.SQ030_Diving_Suit_NoShoes,Special,special,Neoprene Diving Suit (From Judy) Not Removable,,None,item un-removable,1
-Items.SQ030_MaxTac_Chest,Outer Torso,maxtac,Neoprene Diving Suit (From Judy) Maxtac Multilayered Armor-Weave Jacket,,None,item un-removable,1
-Items.SQ030_MaxTac_Helmet,Head,maxtac,Maxtac Tactical Helmet With Multifunction Infovisor,,None,,1
-Items.SQ030_MaxTac_Pants,Legs,maxtac,Heavy-Duty Maxtac Cargo Pants,,None,,1
-Items.SQ031_Samurai_Jacket,Outer Torso,johnny [quest],'Replica Of Johnny''s Samurai Jacket',,None,,1
-Items.SQ031_Samurai_Jacket_Epic,Outer Torso,johnny [quest],'Replica Of Johnny''s Samurai Jacket',,None,,1
-Items.SQ031_Samurai_Jacket_Legendary,Outer Torso,johnny [quest],'Replica Of Johnny''s Samurai Jacket [L]',,None,,1
-Items.sq032_dogtags,Outer Torso,johnny [quest],'Johnny''s Dog Tags',,None,,1
-Items.Tech_01_basic_01,Face, -,Trilayer Steel Ocuset,,None,,1
-Items.Tech_01_basic_02,Face, -,Composite Ocuset,,None,,1
-Items.Tech_01_old_01,Face, -,Old Ocuset,,None,,1
-Items.Tech_01_rich_01,Face, -,Kang Tao Manganese Combat Ocuset,,None,,1
-Items.Tech_01_rich_02,Face, -,Ncpd Titanium Ice-Protected Ocuset,,None,,1
-Items.Tech_02_basic_01,Face, -,Aoi Tora Enhanced Bd Wreath,,None,,1
-Items.Tech_02_basic_02,Face, -,Lightweight Tungsten-Steel Bd Wreath,,None,,1
-Items.Tech_02_old_01,Face, -,Dated Bd Wreath,,None,,1
-Items.Tech_02_rich_01,Face, -,Sweet Dreams Armored-Laminated Bd Wreath,,None,,1
-Items.Tech_02_rich_02,Face, -,Kogane No Yume Titanium Bd Wreath,,None,,1
-Items.Techie_01_Set_Cap,Head,techie,Cushioned Techie Baseball Cap,,None,,1
-Items.Techie_01_Set_Pants,Legs,techie,Reinforced Duolayer Techie Cargo Pants,,None,,1
-Items.Techie_01_Set_Shoes,Feet,techie,Cushioned Aramid-Sole Techie Shoes,,None,,1
-Items.Techie_01_Set_Tech,Face,techie,Laminated Ice-Protected Techie Ocuset,,None,,1
-Items.Techie_01_Set_TShirt,Inner Torso,techie,Thermoactive Tear-Resistant Techie Shirt,,None,,1
-Items.Techie_01_Set_Vest,Outer Torso,techie,Polycarbonate Nanoweave Techie Harness,,None,,1
-Items.TightJumpsuit_01_basic_01,Inner Torso, -,Military-Grade Aramid Netrunning Suit,,None,,1
-Items.TightJumpsuit_01_basic_02,Inner Torso, -,Light Elastomer Netrunning Suit,,None,,1
-Items.TightJumpsuit_01_old_01,Inner Torso, -,Worn Netrunning Suit,,None,,1
-Items.TightJumpsuit_01_old_02,Inner Torso, -,Old Netrunning Suit,,None,,1
-Items.TightJumpsuit_01_rich_01,Inner Torso, -,Composite Arasaka Netrunning Nanoweave Suit,,None,,1
-Items.TightJumpsuit_01_rich_02,Inner Torso, -,Red Alert Anti-Surge Netrunning Suit,,None,,1
+Items.Solo_01_Set_Boots,Feet,solo,Gold-Tipped Manganese Steel Solo Boots,,Boots,,1
+Items.Solo_01_Set_Jacket,Outer Torso,solo,Heavy Shock-Absorbent Solo Jacket,,Jacket,,1
+Items.Solo_01_Set_Pants,Legs,solo,Armor-Plated Synleather Solo Pants,,Pants,,1
+Items.Solo_01_Set_TShirt,Inner Torso,solo,Ultrathin Composite-Print Solo Shirt,,Tshirt,,1
+Items.Solo_01_Set_Visor,Face,solo,Titanium Solo Techgogs With Tactical Software,,Visor,,1
+Items.SQ004_RaffenShiv_Mask,Face, -,Wraiths Gas Mask,,Mask,,1
+Items.SQ021_Lab_Costume,Special,special,Kang Tao Lab Suit,,Special,,1
+Items.SQ021_Wraiths_Vest,Outer Torso, -,Bad Motherfucker Vest,,Vest,,1
+Items.SQ023_Joshua_Prisonwear,Special,special,'Joshua''s Prison Uniform',,Special,,1
+Items.SQ023_Switchblade_Pants,Legs, -,4th Wall Acting Pants,,Pants,,0
+Items.SQ023_Switchblade_Shirt,Inner Torso, -,4th Wall Acting Shirt,,Shirt,,1
+Items.SQ029_Police_Suit,Special,special,Police Uniform,,Special,,1
+Items.SQ029_River_Romance_Shirt,Inner Torso, -,'River''s Tank Top',,Shirt,,1
+Items.SQ030_Diving_Suit,Special,special,Neoprene Diving Suit With Flippers (From Judy) Not Removable,,Special,,1
+Items.sq030_diving_suit_female,Special, -,'Women''s Diving Suit - Broken',,Special,Broken,0
+Items.sq030_diving_suit_male,Special, -,'Men''s Diving Suit - Broken',,Special,Broken,0
+Items.SQ030_Diving_Suit_NoShoes,Special,special,Neoprene Diving Suit (From Judy) Not Removable,,Special,Item un-removable,1
+Items.SQ030_MaxTac_Chest,Outer Torso,maxtac,Maxtac Multilayered Armor-Weave Jacket,,Special,,1
+Items.SQ030_MaxTac_Helmet,Head,maxtac,Maxtac Tactical Helmet With Multifunction Infovisor,,Helmet,,1
+Items.SQ030_MaxTac_Pants,Legs,maxtac,Heavy-Duty Maxtac Cargo Pants,,Pants,,1
+Items.SQ031_Samurai_Jacket,Outer Torso,johnny [quest],'Replica Of Johnny''s Samurai Jacket',,Jacket,,1
+Items.SQ031_Samurai_Jacket_Epic,Outer Torso,johnny [quest],'Replica Of Johnny''s Samurai Jacket',,Jacket,,1
+Items.SQ031_Samurai_Jacket_Legendary,Outer Torso,johnny [quest],'Replica Of Johnny''s Samurai Jacket [L]',,Jacket,,1
+Items.sq032_dogtags,Outer Torso,johnny [quest],'Johnny''s Dog Tags',,Jacket,,0
+Items.Tech_01_basic_01,Face, -,Trilayer Steel Ocuset,,Tech,,1
+Items.Tech_01_basic_02,Face, -,Composite Ocuset,,Tech,,1
+Items.Tech_01_old_01,Face, -,Old Ocuset,,Tech,,1
+Items.Tech_01_rich_01,Face, -,Kang Tao Manganese Combat Ocuset,,Tech,,1
+Items.Tech_01_rich_02,Face, -,Ncpd Titanium Ice-Protected Ocuset,,Tech,,1
+Items.Tech_02_basic_01,Face, -,Aoi Tora Enhanced Bd Wreath,,Tech,,1
+Items.Tech_02_basic_02,Face, -,Lightweight Tungsten-Steel Bd Wreath,,Tech,,1
+Items.Tech_02_old_01,Face, -,Dated Bd Wreath,,Tech,,1
+Items.Tech_02_rich_01,Face, -,Sweet Dreams Armored-Laminated Bd Wreath,,Tech,,1
+Items.Tech_02_rich_02,Face, -,Kogane No Yume Titanium Bd Wreath,,Tech,,1
+Items.Techie_01_Set_Cap,Head,techie,Cushioned Techie Baseball Cap,,Cap,,1
+Items.Techie_01_Set_Pants,Legs,techie,Reinforced Duolayer Techie Cargo Pants,,Pants,,1
+Items.Techie_01_Set_Shoes,Feet,techie,Cushioned Aramid-Sole Techie Shoes,,Shoes,,1
+Items.Techie_01_Set_Tech,Face,techie,Laminated Ice-Protected Techie Ocuset,,Tech,,1
+Items.Techie_01_Set_TShirt,Inner Torso,techie,Thermoactive Tear-Resistant Techie Shirt,,Tshirt,,1
+Items.Techie_01_Set_Vest,Outer Torso,techie,Polycarbonate Nanoweave Techie Harness,,Vest,,1
+Items.TightJumpsuit_01_basic_01,Inner Torso, -,Military-Grade Aramid Netrunning Suit,,Jumpsuit,,1
+Items.TightJumpsuit_01_basic_02,Inner Torso, -,Light Elastomer Netrunning Suit,,Jumpsuit,,1
+Items.TightJumpsuit_01_old_01,Inner Torso, -,Worn Netrunning Suit,,Jumpsuit,,1
+Items.TightJumpsuit_01_old_02,Inner Torso, -,Old Netrunning Suit,,Jumpsuit,,1
+Items.TightJumpsuit_01_rich_01,Inner Torso, -,Composite Arasaka Netrunning Nanoweave Suit,,Jumpsuit,,1
+Items.TightJumpsuit_01_rich_02,Inner Torso, -,Red Alert Anti-Surge Netrunning Suit,,Jumpsuit,,1
 Items.TShirt_01_basic_01,Inner Torso, -,Basic Tank Top,,Tshirt,,1
 Items.TShirt_01_basic_02,Inner Torso, -,Melting Hottie Tank Top,,Tshirt,,1
 Items.TShirt_01_basic_03,Inner Torso, -,Purple Dragon Aramid-Weave Tank Top,,Tshirt,,1
