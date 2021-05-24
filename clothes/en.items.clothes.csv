@@ -201,7 +201,7 @@ Items.Fixer_01_Set_Coat,Outer Torso,fixer,Trilayer Aramid-Weave Fixer Skirt With
 Items.Fixer_01_Set_FormalShoes,Feet,fixer,Elastiweave Fixer Pumps With Reinforced Seams,,Formal,,1
 Items.Fixer_01_Set_Glasses,Face,fixer,Plycarbonate Opti-Enhanced Fixer Glasses,,Glasses,,1
 Items.Fixer_01_Set_Pants,Legs,fixer,Protective-Layer Fixer Skirt,,Pants,,1
-Items.Fixer_01_Set_TShirt,Inner Torso,fixer,Heat-Resistant Aramid-Weave Fixer Bustier,,Tshirt,,1
+Items.Fixer_01_Set_TShirt,Inner Torso,fixer,Heat-Resistant Aramid-Weave Fixer Bustier,,Underwear,,1
 Items.FormalJacket_01_basic_01,Outer Torso, -,Polyamide-Blend Suit Jacket,,Formal,,1
 Items.FormalJacket_01_basic_02,Outer Torso, -,Wool Suit Jacket With Reinforced Synfiber-Weave,,Formal,,1
 Items.FormalJacket_01_old_01,Outer Torso, -,Sturdy Synfabric Suit Jacket,,Formal,,1
@@ -327,12 +327,12 @@ Items.Glasses_05_old_02,Face, -,Hardened Plastic Goggles,,Glasses,,1
 Items.GOG_DLC_Jacket,Outer Torso,gog,Wolf School Jacket,,Jacket,,1
 Items.GOG_DLC_Jacket_Epic,Outer Torso,gog,Wolf School Jacket,,Jacket,,1
 Items.GOG_DLC_Jacket_Legendary,Outer Torso,gog,Wolf School Jacket,,Jacket,,1
-Items.GOG_DLC_TShirt,Inner Torso,gog,Wolf School T-Shirt,,Tshirt,,1
-Items.GOG_DLC_TShirt_Epic,Inner Torso,gog,Wolf School T-Shirt,,Tshirt,,1
-Items.GOG_DLC_TShirt_Legendary,Inner Torso,gog,Wolf School T-Shirt,,Tshirt,,1
-Items.GOG_Galaxy_TShirt,Inner Torso,gog,Galaxy T-Shirt,,Tshirt,,1
-Items.GOG_Galaxy_TShirt_Epic,Inner Torso,gog,Galaxy T-Shirt,,Tshirt,,1
-Items.GOG_Galaxy_TShirt_Legendary,Inner Torso,gog,Galaxy T-Shirt,,Tshirt,,1
+Items.GOG_DLC_TShirt,Inner Torso,gog,Wolf School T-Shirt,,Special,,1
+Items.GOG_DLC_TShirt_Epic,Inner Torso,gog,Wolf School T-Shirt,,Special,,1
+Items.GOG_DLC_TShirt_Legendary,Inner Torso,gog,Wolf School T-Shirt,,Special,,1
+Items.GOG_Galaxy_TShirt,Inner Torso,gog,Galaxy T-Shirt,,Special,,1
+Items.GOG_Galaxy_TShirt_Epic,Inner Torso,gog,Galaxy T-Shirt,,Special,,1
+Items.GOG_Galaxy_TShirt_Legendary,Inner Torso,gog,Galaxy T-Shirt,,Special,,1
 Items.Hat_01_basic_01,Head, -,Classic Trilby With Composite Band,,Hat,,1
 Items.Hat_01_basic_02,Head, -,Solid Straw-Woven Trilby,,Hat,,1
 Items.Hat_01_old_01,Head, -,Durable Felt-Blend Trilby,,Hat,,1
@@ -543,7 +543,7 @@ Items.Mask_03_rich_01,Face, -,Jigoku No Oni Reinforced-Composite Menpo,,Mask,,1
 Items.Mask_03_rich_02,Face, -,Akai Oni Titanium Boostknit Menpo,,Mask,,1
 Items.Media_01_Set_Cap,Head,media,Media Baseball Cap With Reactive Layer,,Cap,,1
 Items.Media_01_Set_Pants,Legs,media,Anti-Piercing Tactical Media Cargo Pants,,Pants,,1
-Items.Media_01_Set_Shirt,Inner Torso,media,Heat-Resistant Nanoweave Media Shirt,,Shirt,,1
+Items.Media_01_Set_Shirt,Inner Torso,media,Heat-Resistant Nanoweave Media Shirt,,LongSleeve,,1
 Items.Media_01_Set_Shoes,Feet,media,Lightweight Hardened Rubber Media Steel-Toes,,Shoes,,1
 Items.Media_01_Set_Tech,Face,media,Armored Media Ocuset With Camera,,Tech,,1
 Items.Media_01_Set_Vest,Outer Torso,media,Laminated-Armor Media Ballistic Vest,,Vest,,1
@@ -557,7 +557,7 @@ Items.Nomad_01_Set_Boots,Feet,nomad,Durable Bioleather Nomad Western Boots,,Boot
 Items.Nomad_01_Set_Jacket,Outer Torso,nomad,Duolayer Microplate-Mesh Nomad Jacket,,Jacket,,1
 Items.Nomad_01_Set_Mask,Face,nomad,Manganese-Laminate Nomad Gas Mask,,Mask,,1
 Items.Nomad_01_Set_Pants,Legs,nomad,Ultralight Tear-Resistant Nomad Pants,,Pants,,1
-Items.Nomad_01_Set_TShirt,Inner Torso,nomad,Polycarbonate Nomad Shirt With Reinforced Seams,,Tshirt,,1
+Items.Nomad_01_Set_TShirt,Inner Torso,nomad,Polycarbonate Nomad Shirt With Reinforced Seams,,TankTop,,1
 Items.Pants_01_basic_01,Legs, -,Comfy Rocker Aramid-Weave Slim-Fits,,Pants,,1
 Items.Pants_01_basic_02,Legs, -,Light Azure Composite-Lined Slim-Fits,,Pants,,1
 Items.Pants_01_basic_03,Legs, -,Sturdy-Stitched Slim-Fits,,Pants,,1
@@ -691,12 +691,12 @@ Items.Proficiency_LooseShirt_02_rich_01_Crafting,Outer Torso, -,Aqua Universe Lu
 Items.Proficiency_Mask_02_basic_01_Crafting,Face, -,Titanium-Reinforced Gas Mask,,Mask,,1
 Items.Proficiency_Pants_13_basic_01_Crafting,Legs, -,Venom Dye Duolayer Riding Pants,,Pants,,1
 Items.Proficiency_Scarf_02_rich_01_Crafting,Head, -,Sandy Boa Shock-Absorbent Headband,,Scaft,,1
-Items.Proficiency_Shirt_02_basic_02_Crafting,Inner Torso, -,Simple Biker Aramid-Weave Turtleneck,,Shirt,,1
+Items.Proficiency_Shirt_02_basic_02_Crafting,Inner Torso, -,Simple Biker Aramid-Weave Turtleneck,,LongSleeve,,1
 Items.Proficiency_Shorts_02_rich_02_Crafting,Legs, -,Composite Ko Jaga Silk-Threaded Hotpants,,Shorts,,1
 Items.Proficiency_Tech_02_basic_02_Crafting,Face, -,Lightweight Tungsten-Steel Bd Wreath,,Tech,,1
 Items.Proficiency_TightJumpsuit_01_rich_02_Crafting,Inner Torso, -,Red Alert Anti-Surge Netrunning Suit,,Jumpsuit,,1
-Items.Proficiency_TShirt_03_rich_03_Crafting,Inner Torso, -,Ultralight Tested On Animals Polyamide Tank Top,,Tshirt,,1
-Items.Proficiency_Undershirt_03_basic_03_Crafting,Inner Torso, -,Stylish Atomic Blast Composite Bustier,,Undershirt,,1
+Items.Proficiency_TShirt_03_rich_03_Crafting,Inner Torso, -,Ultralight Tested On Animals Polyamide Tank Top,,TankTop,,1
+Items.Proficiency_Undershirt_03_basic_03_Crafting,Inner Torso, -,Stylish Atomic Blast Composite Bustier,,Underwear,,1
 Items.Proficiency_Vest_18_basic_01_Crafting,Outer Torso, -,Polycarbonate Western Fringe Vest,,Vest,,1
 Items.Proficiency_Visor_02_rich_01_Crafting,Face, -,Yamori Tungsten-Steel Biker Techgogs,,Visor,,1
 Items.Q000_Corpo_FormalJacket,Outer Torso,'v''s corpo','V''s Office Blazer',,Jacket,,1
@@ -712,19 +712,19 @@ Items.Q000_Nomad_TShirt,Inner Torso,'v''s nomad','V''s Tattered Crop Top',,Tshir
 Items.Q000_Nomad_Vest,Outer Torso,'v''s nomad','V''s Vest (With Bakkers Patch)',,Vest,,1
 Items.Q000_StreetKid_Pants,Legs,'v''s street','V''s Sreetwear Pants',,Pants,,1
 Items.Q000_StreetKid_Shoes,Feet,'v''s street','V''s Street Tongues',,Shoes,,1
-Items.Q000_StreetKid_TShirt,Inner Torso,'v''s street','V''s Tattered Crop Top',,Tshirt,,1
+Items.Q000_StreetKid_TShirt,Inner Torso,'v''s street','V''s Tattered Crop Top',,TankTop,,1
 Items.Q001_Pants,Legs,'v''s outfit','V''s Pants',,Pants,,1
 Items.Q001_Shoes,Feet,'v''s outfit','V''s Sneakers',,Shoes,,1
-Items.Q001_TShirt,Inner Torso,'v''s outfit','V''s Favorite Top',,Tshirt,,1
+Items.Q001_TShirt,Inner Torso,'v''s outfit','V''s Favorite Top',,TankTop,,1
 Items.Q005_Johnny_Glasses,Face,johnny [quest],'Johnny''s Aviators',,Glasses,Item can’t drop,1
 Items.Q005_Johnny_Glasses_Epic,Face, -,'Johnny''s Aviators',,Glasses,Item can’t drop,1
 Items.Q005_Johnny_Glasses_Legendary,Face,johnny [quest],'Johnny''s Aviators [L]',,Glasses,Item can’t drop,1
 Items.Q005_Johnny_Pants,Legs,johnny [quest],'Johnny''s Pants',,Pants,,1
 Items.Q005_Johnny_Pants_Epic,Legs, -,'Johnny''s Pants',,Pants,,1
 Items.Q005_Johnny_Pants_Legendary,Legs,johnny [quest],'Johnny''s Pants [L]',,Pants,,1
-Items.Q005_Johnny_Shirt,Inner Torso,johnny [quest],'Johnny''s Tank Top',,Shirt,,1
-Items.Q005_Johnny_Shirt_Epic,Inner Torso, -,'Johnny''s Tank Top',,Shirt,,1
-Items.Q005_Johnny_Shirt_Legendary,Inner Torso,johnny [quest],'Johnny''s Tank Top [L]',,Shirt,,1
+Items.Q005_Johnny_Shirt,Inner Torso,johnny [quest],'Johnny''s Tank Top',,Special,Item can’t drop,1
+Items.Q005_Johnny_Shirt_Epic,Inner Torso, -,'Johnny''s Tank Top',,Special,Item can’t drop,1
+Items.Q005_Johnny_Shirt_Legendary,Inner Torso,johnny [quest],'Johnny''s Tank Top [L]',,Special,Item can’t drop,1
 Items.Q005_Johnny_Shoes,Feet,johnny [quest],'Johnny''s Shoes',,Shoes,,1
 Items.Q005_Johnny_Shoes_Epic,Feet, -,'Johnny''s Shoes',,Shoes,,1
 Items.Q005_Johnny_Shoes_Legendary,Feet,johnny [quest],'Johnny''s Shoes [L]',,Shoes,,1
@@ -734,7 +734,7 @@ Items.Q005_Militech_Suit,Special,special,Militech Suit,,Special,,1
 Items.Q005_Militech_Suit_Dirty,Special,special ,Dirty Militech Suit [Quest],,Special,,1
 Items.Q005_Militech_Suit_Filthy,Special,special ,Ruined Militech Suit [Quest],,Special,,1
 Items.Q005_Steel_Dragons_Coat,Outer Torso, -,Kotetsu No Ryu Coat,,Coat,,1
-Items.Q005_Yorinobu_FormalPants,Inner Torso, -,'Yorinobu''s Slacks',,Formal,,1
+Items.Q005_Yorinobu_FormalPants,Legs, -,'Yorinobu''s Slacks',,Formal,,1
 Items.Q005_Yorinobu_FormalShirt,Inner Torso, -,'Yorinobu''s Formal Shirt',,Formal,,1
 Items.Q101_Recovery_Bandage_Outfit,Special,special,Bandage Wrapping,,Special,,1
 Items.Q114_Aldecaldo_Jacket,Outer Torso,nomad,Aldecaldos Rally Bolero Jacket,,Jacket,,1
@@ -744,25 +744,25 @@ Items.Q115_Custom_Predator_Armor,Outer Torso,rogue,Predator Aramid Armor (Rogue)
 Items.Q115_Custom_Predator_Boots,Feet,rogue,Predator Exo Jacks (Rogue),,Boots,,1
 Items.q115_thrusters,Feet,rogue,Retrothrusters Jet Boots (Rogue) Not Removable,,Boots,Not Removable,1
 Items.Q201_SpaceHospitalPants,Legs, -,Hospital Scrub Pants,,Pants,,1
-Items.Q201_SpaceHospitalShirt,Inner Torso, -,Hospital Shirt,,Shirt,,1
+Items.Q201_SpaceHospitalShirt,Inner Torso, -,Hospital Shirt,,LongSleeve,,1
 Items.Q202_Epilogue_Boots,Feet, -,'V''s Muddy Sneakers',,Boots,,1
 Items.Q202_Epilogue_Pants,Legs, -,'V''s New Leggins',,Pants,,1
-Items.Q202_Epilogue_TShirt,Inner Torso, -,'V''s Blank Tank Top',,Tshirt,,1
+Items.Q202_Epilogue_TShirt,Inner Torso, -,'V''s Blank Tank Top',,TankTop,,1
 Items.Q203_Epilogue_Boots,Feet,'v''s outfit','V''s Gold Plated Boots',,Boots,,1
 Items.Q203_Epilogue_Glasses,Face,'v''s outfit','V''s Golden Aviators',,Glasses,,1
 Items.Q203_Epilogue_Pants,Legs,'v''s outfit','V''s Expensive Leggins',,Pants,,1
-Items.Q203_Epilogue_TShirt,Inner Torso,'v''s outfit','V''s Shirt',,Tshirt,,1
+Items.Q203_Epilogue_TShirt,Inner Torso,'v''s outfit','V''s Shirt',,TankTop,,1
 Items.Q203_Spacesuit_Helmet,Head,special,Spacesuit Helmet,,Helmet,,1
 Items.Q203_Spacesuit_Outfit_NoHelmet,Special,special,Spacesuit No Helmet,,Special,,1
 Items.Q203_Spacesuit_Outfit_WithHelmet,Special,special,Spacesuit With Helmet,,Special,,1
 Items.Q204_Epilogue_Boots,Feet,johnny [quest],'Johnny''s Boots ',,Boots,,1
 Items.Q204_Epilogue_Pants,Legs,johnny [quest],'Johnny''s Pants ',,Pants,,1
-Items.Q204_Epilogue_TShirt,Inner Torso,johnny [quest],'Johnny''s Shirt ',,Tshirt,,1
+Items.Q204_Epilogue_TShirt,Inner Torso,johnny [quest],'Johnny''s Shirt ',,Formal,Not Removable,1
 Items.Rockerboy_01_Set_Boots,Feet,rocker,Puncture-Resistant Rocker Platform Boots,,Boots,,1
 Items.Rockerboy_01_Set_Glasses,Face,rocker,Scratch-Resistant Polaryzed Rocker Aviators,,Glasses,,1
 Items.Rockerboy_01_Set_Jacket,Outer Torso,rocker,Reinforced Composite-Lined Rocker Foldtop,,Jacket,,1
 Items.Rockerboy_01_Set_Pants,Legs,rocker,Elastic Flame-Resistant Rocker Pants,,Shorts,,1
-Items.Rockerboy_01_Set_TShirt,Inner Torso,rocker,Armorweave Rocker Bra,,Tshirt,,1
+Items.Rockerboy_01_Set_TShirt,Inner Torso,rocker,Armorweave Rocker Bra,,Underwear,,1
 Items.SamuraiWorldTour_TShirt,Inner Torso, -,Samurai 2020 Tour T-Shirt,,Tshirt,,1
 Items.Scarf_01_basic_01,Head, -,Composite Military Bandana,,Scaft,,1
 Items.Scarf_01_basic_02,Head, -,Makeshift Rabenda Banana Bandana,,Scaft,,1
@@ -787,31 +787,31 @@ Items.Scarf_03_old_03,Head, -,Durable Modified Linen Hijab,,Scaft,,1
 Items.Scarf_03_rich_01,Head, -,Gray Area Anti-Tear Hijab,,Scaft,,1
 Items.Scarf_03_rich_02,Head, -,Wardat Zihira Aramid-Weave Hijab,,Scaft,,1
 Items.Scarf_03_rich_03,Head, -,Kinryu Deluxe Hijab With Protective Mesh,,Scaft,,1
-Items.Shirt_01_basic_01,Inner Torso, -,Braindance Blue Trilayer Long-Sleeve,,Shirt,,1
-Items.Shirt_01_basic_02,Inner Torso, -,Psycho Flexiweave Long-Sleeve,,Shirt,,1
-Items.Shirt_01_old_01,Inner Torso, -,Cotton Long-Sleeve,,Shirt,,1
-Items.Shirt_01_old_02,Inner Torso, -,Long-Sleeve With Composite Lining,,Shirt,,1
-Items.Shirt_01_rich_01,Inner Torso, -,Stylish Crystal Midnight Carbon-Fiber Long-Sleeve,,Shirt,,1
-Items.Shirt_01_rich_02,Inner Torso, -,Geisha Samurai Nanoweave Long-Sleeve,,Shirt,,1
-Items.Shirt_02_basic_01,Inner Torso, -,Sporty Darra-Polytechnic Flexi-Weave Turtleneck,,Shirt,,1
-Items.Shirt_02_basic_02,Inner Torso, -,Simple Biker Aramid-Weave Turtleneck,,Shirt,,1
-Items.Shirt_02_basic_03,Inner Torso, -,Arasaka Waterproof Compat Turtleneck,,Shirt,,1
-Items.Shirt_02_basic_04,Inner Torso, -,Samurai Combat Turtleneck,,Shirt,,1
-Items.Shirt_02_old_01,Inner Torso, -,Aramid-Weave Tactical Turtleneck,,Shirt,,1
-Items.Shirt_02_old_02,Inner Torso, -,Padded Tactical Turtleneck,,Shirt,,1
-Items.Shirt_02_old_03,Inner Torso, -,Elastic Microplated Sporty Turtleneck,,Shirt,,1
-Items.Shirt_02_rich_01,Inner Torso, -,Light Xx Punch! Heat-Resistant Biker Turtleneck,,Shirt,,1
-Items.Shirt_02_rich_02,Inner Torso, -,Sport-Flex At-Ak Thermoactive Turtleneck,,Shirt,,1
-Items.Shirt_02_rich_03,Inner Torso, -,Violet Nebula Anti-Tear Polyamide Turtleneck,,Shirt,,1
-Items.Shirt_03_basic_01,Inner Torso, -,Suichu Yogan Syn-Fiber Combat Shirt,,Shirt,,1
-Items.Shirt_03_basic_02,Inner Torso, -,Composite Geisha Combat Shirt,,Shirt,,1
-Items.Shirt_03_basic_03,Inner Torso, -,Padded Syn-Fiber Combat Shirt,,Shirt,,1
-Items.Shirt_03_old_01,Inner Torso, -,Old Flazh Combat Shirt,,Shirt,,1
-Items.Shirt_03_old_02,Inner Torso, -,Frayed Scav Combat Shirt,,Shirt,,1
-Items.Shirt_03_old_03,Inner Torso, -,Worn Maelstrom Jacket,,Shirt,,1
-Items.Shirt_03_rich_01,Inner Torso, -,Boulet Torquoise Combat Shirt With Protective Lining,,Shirt,,1
-Items.Shirt_03_rich_02,Inner Torso, -,Atomic Blast Composite Armor-Weave Combat Shirt,,Shirt,,1
-Items.Shirt_03_rich_03,Inner Torso, -,Decadencia Verde Heavy Plate-Weave Combat Shirt,,Shirt,,1
+Items.Shirt_01_basic_01,Inner Torso, -,Braindance Blue Trilayer Long-Sleeve,,LongSleeve,,1
+Items.Shirt_01_basic_02,Inner Torso, -,Psycho Flexiweave Long-Sleeve,,LongSleeve,,1
+Items.Shirt_01_old_01,Inner Torso, -,Cotton Long-Sleeve,,LongSleeve,,1
+Items.Shirt_01_old_02,Inner Torso, -,Long-Sleeve With Composite Lining,,LongSleeve,,1
+Items.Shirt_01_rich_01,Inner Torso, -,Stylish Crystal Midnight Carbon-Fiber Long-Sleeve,,LongSleeve,,1
+Items.Shirt_01_rich_02,Inner Torso, -,Geisha Samurai Nanoweave Long-Sleeve,,LongSleeve,,1
+Items.Shirt_02_basic_01,Inner Torso, -,Sporty Darra-Polytechnic Flexi-Weave Turtleneck,,LongSleeve,,1
+Items.Shirt_02_basic_02,Inner Torso, -,Simple Biker Aramid-Weave Turtleneck,,LongSleeve,,1
+Items.Shirt_02_basic_03,Inner Torso, -,Arasaka Waterproof Compat Turtleneck,,LongSleeve,,1
+Items.Shirt_02_basic_04,Inner Torso, -,Samurai Combat Turtleneck,,LongSleeve,,1
+Items.Shirt_02_old_01,Inner Torso, -,Aramid-Weave Tactical Turtleneck,,LongSleeve,,1
+Items.Shirt_02_old_02,Inner Torso, -,Padded Tactical Turtleneck,,LongSleeve,,1
+Items.Shirt_02_old_03,Inner Torso, -,Elastic Microplated Sporty Turtleneck,,LongSleeve,,1
+Items.Shirt_02_rich_01,Inner Torso, -,Light Xx Punch! Heat-Resistant Biker Turtleneck,,LongSleeve,,1
+Items.Shirt_02_rich_02,Inner Torso, -,Sport-Flex At-Ak Thermoactive Turtleneck,,LongSleeve,,1
+Items.Shirt_02_rich_03,Inner Torso, -,Violet Nebula Anti-Tear Polyamide Turtleneck,,LongSleeve,,1
+Items.Shirt_03_basic_01,Inner Torso, -,Suichu Yogan Syn-Fiber Combat Shirt,,LongSleeve,,1
+Items.Shirt_03_basic_02,Inner Torso, -,Composite Geisha Combat Shirt,,LongSleeve,,1
+Items.Shirt_03_basic_03,Inner Torso, -,Padded Syn-Fiber Combat Shirt,,LongSleeve,,1
+Items.Shirt_03_old_01,Inner Torso, -,Old Flazh Combat Shirt,,LongSleeve,,1
+Items.Shirt_03_old_02,Inner Torso, -,Frayed Scav Combat Shirt,,LongSleeve,,1
+Items.Shirt_03_old_03,Inner Torso, -,Worn Maelstrom Jacket,,LongSleeve,,1
+Items.Shirt_03_rich_01,Inner Torso, -,Boulet Torquoise Combat Shirt With Protective Lining,,LongSleeve,,1
+Items.Shirt_03_rich_02,Inner Torso, -,Atomic Blast Composite Armor-Weave Combat Shirt,,LongSleeve,,1
+Items.Shirt_03_rich_03,Inner Torso, -,Decadencia Verde Heavy Plate-Weave Combat Shirt,,LongSleeve,,1
 Items.Shorts_01_basic_01,Legs, -,Classic Aramid-Weave Denim Shorts,,Shorts,,1
 Items.Shorts_01_old_01,Legs, -,Composite-Coated Cut-Off Shorts,,Shorts,,1
 Items.Shorts_01_old_02,Legs, -,Anti-Puncture Cut-Off Shorts,,Shorts,,1
@@ -840,16 +840,16 @@ Items.Shorts_05_old_05,Legs, -,Comfy Nomad Shorts,,Shorts,,1
 Items.Solo_01_Set_Boots,Feet,solo,Gold-Tipped Manganese Steel Solo Boots,,Boots,,1
 Items.Solo_01_Set_Jacket,Outer Torso,solo,Heavy Shock-Absorbent Solo Jacket,,Jacket,,1
 Items.Solo_01_Set_Pants,Legs,solo,Armor-Plated Synleather Solo Pants,,Pants,,1
-Items.Solo_01_Set_TShirt,Inner Torso,solo,Ultrathin Composite-Print Solo Shirt,,Tshirt,,1
+Items.Solo_01_Set_TShirt,Inner Torso,solo,Ultrathin Composite-Print Solo Shirt,,Special,,1
 Items.Solo_01_Set_Visor,Face,solo,Titanium Solo Techgogs With Tactical Software,,Visor,,1
 Items.SQ004_RaffenShiv_Mask,Face, -,Wraiths Gas Mask,,Mask,,1
 Items.SQ021_Lab_Costume,Special,special,Kang Tao Lab Suit,,Special,,1
-Items.SQ021_Wraiths_Vest,Outer Torso, -,Bad Motherfucker Vest,,Vest,,1
+Items.SQ021_Wraiths_Vest,Outer Torso, -,Bad Motherfucker Vest,,Vest,,0
 Items.SQ023_Joshua_Prisonwear,Special,special,'Joshua''s Prison Uniform',,Special,,1
 Items.SQ023_Switchblade_Pants,Legs, -,4th Wall Acting Pants,,Pants,,0
-Items.SQ023_Switchblade_Shirt,Inner Torso, -,4th Wall Acting Shirt,,Shirt,,1
+Items.SQ023_Switchblade_Shirt,Inner Torso, -,4th Wall Acting Shirt,,Shirt,Broken,0
 Items.SQ029_Police_Suit,Special,special,Police Uniform,,Special,,1
-Items.SQ029_River_Romance_Shirt,Inner Torso, -,'River''s Tank Top',,Shirt,,1
+Items.SQ029_River_Romance_Shirt,Inner Torso, -,'River''s Tank Top',,TankTop,,1
 Items.SQ030_Diving_Suit,Special,special,Neoprene Diving Suit With Flippers (From Judy) Not Removable,,Special,,1
 Items.sq030_diving_suit_female,Special, -,'Women''s Diving Suit - Broken',,Special,Broken,0
 Items.sq030_diving_suit_male,Special, -,'Men''s Diving Suit - Broken',,Special,Broken,0
@@ -875,7 +875,7 @@ Items.Techie_01_Set_Cap,Head,techie,Cushioned Techie Baseball Cap,,Cap,,1
 Items.Techie_01_Set_Pants,Legs,techie,Reinforced Duolayer Techie Cargo Pants,,Pants,,1
 Items.Techie_01_Set_Shoes,Feet,techie,Cushioned Aramid-Sole Techie Shoes,,Shoes,,1
 Items.Techie_01_Set_Tech,Face,techie,Laminated Ice-Protected Techie Ocuset,,Tech,,1
-Items.Techie_01_Set_TShirt,Inner Torso,techie,Thermoactive Tear-Resistant Techie Shirt,,Tshirt,,1
+Items.Techie_01_Set_TShirt,Inner Torso,techie,Thermoactive Tear-Resistant Techie Shirt,,TankTop,,1
 Items.Techie_01_Set_Vest,Outer Torso,techie,Polycarbonate Nanoweave Techie Harness,,Vest,,1
 Items.TightJumpsuit_01_basic_01,Inner Torso, -,Military-Grade Aramid Netrunning Suit,,Jumpsuit,,1
 Items.TightJumpsuit_01_basic_02,Inner Torso, -,Light Elastomer Netrunning Suit,,Jumpsuit,,1
@@ -883,15 +883,15 @@ Items.TightJumpsuit_01_old_01,Inner Torso, -,Worn Netrunning Suit,,Jumpsuit,,1
 Items.TightJumpsuit_01_old_02,Inner Torso, -,Old Netrunning Suit,,Jumpsuit,,1
 Items.TightJumpsuit_01_rich_01,Inner Torso, -,Composite Arasaka Netrunning Nanoweave Suit,,Jumpsuit,,1
 Items.TightJumpsuit_01_rich_02,Inner Torso, -,Red Alert Anti-Surge Netrunning Suit,,Jumpsuit,,1
-Items.TShirt_01_basic_01,Inner Torso, -,Basic Tank Top,,Tshirt,,1
-Items.TShirt_01_basic_02,Inner Torso, -,Melting Hottie Tank Top,,Tshirt,,1
-Items.TShirt_01_basic_03,Inner Torso, -,Purple Dragon Aramid-Weave Tank Top,,Tshirt,,1
-Items.TShirt_01_old_01,Inner Torso, -,Anti-Chem Synfabric Tank Top,,Tshirt,,1
-Items.TShirt_01_old_02,Inner Torso, -,Punk Tank Top,,Tshirt,,1
-Items.TShirt_01_old_03,Inner Torso, -,Once We Were Boosted Tank Top,,Tshirt,,1
-Items.TShirt_01_rich_01,Inner Torso, -,Ultralight Geisha Dream Polyamide Tank Top,,Tshirt,,1
-Items.TShirt_01_rich_02,Inner Torso, -,Daemon Hunter Resistance-Coated Tank Top,,Tshirt,,1
-Items.TShirt_01_rich_03,Inner Torso, -,Sankaku Nichibotsu Tarp-Weave Tank Top,,Tshirt,,1
+Items.TShirt_01_basic_01,Inner Torso, -,Basic Tank Top,,TankTop,,1
+Items.TShirt_01_basic_02,Inner Torso, -,Melting Hottie Tank Top,,TankTop,,1
+Items.TShirt_01_basic_03,Inner Torso, -,Purple Dragon Aramid-Weave Tank Top,,TankTop,,1
+Items.TShirt_01_old_01,Inner Torso, -,Anti-Chem Synfabric Tank Top,,TankTop,,1
+Items.TShirt_01_old_02,Inner Torso, -,Punk Tank Top,,TankTop,,1
+Items.TShirt_01_old_03,Inner Torso, -,Once We Were Boosted Tank Top,,TankTop,,1
+Items.TShirt_01_rich_01,Inner Torso, -,Ultralight Geisha Dream Polyamide Tank Top,,TankTop,,1
+Items.TShirt_01_rich_02,Inner Torso, -,Daemon Hunter Resistance-Coated Tank Top,,TankTop,,1
+Items.TShirt_01_rich_03,Inner Torso, -,Sankaku Nichibotsu Tarp-Weave Tank Top,,TankTop,,1
 Items.TShirt_02_basic_01,Inner Torso, -,Utilitarian Burn Corpo Shit T-Shirt,,Tshirt,,1
 Items.TShirt_02_basic_02,Inner Torso, -,Ultimate Punch Sturdimesh T-Shirt,,Tshirt,,1
 Items.TShirt_02_basic_03,Inner Torso, -,Ded-Zed Hybridweave T-Shirt,,Tshirt,,1
@@ -905,15 +905,15 @@ Items.TShirt_02_rich_01,Inner Torso, -,Psycho Impact-Absorbent Nanoweave T-Shirt
 Items.TShirt_02_rich_02,Inner Torso, -,Stylish Big Fish Steel-Sequined T-Shirt,,Tshirt,,1
 Items.TShirt_02_rich_03,Inner Torso, -,Composite-Coated Bitch V.13 T-Shirt,,Tshirt,,1
 Items.TShirt_02_rich_04,Inner Torso, -,Yoru No Samurai Gmo-Cotton T-Shirt,,Tshirt,,1
-Items.TShirt_03_basic_01,Inner Torso, -,Extra-Sturdy Deadly Lagoon Tank Top,,Tshirt,,1
-Items.TShirt_03_basic_02,Inner Torso, -,Extra-Durable Stripped Tank Top,,Tshirt,,1
-Items.TShirt_03_basic_03,Inner Torso, -,Canine Power Duolayer Tank Top,,Tshirt,,1
-Items.TShirt_03_old_01,Inner Torso, -,Spotted Tank Top,,Tshirt,,1
-Items.TShirt_03_old_02,Inner Torso, -,Worn Tamashi Tank Top,,Tshirt,,1
-Items.TShirt_03_old_03,Inner Torso, -,Mox Ultralight Tank Top With Micromesh Layer,,Tshirt,,1
-Items.TShirt_03_rich_01,Inner Torso, -,Neokitsch Palm Bay Heat-Resistant Tank Top,,Tshirt,,1
-Items.TShirt_03_rich_02,Inner Torso, -,Santa Muerte Heat-Resitant Tank Top,,Tshirt,,1
-Items.TShirt_03_rich_03,Inner Torso, -,Ultralight Tested On Animals Polyamide Tank Top,,Tshirt,,1
+Items.TShirt_03_basic_01,Inner Torso, -,Extra-Sturdy Deadly Lagoon Tank Top,,TankTop,,1
+Items.TShirt_03_basic_02,Inner Torso, -,Extra-Durable Stripped Tank Top,,TankTop,,1
+Items.TShirt_03_basic_03,Inner Torso, -,Canine Power Duolayer Tank Top,,TankTop,,1
+Items.TShirt_03_old_01,Inner Torso, -,Spotted Tank Top,,TankTop,,1
+Items.TShirt_03_old_02,Inner Torso, -,Worn Tamashi Tank Top,,TankTop,,1
+Items.TShirt_03_old_03,Inner Torso, -,Mox Ultralight Tank Top With Micromesh Layer,,TankTop,,1
+Items.TShirt_03_rich_01,Inner Torso, -,Neokitsch Palm Bay Heat-Resistant Tank Top,,TankTop,,1
+Items.TShirt_03_rich_02,Inner Torso, -,Santa Muerte Heat-Resitant Tank Top,,TankTop,,1
+Items.TShirt_03_rich_03,Inner Torso, -,Ultralight Tested On Animals Polyamide Tank Top,,TankTop,,1
 Items.TShirt_04_old_01,Inner Torso, -,High-Tensile Cutout Tank,,Tshirt,,1
 Items.TShirt_04_old_02,Inner Torso, -,Frayed Nanoweave Cutout Tank,,Tshirt,,1
 Items.TShirt_04_old_03,Inner Torso, -,Bloody Piggy Duoweave Cutout Tank,,Tshirt,,1
@@ -926,44 +926,44 @@ Items.TShirt_05_old_03,Inner Torso, -,Torn Polyamide-Blend Camo T-Shirt,,Tshirt,
 Items.TShirt_05_old_04,Inner Torso, -,Torn Syn-Blend T-Shirt,,Tshirt,,1
 Items.TShirt_05_old_05,Inner Torso, -,Torn Sturdimesh T-Shirt,,Tshirt,,1
 Items.TShirt_05_old_06,Inner Torso, -,Sturdi-Weave Bitch V.13 T-Shirt,,Tshirt,,1
-Items.TShirt_06_basic_01,Inner Torso, -,Nippon Composite-Coated Muscle Tank,,Tshirt,,1
-Items.TShirt_06_basic_02,Inner Torso, -,Bermuda Triangle Protective-Mesh Muscle Tank,,Tshirt,,1
-Items.TShirt_06_old_01,Inner Torso, -,Bloody Piggy Triweave Muscle Tank,,Tshirt,,1
-Items.TShirt_06_old_02,Inner Torso, -,Old Emerald Speed Muscle Tank,,Tshirt,,1
-Items.TShirt_06_rich_01,Inner Torso, -,Purple Dragon Neokitsch Muscle Tank With Tungsten Sequins,,Tshirt,,1
-Items.TShirt_06_rich_02,Inner Torso, -,X Nanotube-Weave Muscle Tank,,Tshirt,,1
-Items.TShirt_07_basic_01,Inner Torso, -,Gray Decay Synfabric Racerback Tank,,Tshirt,,1
-Items.TShirt_07_basic_02,Inner Torso, -,Night City Sturdimesh Racerback Tank,,Tshirt,,1
-Items.TShirt_07_old_01,Inner Torso, -,Tacti-Fiber Racerback Tank ,,Tshirt,,1
-Items.TShirt_07_old_02,Inner Torso, -,Yoru No Samurai Composite Racerback Tank,,Tshirt,,1
-Items.TShirt_07_rich_01,Inner Torso, -,Psycho Puncture-Resistant Racerback Tank,,Tshirt,,1
-Items.TShirt_07_rich_02,Inner Torso, -,Santa Muerte Neokitsch Aramid-Weave Racerback Tank,,Tshirt,,1
-Items.TShirt_08_basic_01,Inner Torso, -,Knotted Armor Weave Tank,,Tshirt,,1
-Items.TShirt_08_basic_02,Inner Torso, -,Extra-Reinforced Knotted Tank,,Tshirt,,1
-Items.TShirt_08_old_01,Inner Torso, -,Faded Uniware Knotted Tank,,Tshirt,,1
-Items.TShirt_08_old_02,Inner Torso, -,Secondhand Knotted Tank,,Tshirt,,1
-Items.TShirt_08_rich_01,Inner Torso, -,Amethyst Punk Easy-Breathe Knotted Tank,,Tshirt,,1
-Items.TShirt_08_rich_02,Inner Torso, -,Neokitsch Blooming Amber Resistance-Coated Tank,,Tshirt,,1
-Items.TShirt_09_basic_01,Inner Torso, -,Ripped Tactical Camo Crop Top,,Tshirt,,1
-Items.TShirt_09_basic_02,Inner Torso, -,Tattered Plaid Crop Top,,Tshirt,,1
-Items.TShirt_09_old_01,Inner Torso, -,Ripped Tamashi Polyamide Tank Top,,Tshirt,,1
-Items.TShirt_09_old_02,Inner Torso, -,Torn Reinforced Tank Top,,Tshirt,,1
-Items.TShirt_10_basic_01,Inner Torso, -,Fuck You Durable-Weave Tank Top,,Tshirt,,1
-Items.TShirt_10_old_01,Inner Torso, -,Heat-Resistant Reinforced Nu-Tek Tight Tank,,Tshirt,,1
-Items.TShirt_10_rich_01,Inner Torso, -,'Saeko''s Protective Layer Tight Tank',,Tshirt,,1
-Items.TShirt_11_basic_01,Inner Torso, -,Reinforced-Seam Sporty Tank Top,,Tshirt,,1
-Items.TShirt_11_old_01,Inner Torso, -,Punk Duolayer Tank Top,,Tshirt,,1
-Items.TShirt_11_rich_01,Inner Torso, -,Adamant Army Reinforced Tactical Tank Top,,Tshirt,,1
-Items.Undershirt_02_basic_01,Inner Torso, -,Reinforced Spotted Bra,,Undershirt,,1
-Items.Undershirt_02_basic_02,Inner Torso, -,Flexi-Membrane Leather Bra,,Undershirt,,1
-Items.Undershirt_02_rich_01,Inner Torso, -,Ultralight Amande Rose Anti-Puncture Bra,,Undershirt,,1
-Items.Undershirt_02_rich_02,Inner Torso, -,Padded Denki Hachi Hybrid-Weave Bra,,Undershirt,,1
-Items.Undershirt_03_basic_01,Inner Torso, -,Simple Duolayer Bustier,,Undershirt,,1
-Items.Undershirt_03_basic_02,Inner Torso, -,Bara Kaika Syn-Leather Bustier,,Undershirt,,1
-Items.Undershirt_03_basic_03,Inner Torso, -,Stylish Atomic Blast Composite Bustier,,Undershirt,,1
-Items.Undershirt_03_basic_04,Inner Torso, -,Spotted Flexi-Membrane Bustier,,Undershirt,,1
-Items.Undershirt_03_rich_01,Inner Torso, -,Ultralight Jasmin Doucet Syn-Cotton Bustier,,Undershirt,,1
-Items.Undershirt_03_rich_02,Inner Torso, -,Reine De Abeilles Bustier With Bulletproof Lining,,Undershirt,,1
+Items.TShirt_06_basic_01,Inner Torso, -,Nippon Composite-Coated Muscle Tank,,TankTop,,1
+Items.TShirt_06_basic_02,Inner Torso, -,Bermuda Triangle Protective-Mesh Muscle Tank,,TankTop,,1
+Items.TShirt_06_old_01,Inner Torso, -,Bloody Piggy Triweave Muscle Tank,,TankTop,,1
+Items.TShirt_06_old_02,Inner Torso, -,Old Emerald Speed Muscle Tank,,TankTop,,1
+Items.TShirt_06_rich_01,Inner Torso, -,Purple Dragon Neokitsch Muscle Tank With Tungsten Sequins,,TankTop,,1
+Items.TShirt_06_rich_02,Inner Torso, -,X Nanotube-Weave Muscle Tank,,TankTop,,1
+Items.TShirt_07_basic_01,Inner Torso, -,Gray Decay Synfabric Racerback Tank,,TankTop,,1
+Items.TShirt_07_basic_02,Inner Torso, -,Night City Sturdimesh Racerback Tank,,TankTop,,1
+Items.TShirt_07_old_01,Inner Torso, -,Tacti-Fiber Racerback Tank ,,TankTop,,1
+Items.TShirt_07_old_02,Inner Torso, -,Yoru No Samurai Composite Racerback Tank,,TankTop,,1
+Items.TShirt_07_rich_01,Inner Torso, -,Psycho Puncture-Resistant Racerback Tank,,TankTop,,1
+Items.TShirt_07_rich_02,Inner Torso, -,Santa Muerte Neokitsch Aramid-Weave Racerback Tank,,TankTop,,1
+Items.TShirt_08_basic_01,Inner Torso, -,Knotted Armor Weave Tank,,TankTop,,1
+Items.TShirt_08_basic_02,Inner Torso, -,Extra-Reinforced Knotted Tank,,TankTop,,1
+Items.TShirt_08_old_01,Inner Torso, -,Faded Uniware Knotted Tank,,TankTop,,1
+Items.TShirt_08_old_02,Inner Torso, -,Secondhand Knotted Tank,,TankTop,,1
+Items.TShirt_08_rich_01,Inner Torso, -,Amethyst Punk Easy-Breathe Knotted Tank,,TankTop,,1
+Items.TShirt_08_rich_02,Inner Torso, -,Neokitsch Blooming Amber Resistance-Coated Tank,,TankTop,,1
+Items.TShirt_09_basic_01,Inner Torso, -,Ripped Tactical Camo Crop Top,,TankTop,,1
+Items.TShirt_09_basic_02,Inner Torso, -,Tattered Plaid Crop Top,,TankTop,,1
+Items.TShirt_09_old_01,Inner Torso, -,Ripped Tamashi Polyamide Tank Top,,TankTop,,1
+Items.TShirt_09_old_02,Inner Torso, -,Torn Reinforced Tank Top,,TankTop,,1
+Items.TShirt_10_basic_01,Inner Torso, -,Fuck You Durable-Weave Tank Top,,TankTop,,1
+Items.TShirt_10_old_01,Inner Torso, -,Heat-Resistant Reinforced Nu-Tek Tight Tank,,TankTop,,1
+Items.TShirt_10_rich_01,Inner Torso, -,'Saeko''s Protective Layer Tight Tank',,TankTop,,1
+Items.TShirt_11_basic_01,Inner Torso, -,Reinforced-Seam Sporty Tank Top,,TankTop,,1
+Items.TShirt_11_old_01,Inner Torso, -,Punk Duolayer Tank Top,,TankTop,,1
+Items.TShirt_11_rich_01,Inner Torso, -,Adamant Army Reinforced Tactical Tank Top,,TankTop,,1
+Items.Undershirt_02_basic_01,Inner Torso, -,Reinforced Spotted Bra,,Underwear,,1
+Items.Undershirt_02_basic_02,Inner Torso, -,Flexi-Membrane Leather Bra,,Underwear,,1
+Items.Undershirt_02_rich_01,Inner Torso, -,Ultralight Amande Rose Anti-Puncture Bra,,Underwear,,1
+Items.Undershirt_02_rich_02,Inner Torso, -,Padded Denki Hachi Hybrid-Weave Bra,,Underwear,,1
+Items.Undershirt_03_basic_01,Inner Torso, -,Simple Duolayer Bustier,,Underwear,,1
+Items.Undershirt_03_basic_02,Inner Torso, -,Bara Kaika Syn-Leather Bustier,,Underwear,,1
+Items.Undershirt_03_basic_03,Inner Torso, -,Stylish Atomic Blast Composite Bustier,,Underwear,,1
+Items.Undershirt_03_basic_04,Inner Torso, -,Spotted Flexi-Membrane Bustier,,Underwear,,1
+Items.Undershirt_03_rich_01,Inner Torso, -,Ultralight Jasmin Doucet Syn-Cotton Bustier,,Underwear,,1
+Items.Undershirt_03_rich_02,Inner Torso, -,Reine De Abeilles Bustier With Bulletproof Lining,,Underwear,,1
 Items.Vest_01_basic_01,Outer Torso, -,Border Guard Multilayer Aramid Vest,,Vest,,1
 Items.Vest_01_basic_02,Outer Torso, -,Arasaka Polycarbonate-Laced Bulletproof Aramid Vest,,Vest,,1
 Items.Vest_01_old_01,Outer Torso, -,Shabby 6th Street Aramid Vest,,Vest,,1
